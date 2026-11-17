@@ -1,0 +1,299 @@
+# Source: installed CN324 fxdynmapinfo.ssd. Exact resource matches plus same-family virtual headers.
+Bula	宝藏
+Bula00	宝藏00
+Bula01	宝藏01
+Bula02	宝藏02
+Bula03	宝藏03
+Bula04	宝藏04
+Bula05	宝藏05
+Bula15	宝藏15
+Bula16	宝藏16
+Bula21	宝藏21
+Bula22	宝藏22
+Camp01	坦克01
+Camp02	坦克02
+Camp07	坦克07
+Camp08	坦克08
+Camp13	坦克13
+Camp14	坦克14
+Camp15	情比金坚
+CampRandom	坦克
+Cemetery	墓地
+Cemetery01	墓地01
+Cemetery02	墓地02
+Cemetery03	墓地03
+Cemetery04	墓地04
+Cemetery05	墓地05
+Cemetery19	墓地19
+Cemetery20	墓地20
+Cookie01	草莓蛋糕
+Cookie02	饼干蛋糕
+Cookie03	可可蛋糕
+Cookie04	曲奇蛋糕
+Cookie05	甜圈蛋糕
+CookieRandom	糖果
+Desert	沙漠
+Desert00	沙漠00
+Desert01	沙漠01
+Desert02	沙漠02
+Desert04	沙漠04
+Desert05	沙漠05
+Desert07	沙漠07
+Desert14	沙漠14
+Factory	工厂
+Factory00	工厂00
+Factory01	工厂01
+Factory02	工厂02
+Factory07	工厂07
+Factory11	工厂11
+Factory22	工厂22
+Factory23	工厂23
+Forest	森林
+Forest00	森林00
+Forest02	森林02
+Forest03	森林03
+Forest07	森林07
+Forest12	森林12
+Forest18	森林18
+HotRandom	热门地图
+Ice	冰川
+Ice00	冰川00
+Ice01	冰川01
+Ice06	冰川06
+Ice09	冰川09
+Ice14	冰川14
+MonPen01	帝企鹅 01-1
+MonPen02	帝企鹅 01-2
+MonPen03	帝企鹅 01-3
+MonPen04	帝企鹅 02-1
+MonPen05	帝企鹅 02-2
+MonPen06	帝企鹅 02-3
+MonPen07	帝企鹅 03-1
+MonPen08	帝企鹅 03-2
+MonPen09	帝企鹅 03-3
+MonPen10	帝企鹅 04-1
+MonPen11	帝企鹅 04-2
+MonPen12	帝企鹅 04-3
+MonPen13	帝企鹅 05-1
+MonPen14	帝企鹅 05-2
+MonPen15	帝企鹅 05-3
+MonPen16	帝企鹅 06-1
+MonPen17	帝企鹅 06-2
+MonPen18	帝企鹅 06-3
+MonPen19	帝企鹅 07-1
+MonPen20	帝企鹅 07-2
+MonPen21	帝企鹅 07-3
+MonPen22	帝企鹅 08-1
+MonPen23	帝企鹅 08-2
+MonPen24	帝企鹅 08-3
+MonPen25	帝企鹅 09-1
+MonPen26	帝企鹅 09-2
+MonPen27	帝企鹅 09-3
+MonPen28	帝企鹅 10-1
+MonPen29	帝企鹅 10-2
+MonPen30	帝企鹅 10-3
+MonPenRandom	帝企鹅
+MonRobot01	机械帝国 01-1
+MonRobot02	机械帝国 01-2
+MonRobot03	机械帝国 01-3
+MonRobot04	机械帝国 02-1
+MonRobot05	机械帝国 02-2
+MonRobot06	机械帝国 02-3
+MonRobot07	机械帝国 03-1
+MonRobot08	机械帝国 03-2
+MonRobot09	机械帝国 03-3
+MonRobot10	机械帝国 04-1
+MonRobot11	机械帝国 04-2
+MonRobot12	机械帝国 04-3
+MonRobotRandom	机械帝国
+MonSeal01	海皇 01-1
+MonSeal02	海皇 01-2
+MonSeal03	海皇 01-3
+MonSeal04	海皇 02-1
+MonSeal05	海皇 02-2
+MonSeal06	海皇 02-3
+MonSeal07	海皇 03-1
+MonSeal08	海皇 03-2
+MonSeal09	海皇 03-3
+MonSeal10	海皇 04-1
+MonSeal11	海皇 04-2
+MonSeal12	海皇 04-3
+MonSeal13	海皇 05-1
+MonSeal14	海皇 05-2
+MonSeal15	海皇 05-3
+MonSeal16	海皇 06-1
+MonSeal17	海皇 06-2
+MonSeal18	海皇 06-3
+MonSeal19	海皇 07-1
+MonSeal20	海皇 07-2
+MonSeal21	海皇 07-3
+MonSeal22	海皇 08-1
+MonSeal23	海皇 08-2
+MonSeal24	海皇 08-3
+MonSeal25	海皇 09-1
+MonSeal26	海皇 09-2
+MonSeal27	海皇 09-3
+MonSealRandom	海皇
+MonTurtle01	神秘海域 01-1
+MonTurtle02	神秘海域 01-2
+MonTurtle03	神秘海域 01-3
+MonTurtle04	神秘海域 02-1
+MonTurtle05	神秘海域 02-2
+MonTurtle06	神秘海域 02-3
+MonTurtle07	神秘海域 03-1
+MonTurtle08	神秘海域 03-2
+MonTurtle09	神秘海域 03-3
+MonTurtle10	神秘海域 04-1
+MonTurtle11	神秘海域 04-2
+MonTurtle12	神秘海域 04-3
+MonTurtle13	神秘海域 05-1
+MonTurtle14	神秘海域 05-2
+MonTurtle15	神秘海域 05-3
+MonTurtle16	神秘海域 06-1
+MonTurtle17	神秘海域 06-2
+MonTurtle18	神秘海域 06-3
+MonTurtle19	神秘海域 07-1
+MonTurtle20	神秘海域 07-2
+MonTurtle21	神秘海域 07-3
+MonTurtle22	神秘海域 08-1
+MonTurtle23	神秘海域 08-2
+MonTurtle24	神秘海域 08-3
+MonTurtleRandom	王者龟来
+Monster01	章鱼岛 01-1
+Monster02	章鱼岛 01-2
+Monster03	章鱼岛 01-3
+Monster04	章鱼岛 02-1
+Monster05	章鱼岛 02-2
+Monster06	章鱼岛 02-3
+Monster13	章鱼岛 05-1
+Monster14	章鱼岛 05-2
+Monster15	章鱼岛 05-3
+Monster16	章鱼岛 06-1
+Monster17	章鱼岛 06-2
+Monster18	章鱼岛 06-3
+Monster25	章鱼岛 09-1
+Monster26	章鱼岛 09-2
+Monster27	章鱼岛 09-3
+Monster31	章鱼岛 11-1
+Monster32	章鱼岛 11-2
+Monster33	章鱼岛 11-3
+Monster34	章鱼岛 12-1
+Monster35	章鱼岛 12-2
+Monster36	章鱼岛 12-3
+Monster37	章鱼岛 13-1
+Monster38	章鱼岛 13-2
+Monster39	章鱼岛 13-3
+MonsterRandom	章鱼岛
+Ocean	大海
+Ocean00	大海00
+Ocean01	大海01
+Ocean02	海枯石烂
+Ocean04	大海04
+Ocean05	大海05
+Ocean08	大海08
+Ocean18	大海18
+Ocean22	大海22
+Ocean24	大海24
+PangLand	金银岛
+PangLand00	金银岛00
+PangLand01	金银岛01
+PangLand02	海誓山盟
+PangLand05	金银岛05
+PangLand06	金银岛06
+PangLand09	金银岛09
+PangLand10	金银岛10
+PangLand11	金银岛11
+PangLand15	金银岛15
+Pangland14	金银岛14
+Patrit	海盗
+Patrit00	海盗00
+Patrit01	海盗01
+Patrit04	海盗04
+Patrit14	海盗14
+Patrit17	海盗17
+Patrit18	海盗18
+RPG_01_00	神秘的庭院
+RPG_01_01	神秘的庭院
+RPG_02_00	章鱼船
+RPG_02_01	章鱼船
+RPG_03_00	冰川之地
+RPG_03_01	冰川之地
+RPG_03_02	冰川之地
+RPG_04_00	石怪栖息地
+RPG_04_01	石怪栖息地
+RPG_04_02	石怪栖息地
+RPG_04_03	石怪栖息地
+RPG_0501_00	炙热沙漠地
+RPG_0501_01	炙热沙漠地
+RPG_0501_02	炙热沙漠地
+RPG_0501_03	炙热沙漠地
+RPG_05_00	神秘的海盗船
+RPG_05_01	神秘的海盗船
+RPG_05_02	神秘的海盗船
+RPG_05_03	神秘的海盗船
+RPG_0601_00	古代森林
+RPG_0601_01	古代森林
+RPG_0601_02	古代森林
+RPG_0601_03	古代森林
+RPG_06_00	囚禁之狱
+RPG_06_01	囚禁之狱
+RPG_06_02	囚禁之狱
+RPG_06_03	囚禁之狱
+RPG_0701_00	沼泽训练所
+RPG_0701_01	沼泽训练所
+RPG_0701_02	沼泽训练所
+RPG_0701_03	沼泽训练所
+RPG_07_00	可疑的丛林
+RPG_07_01	可疑的丛林
+RPG_07_02	可疑的丛林
+RPG_07_03	可疑的丛林
+RPG_0801_00	高原隐蔽所
+RPG_0801_01	高原隐蔽所
+RPG_0801_02	高原隐蔽所
+RPG_0801_03	高原隐蔽所
+RPG_08_00	章鱼大反击
+RPG_08_01	章鱼大反击
+RPG_08_02	章鱼大反击
+RPG_08_03	章鱼大反击
+RPG_09_00	零度训练营
+RPG_09_01	零度训练营
+RPG_09_02	零度训练营
+RPG_09_03	零度训练营
+RPG_10_00	深渊墓地
+RPG_10_01	深渊墓地
+RPG_10_02	深渊墓地
+RPG_10_03	深渊墓地
+RPG_11_00	金属矿洞
+RPG_11_01	金属矿洞
+RPG_11_02	金属矿洞
+RPG_11_03	金属矿洞
+Rabbit	猎场
+Rabbit01	猎场01
+Rabbit02	猎场02
+Rabbit03	猎场03
+Rabbit04	猎场04
+Rabbit05	猎场05
+Rabbit06	猎场06
+Rabbit07	猎场07
+Rabbit08	猎场08
+Rabbit09	猎场09
+Rabbit10	猎场10
+Rabbit11	猎场11
+Random	随机
+Tomb12	地牢12
+Village	小区
+Village00	小区00
+Village01	小区01
+Village02	小区02
+Village03	小区03
+Village05	小区05
+Village10	小区10
+Village16	小区16
+Wriggle01	史莱姆01
+Wriggle02	史莱姆02
+Wriggle03	史莱姆03
+Wriggle04	史莱姆04
+Wriggle05	史莱姆05
+WriggleRandom	史莱姆随机
+forest21	森林21
+patrit19	海盗19

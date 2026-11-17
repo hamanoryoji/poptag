@@ -1,0 +1,16 @@
+﻿# Runtime and personal data
+server/target/
+server/data/
+client/
+runtime/
+logs/
+port-audit/
+*.pcap
+*.pcapng
+*.dmp
+*.log
+*.pid
+*.bak
+__pycache__/
+.idea/
+.vscode/

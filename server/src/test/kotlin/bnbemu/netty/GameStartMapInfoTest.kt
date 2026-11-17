@@ -1,0 +1,356 @@
+package bnbemu.netty
+
+import io.netty.buffer.Unpooled
+import org.junit.jupiter.api.Assertions.assertArrayEquals
+import org.junit.jupiter.api.Assertions.assertEquals
+import org.junit.jupiter.api.Assertions.assertTrue
+import org.junit.jupiter.api.Test
+import bnbemu.handler.room.StartGameReq
+import bnbemu.handler.room.loadMapIdTable
+import bnbemu.handler.room.mapIdTable
+import bnbemu.packet.room.GameStartMapInfo
+import bnbemu.server.Room
+import bnbemu.server.bomber
+import bnbemu.server.color
+import io.netty.channel.embedded.EmbeddedChannel
+import org.junit.jupiter.api.Assertions.assertNotNull
+import java.io.File
+
+class GameStartMapInfoTest {
+
+    @Test fun pvpAndLivePracticeLaunchPreserveTheSelectedPlayerColor() {
+        val old=Room.slots[0].color
+        try {
+            for(mode in listOf(0,15)) for(color in listOf(0,3,5,6)) {
+                Room.slots[0].color=color
+                val body=Unpooled.buffer()
+                try {
+                    GameStartMapInfo(gameOptions=mode,activeSlots=listOf(0),useSelectedColors=true).encode(SendPacketBase(body,3))
+                    body.Decode4;body.Decode2;body.DecodeCipherStr;body.Decode4
+                    body.Decode1;body.Decode1;assertEquals(1,body.Decode1)
+                    body.Decode1;body.Decode1;body.Decode1
+                    assertEquals(color,body.Decode1)
+                } finally { body.release() }
+            }
+        } finally { Room.slots[0].color=old }
+    }
+
+    @Test
+    fun testGameStartMapInfoOpcodeBinding() {
+        val sendOp = OpcodeManager.getSendOp(GameStartMapInfo()::class.java)
+        assertEquals(112, sendOp, "GameStartMapInfo send opcode must be 112")
+    }
+
+    @Test
+    fun testCipherStrRoundTripAndMatchesExpected() {
+        val str = "Cemetery04"
+        val buf = Unpooled.buffer()
+        val sendPkt = SendPacketBase(buf, 3)
+        sendPkt.EncodeCipherStr(str)
+
+        // Encode2(10) -> 0x000A ^ 0xA569 = 0xA563
+        val lenBytes = ByteArray(2)
+        buf.readBytes(lenBytes)
+        assertEquals(0xA5.toByte(), lenBytes[0])
+        assertEquals(0x63.toByte(), lenBytes[1])
+
+        // 10 字节加密字串: f3 a7 36 d6 ef b8 36 e1 91 59
+        val cipherBytes = ByteArray(10)
+        buf.readBytes(cipherBytes)
+        val expectedHex = "f3a736d6efb836e19159"
+        val actualHex = cipherBytes.joinToString("") { "%02x".format(it) }
+        assertEquals(expectedHex, actualHex, "Encoded cipher string bytes must match 0x75daf0 algorithm")
+
+        // 重新包装解码并断言还原明文
+        val fullBuf = Unpooled.buffer()
+        SendPacketBase(fullBuf, 3).EncodeCipherStr(str)
+        val decoded = fullBuf.DecodeCipherStr
+        assertEquals(str, decoded, "DecodeCipherStr must recover the original string")
+    }
+
+    @Test
+    fun testGameStartMapInfoMatchesCaptureBlob() {
+        val binFile = File("cap/practice_s2c_op112_167B_0.bin")
+        if (binFile.exists()) {
+            val fileBytes = binFile.readBytes()
+            val expectedBody = fileBytes.copyOfRange(2, fileBytes.size)
+
+            // 重置 slot 0 角色为默认 5
+            Room.slots[0].bomber = 5
+
+            val pkt = GameStartMapInfo()
+            val buf = Unpooled.buffer()
+            val sendPkt = SendPacketBase(buf, 3)
+            pkt.encode(sendPkt)
+
+            val actualBody = ByteArray(buf.readableBytes())
+            buf.readBytes(actualBody)
+
+            assertEquals(expectedBody.size, actualBody.size, "Payload size must match 165 bytes")
+            assertArrayEquals(expectedBody, actualBody, "GameStartMapInfo() must match capture blob byte-for-byte")
+        }
+    }
+
+    @Test
+    fun testGameStartMapInfoFieldsDecode() {
+        Room.slots[0].bomber = 5
+        val pkt = GameStartMapInfo(
+            randomSeed = 0x7E022E6B,
+            themeId = 29,
+            mapName = "Cemetery04",
+            mapId = 176,
+            gameOptions = 15,
+            flag = 0
+        )
+        val buf = Unpooled.buffer()
+        val sendPkt = SendPacketBase(buf, 3)
+        pkt.encode(sendPkt)
+
+        val seed = buf.Decode4
+        val theme = buf.Decode2
+        val name = buf.DecodeCipherStr
+        val mapId = buf.Decode4
+        val opt = buf.Decode1
+        val flag = buf.Decode1
+        val slotCount = buf.Decode1
+
+        assertEquals(0x7E022E6B, seed)
+        assertEquals(29, theme)
+        assertEquals("Cemetery04", name)
+        assertEquals(176, mapId)
+        assertEquals(15, opt)
+        assertEquals(0, flag)
+        assertEquals(8, slotCount)
+
+        val expectedSpawns = intArrayOf(2, 1, 6, 0, 3, 4, 5, 7)
+        for (i in 0 until slotCount) {
+            val idx = buf.Decode1
+            val spawn = buf.Decode1
+            val bomber = buf.Decode1
+            val team = buf.Decode1
+            val state = buf.Decode1
+            val p1 = buf.Decode4
+            val p2 = buf.Decode4
+            val p3 = buf.Decode4
+
+            assertEquals(i, idx)
+            assertEquals(expectedSpawns[i], spawn)
+            assertEquals(5, bomber)
+            assertEquals(if (i == 0) 0 else 8, team)
+            assertEquals(0, state)
+            assertEquals(0, p1)
+            assertEquals(0, p2)
+            assertEquals(0, p3)
+        }
+
+        val obsCount = buf.Decode1
+        val f1 = buf.Decode1
+        val f2 = buf.Decode1
+        val timeLimit = buf.Decode1
+
+        assertEquals(0, obsCount)
+        assertEquals(0, f1)
+        assertEquals(0, f2)
+        assertEquals(0, timeLimit)
+        assertEquals(0, buf.readableBytes(), "All bytes must be consumed")
+    }
+
+    @Test
+    fun testGameStartMapInfoDynamicBomber() {
+        // 当玩家更换角色为 2 时
+        Room.slots[0].bomber = 2
+
+        val pkt = GameStartMapInfo()
+        val buf = Unpooled.buffer()
+        val sendPkt = SendPacketBase(buf, 3)
+        pkt.encode(sendPkt)
+
+        buf.Decode4 // seed
+        buf.Decode2 // theme
+        buf.DecodeCipherStr // name
+        buf.Decode4 // mapId
+        buf.Decode1 // opt
+        buf.Decode1 // flag
+        buf.Decode1 // slotCount
+
+        val idx0 = buf.Decode1
+        val spawn0 = buf.Decode1
+        val bomber0 = buf.Decode1
+        assertEquals(0, idx0)
+        assertEquals(2, spawn0)
+        assertEquals(2, bomber0, "Slot 0 bomber must reflect Room.slots[0].bomber")
+
+        // 还原
+        Room.slots[0].bomber = 5
+    }
+
+    @Test
+    fun testLoadMapIdTable() {
+        val decoded = loadMapIdTable()
+        assertEquals(bnbemu.data.FxdynMapInfo.records.count { it.flag == 0 } + 75, decoded.size)
+        assertTrue(decoded.values.none { it.name.startsWith("MonGolem") },
+            "Map names without client resources must not be advertised")
+        assertEquals(28, decoded.values.count { it.name.startsWith("MonSeal") })
+        assertEquals(25, decoded.values.count { it.name.startsWith("MonTurtle") })
+        assertEquals(19, decoded.values.count { it.name.startsWith("MonRobot") })
+        assertEquals("HotRandom", decoded[0]?.name)
+        assertEquals("CampRandom", decoded[66]?.name)
+        assertEquals("Patrit14", decoded[145]?.name)
+        assertEquals("Cemetery", decoded[172]?.name)
+        assertEquals("Cemetery03", decoded[175]?.name)
+        assertEquals("Cemetery04", decoded[176]?.name)
+        assertEquals(28, decoded[175]?.themeId)
+        assertEquals(29, decoded[176]?.themeId)
+        assertEquals("Cemetery03", mapIdTable[175]?.name)
+        assertEquals("Cemetery04", mapIdTable[176]?.name)
+        assertEquals(null, decoded[999]?.name, "越界 mapId 不应命中")
+    }
+
+    @Test
+    fun testStartGameReqDynamicMapName() {
+        val ch = EmbeddedChannel()
+        val client = ClientSocket()
+        ch.pipeline().addLast(client)
+
+        // 构造 StartGameReq 载荷 (mapId=176, themeId=29, subType=0, roomSelectedMapId=176, isCustomMap=0, fileCheckType=1, eventParam=0)
+        val buf = Unpooled.buffer()
+        val sendPkt = SendPacketBase(buf, 3)
+        sendPkt.Encode4(176)
+        sendPkt.Encode2(29)
+        sendPkt.Encode1(0)
+        sendPkt.Encode4(176)
+        sendPkt.Encode1(0)
+        sendPkt.Encode1(1) // fileCheckType = 1 (无需 CRC)
+        sendPkt.Encode4(0) // eventParam
+
+        with(StartGameReq) {
+            buf.handle(client)
+        }
+
+        // 伺服器回覆序列: PracticeAiLevel, GameStartMapInfo, PracticeStartInfo, PracticeBoard
+        val pkt1 = ch.readOutbound<PKT>() // PracticeAiLevel
+        val pkt2 = ch.readOutbound<PKT>() // GameStartMapInfo
+        val pkt3 = ch.readOutbound<PKT>() // PracticeStartInfo
+        val pkt4 = ch.readOutbound<PKT>() // PracticeBoard
+
+        assertNotNull(pkt2)
+        val encBuf = Unpooled.buffer()
+        val sPkt = SendPacketBase(encBuf, 3)
+        pkt2.encode(sPkt)
+
+        encBuf.Decode4 // seed
+        encBuf.Decode2 // theme
+        val mapName = encBuf.DecodeCipherStr
+        val mapId = encBuf.Decode4
+        assertEquals(176, mapId)
+        assertEquals("Cemetery04", mapName)
+    }
+
+    @Test
+    fun testStartGameReqDynamicMapNameFallback() {
+        val ch = EmbeddedChannel()
+        val client = ClientSocket()
+        ch.pipeline().addLast(client)
+
+        // 构造 StartGameReq 载荷，未知 mapId=999
+        val buf = Unpooled.buffer()
+        val sendPkt = SendPacketBase(buf, 3)
+        sendPkt.Encode4(999)
+        sendPkt.Encode2(10)
+        sendPkt.Encode1(0)
+        sendPkt.Encode4(999)
+        sendPkt.Encode1(0)
+        sendPkt.Encode1(1)
+        sendPkt.Encode4(0)
+
+        with(StartGameReq) {
+            buf.handle(client)
+        }
+
+        ch.readOutbound<PKT>() // PracticeAiLevel
+        val pkt2 = ch.readOutbound<PKT>() // GameStartMapInfo
+        assertNotNull(pkt2)
+
+        val encBuf = Unpooled.buffer()
+        val sPkt = SendPacketBase(encBuf, 3)
+        pkt2.encode(sPkt)
+
+        encBuf.Decode4 // seed
+        encBuf.Decode2 // theme
+        val mapName = encBuf.DecodeCipherStr
+        val mapId = encBuf.Decode4
+        assertEquals(999, mapId)
+        assertEquals("Cemetery03", mapName, "Fallback mapName should be Cemetery03")
+    }
+
+    @Test
+    fun testGameStartMapInfoSkipsKickedAiSlot() {
+        // 踢掉 3 號 AI 後, op112 名冊只能有 7 筆, 且槽號/出生點不得壓縮重排。
+        val pkt = GameStartMapInfo(activeSlots = listOf(0, 1, 2, 4, 5, 6, 7))
+        val buf = Unpooled.buffer()
+        pkt.encode(SendPacketBase(buf, 3))
+
+        buf.Decode4 // seed
+        buf.Decode2 // theme
+        buf.DecodeCipherStr // mapName
+        buf.Decode4 // mapId
+        buf.Decode1 // gameOptions
+        buf.Decode1 // flag
+
+        assertEquals(7, buf.Decode1, "踢掉一個 AI 後 slotCount 必須是 7")
+        val expectedSlots = listOf(0, 1, 2, 4, 5, 6, 7)
+        val expectedSpawns = listOf(2, 1, 6, 3, 4, 5, 7)
+        for (n in expectedSlots.indices) {
+            assertEquals(expectedSlots[n], buf.Decode1, "第 $n 筆的槽號")
+            assertEquals(expectedSpawns[n], buf.Decode1, "槽 ${expectedSlots[n]} 的出生點")
+            buf.Decode1 // bomber
+            assertEquals(if (n == 0) 0 else 8, buf.Decode1, "槽 ${expectedSlots[n]} 的隊伍")
+            buf.Decode1 // state
+            buf.Decode4; buf.Decode4; buf.Decode4
+        }
+        repeat(4) { buf.Decode1 } // obsCount / field1 / field2 / timeLimit
+        assertEquals(0, buf.readableBytes(), "變長名冊後封包必須剛好被消費完")
+    }
+
+    @Test
+    fun testStartGameReqUsesRoomSlotsAsRoster() {
+        // op 92 開局時的名冊要跟著 Room.slots 走, 不能寫死 8 槽。
+        val saved = Room.slots.map { it.isAI }
+        try {
+            Room.slots.forEachIndexed { i, slot -> slot.isAI = i <= 5 }
+            val ch = EmbeddedChannel()
+            val client = ClientSocket()
+            ch.pipeline().addLast(client)
+
+            val buf = Unpooled.buffer()
+            val sendPkt = SendPacketBase(buf, 3)
+            sendPkt.Encode4(176)
+            sendPkt.Encode2(29)
+            sendPkt.Encode1(0)
+            sendPkt.Encode4(176)
+            sendPkt.Encode1(0)
+            sendPkt.Encode1(1)
+            sendPkt.Encode4(0)
+            with(StartGameReq) { buf.handle(client) }
+
+            ch.readOutbound<PKT>() // PracticeAiLevel
+            val pkt112 = ch.readOutbound<PKT>() ?: error("缺少 op112 GameStartMapInfo")
+            val encBuf = Unpooled.buffer()
+            pkt112.encode(SendPacketBase(encBuf, 3))
+            encBuf.Decode4; encBuf.Decode2; encBuf.DecodeCipherStr; encBuf.Decode4
+            encBuf.Decode1; encBuf.Decode1
+            assertEquals(6, encBuf.Decode1, "只有 6 個參戰槽位時 slotCount 必須是 6")
+
+            for (i in 0 until 6) {
+                assertEquals(i, encBuf.Decode1)
+                encBuf.Decode1; encBuf.Decode1; encBuf.Decode1; encBuf.Decode1
+                encBuf.Decode4; encBuf.Decode4; encBuf.Decode4
+            }
+            repeat(4) { encBuf.Decode1 }
+            assertEquals(0, encBuf.readableBytes())
+            ch.finishAndReleaseAll()
+        } finally {
+            Room.slots.forEachIndexed { i, slot -> slot.isAI = saved[i] }
+        }
+    }
+}

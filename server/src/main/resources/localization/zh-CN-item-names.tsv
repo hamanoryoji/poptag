@@ -1,0 +1,3215 @@
+!!	这可是禁区!
+!!!!!!	莫非这就是传说中的天马流星?
+!!!!!!!!!!!!	敢到我的后花园撒野?
+#%d	第%d名
+%d / Unlimited	%d / 无限
+%d Days	%d 天
+%d Hours	%d 时间
+%d Times	第%d
+%d W %d L	%d胜%d败
+%d Wins %d Draws %d Losses	%d胜%d平%d败
+%d days %d hours	%d日 %d小时
+%d pcs	 %d个
+%d-Day Pass	%d天权
+%d-day	%d日可以使用的 
+%s cannot view messages right now.	%s无法确认悄悄话
+%s caught the most rabbits and earned %d Lucci!	恭喜%s在猎场内获胜，奖励金币%d
+%s currently has %d days %d hours remaining. Purchasing this item will add %d days for a total of %d days %d hours. Purchase?	目前 %s的有效期剩下 %d天 %d小时。购买该道具就会增加 %d天，成为 %d天 %d小时，确认要购买吗？
+%s does not exist or there was a database error.	%s不存在或数据库出错
+%s earned %d Lucci!	%s获得了%d金币.
+%s earned a Boss Kill bonus of %d Lucci!	恭喜%s杀死boss，奖励金币%d
+%s gifted a Premium Pass to %s!	%s给%s赠送了奖金入场券。
+%s has already sent a 1v1 request to another user.	%s已邀请其他玩家参与1:1，现在无法邀请
+%s has been kicked by majority vote.	超过半数的玩家同意让 %s强制退场。\n\n
+%s has been resurrected!	%s 使用复活卡重新降临大地
+%s has challenged you to a 1v1. Accept?	%s邀请您参与1:1对战？接受邀请就会进入对战房间，接受邀请么？
+%s has declined 1v1 requests.	%s现在是拒绝邀请状态
+%s has declined the 1v1 request.	%s拒绝了您的1:1对战邀请！
+%s has declined your couple request. Try again after getting closer!	 %s 拒绝求婚，多和对方约会再试试求婚哦
+%s has declined your friend request.	%s拒绝了好友申请
+%s has joined.	%s参加了。\n\n
+%s has left.	%s退场了。\n\n
+%s has upgraded their Couple Ring!	%s 更换了戒指
+%s has used profanity %d times.	%s您已经连续%d次使用禁用词汇\n\n
+%s is already in a 1v1 match.	%s已参与1:1对战
+%s is an invalid user ID.	%s(?)是错误的用户ID
+%s is sold out and cannot be purchased.	%s商品已经出售完毕，不能再继续购买
+%s lost %d Lucci.	%s失去了%d 金币\n\n
+%s received %d EXP as an event prize!	%s收到了活动奖品 %d经验值。
+%s received %d EXP!	%s受到了%d经验值。
+%s received %d Lucci as an event prize!	%s收到了活动奖品 %d金钱。
+%s received %d Lucci!	%s受到了%d金钱。
+%s received '%s' as a Premium benefit, but your item bag is full. You will receive it once you purchase an item bag.	因至尊通行证优惠政策%s获得了 '%s'，但由于道具包已满无法获得奖品.购买道具包后可领取奖品
+%s received '%s' as an event prize!	%s收到了活动奖品 '%s'。
+%s received a Premium Pass from %s!	%s被%s受到了奖金入场券。
+%s received a Premium Pass!	%s受到了奖金入场券。
+%s rescued %s!	%s使用天使卡把 %s从墓地召唤回来
+%s sent '%s' to %s as a gift!  : %s's message :	%s给%s赠送了'%s': %s的留言
+%s sent '%s' to %s as a gift, but the item bag is full. The gift will be received once an item bag is purchased.	%s把'%s'道具赠送给 %s，但由于道具包已满不能接收礼物。购买道具包就可以马上接收礼物。
+%s was kicked by the Super Room Leader.	%s已被超级房主强制踢出房间。\n\n
+%s's listed item %s has been sold! +%d Lucci has been stored in your Lucci vault.	恭喜%s:有人购买了您出售的商品%s,您获得%d金币收益
+%s's listed item %s has expired.	%s出售的%s商品,期限已到.
+%s's sweetie %s has broken up.	因%s的要求，与 %s离婚了.
+%s's sweetie %s has joined!	%s的伴侣 %s进入房间\n\n
+%s(%s) has been removed from your friend list at their request.	由于对应用户的邀请， %s(%s)从好友列表里删除.
+%s, %s have used profanity %d times.	%s,%s您已经连续%d次使用禁用词汇\n\n
+'%s' cannot participate in trading.	 '%s'无法参与到交换
+'%s' has been invited. They may not respond if they are not in a channel.	你已经要求 '%s' 加入这个房间. 如果对方还没连接服务器，可能无法应答
+'%s' has invited you to room (%s). Accept the invitation?	 '%s'邀请您加入(%s)房间，要接受邀请吗？
+'%s' has invited you to the '%s' guild. You can view guild info and join from the guild page. View the guild page?	%s邀请您加入'%s'家族 ,现在切换到家族页面吗?
+'%s' is a private guild. Apply to join? ** Waiting may take up to 7 days **	%s' 家族为非公开家族.您要申请加入吗?  ** 申请需要最多7天时间 **
+'%s' is connected to [%s], in room (%s).	'%s'正在连接到[%s], (%s)号房间正在使用中。\n\n
+'%s' is connected to [%s], in the channel waiting room.	 '%s'正在连接到[%s], 等待房间正在使用中。\n\n
+'%s' is connected to [%s].	 '%s'正在连接到[%s]中。\n\n
+'%s' is currently not logged in.	 '%s'已断开连接。\n\n
+'%s' received a Nice Kill bonus!	%s获得超级杀敌 奖励.\n\n
+'%s' received a Nice Win bonus!	%s获得 超级获胜 奖励.\n\n
+'%s' received both Nice Win and Nice Kill bonuses!	%s 同时获得 超级获胜 奖励和 超级杀敌 奖励.\n\n
+'%s's guild role has been changed to '%s'.	%s'的家族职责变更为  '%s' 
+(Premium Only) A dungeon discovered by kids playing in the cemetery. Beware of the spooky atmosphere and ghosts!	(至尊通行证专用)在墓地中玩耍的孩子们找到的地牢.这里气氛恐怖，要时刻小心幽灵.
+(Premium Only) A factory that makes various water balloons. Watch out for water jets from the drains!	(至尊通行证专用) 制作各种水泡的工厂.要注意通过下水道突然出现的水柱
+(Premium Only) A lush forest west of Boom Hill Village. Beautiful flowers and adorable trees!	(至尊通行证专用) 小区西边的树林. 各种树和花好漂亮
+(Premium Only) A pirate ship loaded with cargo. Navigate through the boxes and enjoy the game!	(至尊通行证专用)装满箱子的海盗船.以船为背景，围绕箱子尽情玩游戏吧
+(Premium Only) A village with houses and shops. Enjoy the game in this cute little town!	(至尊通行证专用) 有房子和商店的村子.在这小村子里玩游戏吧.
+(Premium Only) Bula is a territory game where you compete to open more treasure chests! Surround them with your team's color.	(至尊通行证专用) 哪一方打开更多宝箱来决定胜败的宝藏地图.请用自己队的颜色围绕宝箱.
+(Premium Only) Camp is where you can ride tanks and fire water balloons! Watch out for the spiky pins.	(至尊通行证专用) 骑坦克就可以发水泡的地图. 请注意水泡一碰就会爆炸的针.
+*Note: Items obtained from Mystery Eggs cannot be traded in trade rooms.	魔力彩蛋里有很多宝贝的，期待吧。。。一定要挑准了哦！
++ Change Role +	家族管理
+- Password must be 6+ characters with a*  mix of letters and numbers.*- Password cannot be the same as your ID*  or contain 3+ repeated characters.	 - 密码为数字和英文字母6位数
+...	辐射冲击
+.............	莫非出现宇宙大幻觉了?
+...............	海皇大人这里你也敢来?
+...was a lie~	会让你坠入永恒之梦乡
+/?      View Help  ++Speaker:  /speak     Use Speaker  /pink      Use Pink Speaker  /orange    Use Orange Speaker  /green     Use Green Speaker  /purple    Use Purple Speaker  /sparkle   Use Sparkle Speaker  /siren     Use Siren Speaker  ++Info:  /who       /who ID  View user info  /where     /where ID  View user location  ++Game:  /go        /go RoomNo  Enter room  /st        /st RoomNo  View room info  /invite    /invite ID  Invite user  /ready     Ready up  /start     Start game (leader only)  /kick      /kick ID  Kick user (leader only)  /title     /title Name  Change room title (leader only)  /auto      Toggle auto-ready  ++Chat:  /to        /to ID  Whisper to user  /to off    Stop whispering  /m         /m ID  Ignore user's whispers  /u         /u ID  Unignore user  /mute      Mute all whispers  /a         Chat to all  /g         Guild chat	/?      说明\n\n\n\n ++小喇叭 :\n\n /小喇叭 \n\n /紫色喇叭 \n\n /绿色喇叭 \n\n /橙色喇叭 \n\n /红色喇叭 \n\n /闪亮喇叭 \n\n /汽笛喇叭 \n\n\n\n ++查看信息 :\n\n /who\n\n /where\n\n\n\n ++对话 :\n\n /to\n\n /m\n\n /u\n\n /mute\n\n /unmute\n\n\n\n ++游戏 :\n\n /go \n\n /sf \n\n /IN\n\n /ready\n\n /start\n\n /ban\n\n /rt\n\n /ar
+/speak	/小喇叭
+/speaker1	/小喇叭1
+/speaker2	/小喇叭2
+/speaker3	/小喇叭3
+/speaker4	/小喇叭4
+1 Day	封停1日
+1 win, thx thx!	1胜
+10 Free Needles	免费针 10个
+1v1 Challenge	1:1申请
+2 Free Needles	免费针
+200 days of beautiful love between*%s and %s~ May it last forever!*Here's a gift: %s	今天是%s和%s的结婚200天纪念日,泡泡堂特此赠送 %s以表祝贺!
+3 Days	封停3日
+30 seconds left	还有30秒
+5+ uses results in a 1-minute chat ban.	使用5次以上禁用词汇,禁言一分钟\n\n
+7 Days	封停7日
+<To All>	<所有人>
+<To Team>	<悄悄话>
+<Warning>*Using Speakers for commercial advertising*may result in penalties per the terms of service.	<提示>*使用小喇叭可以让全频道，*玩家都看到你说的话. 快捷键设置喇叭命令
+??	惹我也不行
+??????	蓝妹妹将回成为新的海皇夫人!
+?If you catch me, the game is over!	咱走的瞧！
+A Market Listing Ticket is required.	需要摊位许可证
+A chicken festival is happening in Boom Hill Village! Try riding the chicken bucket instead of a spaceship!	在小区举行肯德基庆祝活动. 请乘坐猫头鹰来替代宇宙船
+A conflict with another application was detected. Please close other programs and try again.	与其他应用程序发生冲突，无法继续进行游戏。
+A connection error occurred. Disconnecting.	因连接工作中发生了错误，要连接中断
+A coupon system error occurred. Please contact support.	VIP卡系统发生错误. 请咨询客服服务中心(201-50504724).
+A curse~~	必杀!!!
+A desert near the village. Enjoy the game with the cool oasis and tough desert as your backdrop.	在村子附近的沙漠. 以清爽的绿洲和沙漠为背景尽情玩游戏吧
+A dungeon discovered by kids playing in the cemetery. Beware of the spooky atmosphere and ghosts!	在墓地中玩耍的孩子们找到的地牢.小心这恐怖气氛，也要小心幽灵.
+A factory that makes various water balloons. Watch out for water jets from the drains!	制作各种水泡的工厂.请注意通过下水道突然喷出来的水柱.
+A friend has died~	海皇大人,泡泡圣斗士打进来啦...x?x
+A g-ghost appeared~	在这里我才是老大
+A ghost hit me~~~	金库在什么地方了?
+A human got caught~	抓住了吧
+A hundred years in hell!	我已经在地狱住了100年了
+A kick vote has been sent to all players. Please wait for the results.	已向其他玩家发送了强制退出消息。\n\n请等候投票结果。\n\n
+A login was requested from another computer. Logging out.	同样的帐号登录，所以连接中断
+A lush forest west of Boom Hill Village. Beautiful flowers and adorable trees!	小区西边的树林. 各种树和花好漂亮.
+A mysterious amusement park with Rodumani's water balloon traps! Watch out for the robots' water balloons.	设置了海盗船长的水泡陷阱的神奇的游乐地. 要注意机器人发射的水泡.
+A pirate ship loaded with cargo. Navigate through the boxes and enjoy the game!	装满箱子的海盗船.以船为背景，围绕箱子尽情玩游戏吧
+A random Bula map will be selected.	宝藏地图中的一种会随机选择
+A random Bunny Farm map will be selected.	请选择兔子洞地图！
+A random Camp map will be selected.	坦克地图中的1种会随机选择
+A random Cemetery map will be selected.	墓地地图中的1种会随机选择.
+A random Christmas map will be selected.	圣诞地图中的1种会随机选择.
+A random Desert map will be selected.	沙漠地图中的1种会随机选择
+A random Emperor's Return map will be selected.	请选择帝企鹅任务地图！
+A random Factory map will be selected.	工厂地图中的1种会随机选择.
+A random Forest map will be selected.	森林地图中的1种会随机选择
+A random Giant Octopus Attack map will be selected.	章鱼BOSS的袭击地图中的1种会随机选择
+A random Ice map will be selected.	冰川地图中的1种会随机选择
+A random Kart map will be selected.	赛车地图中的1种会随机选择
+A random Kentucky map will be selected.	肯德基地图中的1种会随机选择
+A random Mine map will be selected.	矿山地图中的1种会随机选择
+A random Ocean map will be selected.	大海地图中的1种会随机选择.
+A random PangLand map will be selected.	金银岛地图中的1种会随机选择
+A random Patrit map will be selected.	海盗地图中的1种会随机选择
+A random Premium map will be selected.	随机选择通行证地图
+A random Special Monster map will be selected.	随机选择BOSS地图
+A random Tomb map will be selected.	墓地地图中的1种会随机选择.
+A random Village map will be selected.	小区地图中的1种会随机选择
+A random map will be selected.	随机
+A room full of Christmas gift boxes! It's always Merry Christmas here!	装满圣诞礼物箱的房间.在这里每天都是圣诞节!
+A room with the same name already exists. Please use a different name.	该房间名已存在. 请重新设定房间名称。
+A spooky cemetery haunted by ghosts. Be careful not to touch the ghosts!	幽灵出没的恐怖墓地. 碰到幽灵就会出大事，要小心!
+A user has left, so the room is closing.	玩家退出对战房间
+A veteran never dies...	我才不会死…
+A village with houses and shops. Enjoy the game in this cute little town!	有房子和商店的村子.在这小村子里玩游戏吧.
+Aaaack!	啊啊啊！
+Aaaack~	是泡泡圣斗士吗?好恐怖啊!
+Aaack~	啊啊~
+Aaagh!	呃
+Aaah! Aaah!	呃!呃!
+Aaah~!	呃~
+Aaargh~	格呃格呃
+Aack	啊
+Aack!	啊！
+Aack! Aack!	啊！啊！
+Aack?	啊
+Aack~	啊
+Aack~!	啊
+Aah!	啊！
+Aah! Be careful!	惹我也不行
+Aah! I've passed on to the afterlife!	气死我啦
+Aah, really?!!!!	恩?真的?
+Accessory	饰品
+Ack!	呃~
+Ack! King Yama sir~	阎罗王大人~
+Actually I was scared...	怕不怕…
+Actually, I'm the boss.	其实我才是真正的BOSS
+Add Friend	添加好友
+Admin	高手护法
+Admin - Observer mode (changeable via command)	GM-管理者状态（可以通过指令修改设置）
+Adorable Bunny Farm is under rabbit attack! Place water balloons in front of rabbits popping out of holes. First team to 30 points wins!	独眼兔来袭击大草原啦！快用泡泡把洞堵上啊！谁先获得30点，谁就胜利！
+Ah what lol	什么东东?
+Ah!! You dare attack me!!	好强的小宇宙啊
+Ah, I'm exhausted	真不小心
+Ah, it's cold	好冷啊
+Ah, my body won't move!	身体完全动不了了
+Ah, so peaceful	啊，真无聊
+Ah, what a relief	万幸~
+Ah... fine, got it. T_T	嗬嗬跑不了了
+Ahahahahahaha	嗬嗬
+Ahahaha~	啊哈哈!!!
+Ahaha~ haha~	呀哈哈～哈哈
+Ahh, I'm all out of energy..	没力气了
+Ahh, so tired....	好累啊~
+Ahhh I'm dying!!!!	别打我啊,我不说了
+Ahhh!	呃呃
+Ahhh! Ahhh!	呃～呃～
+Ahhh...	啊啊啊啊…
+Ahhh~ It's at its weakest right now!	呃～现在最虚弱
+Ahhh~ save me please~	救我…
+Ah~	还是离这些恐怖的泡泡圣斗士远点吧
+Ah~ How peaceful	啊~无聊
+Ah~ dummy~	哈哈!笨蛋~
+Ah~!	啊呀呀
+Alert alert!	非常非常！
+Alert! Alert!	泡泡圣斗士=臭虫
+Alert~ Alert~	非常~非常~
+Alert~~~! Alert~~~~!	哎呀 
+All	所有
+All Chat	全部
+All according to plan.	还在控制之内
+All locked up good?	关的牢吧？
+All locked up tight?	关的牢吧？
+All melted!	快融化啦
+All of you die!!	都给我去死吧
+All of you,	这帮家伙
+All players are ready. The room leader will be auto-removed in %d seconds if they don't start.	所有的人都已准备完毕后，请您在（%d秒）内点"开始"进入游戏，否则会自动退出该游戏房间。\n\n
+All players must be in ready state.	所有玩家都必须处于准备状态。
+All players team up against monsters. Can also be played solo.	所有玩家组队对付怪物的模式.
+All the Pudadaks are dead~	天马流星真的有这么厉害吗？
+All the minions have left! ;-;	我的手下都那去了?
+All these eggs will be discarded. Look forward to the next ones~!	彩蛋已经用光了，也许下一个就会给你惊喜哦！
+All-in-One Set	头饰+背景
+All-out attack on that guy!	全体攻击那家伙！
+Already logged in on another computer. Closing that connection and logging in again.	已经在别的电脑上登录，是否强行登录
+Already owned	已经拥有该道具
+Already registered in the slot.	已经在插槽登记了。
+Already requested or registered.	已经发送邀请或好友了
+Alright!	赢了！
+Alright, good work everyone~	我的小宇宙爆发也很强的
+Alright, then as a token of respect,	好,先表示一下敬意
+Alright, try dodging this one more time~	哪里?还想再败一次?
+Alright~	忽忽
+Alright~ here I come~!	不错不错,我也过去看看
+Am I just supposed to stand here?	不怕死的过来？
+Am I the only one left?!	蓝妹妹也一直是我们心目中的女神!
+An error occurred while checking the ID. Please verify your ID.	重复确认中发生了错误
+An error occurred while creating the ID. Please enter a new ID.	登录账号时发生了错误
+An error occurred while deleting items.	道具删除发生错误。
+An error occurred while purchasing.	商品购买过程中发生错误。
+An error occurred while reselling.	商品退还过程中发生错误
+An error occurred while using the coupon.	赠券使用中发生了错误。
+An unknown error occurred with the domino.	系统错误，无法使用多米诺
+And I water the flowers too	莫非出现宇宙大幻觉了?
+Another kick request is being processed. Please wait for the vote to finish.	正在处理其他强退请求，请等候投票结束。\n\n
+Any	自由
+Anyone hiding?	有没有藏起来的家伙?
+Anyone there?	有没有人
+Anyone want to play?	你送小喇叭我有礼上礼
+Applied to join the '%s' guild. You are currently pending. You will join once the Guild Master approves.	您已提出加入'%s'家族申请,现在是等待确认时间, 族长确认后就可以加入该家族! 
+Approval Management	管理
+Are they dead?	挂了吗?
+Are they hiding behind the crates?	藏到那去了?
+Are you ignoring me?!	不要丢下我啊
+Are you looking down on me because I'm a private?	别以为小兵,就可以藐视
+Are you mad? lol	没办法了吧
+Are you over here?	这边有没有?
+Are you really giving us food?	真的请客~~~
+Are you sure you want to break up?	真的分手吗？
+Are you sure you want to delete this notice?	您要删除家族公告吗?
+Are you sure you want to leave the guild?	您确实要退出家族吗?
+Are you sure? Deletion cannot be refunded.	真的要删除吗? 如果删除不会返还点券。
+Are you the guest?	蓝妹妹的身材一级棒!
+Are you there?	在那里了
+Are you there?!	是这里吗?
+Argh	可恶~
+Argh! I messed up!	呃~失算了
+Argh! My heart aches!	心痛啊~
+Argh! What a waste!!	好可惜~
+Argh, I'm mad!! Get out here now!	蓝妹妹将回成为新的海皇夫人!
+Argh, not another comrade!!!	是泡泡圣斗士吗?好恐怖啊!
+As expected	就这两下子啊
+As expected of the Shadow Squad.. heh heh.	又是鬼影~咯咯
+As expected, no skill at all haha.	都是一群笨蛋
+As expected, the traitors weren't enough	你们这些不讲道义的家伙
+As expected.	那么好吧
+As if I'd listen to you?	敢到我的后花园撒野?
+As if you'd fall for it again! Bwahahaha!!!	不会再受骗吧?呼哈哈
+As long as the boss is safe!	大王还安全就好
+Assign emotes to automatically perform during certain situations.	点击要使用的效果，放入格子里.*可与动作一起自动使用效果.
+At.tack. com.mence	开.始.攻.击
+Attack!	蓝妹妹你真的很胖耶
+Attack!!	攻击!!!
+Attacking clones is pointless	对分身进行攻击也没用
+Attack~!	攻啊~
+Attention!	庐山升龙霸?真够烂的
+Auto Ready	自动准备
+Auto Ready has been turned OFF.	关闭自动准备。\n\n
+Auto Ready has been turned ON.	打开自动准备。\n\n
+Avenge me!	给我报仇～
+Avenge me~!	报仇啊
+Avoid mummies and bats, paint all Bula around the chests in your color to win! The team with more treasures wins!	绕着宝盒走，把它周围的石子都变成你的颜色，里面的宝物就属于你了，圈到最多宝物的队伍获胜。当心避开木乃伊和蝙蝠噢！
+Awaken, evil ghost!!	醒来吧!恶魔~
+Awaken, evil spirits!	醒来吧!恶魔~
+Aww, too bad~	没能一下干掉,真可惜!
+Aww~~~buddy~~~	好恐怖的升龙霸
+BG	背景
+BGM	背景音
+BGM %s	音乐%s\n\n
+Back	后退
+Background	背景
+Bad aim?	没想到这么弱
+Bad people T_T	泡泡圣斗士可千万不要来啊
+Bags	包
+Balance after purchase:	购买后余额 :
+Balloon	水泡
+Balloons	水泡
+Battle against bloodthirsty AI.	想和NPC来场比赛么？
+Be careful	这可是禁区!
+Be careful!!	庐山升龙霸?真够烂的
+Be careful.	小心
+Be careful~	奏响死亡交响曲
+Be more careful!	得小心点了
+Be quiet!	小子小点声
+Be quiet!!	敢这么对我,你惨了!
+Be scared!!	害怕吧
+Become one of us...	欢迎你加入我们
+Beginner	1段
+Beginner/Intermediate channel. Max level 20.	新手专用频道.这里很适合练习技术
+Beginners welcome!	“人参果”喇叭喊就送
+Behind! Behind you!	后面后面
+Behold my dazzling attack!	看我华丽的舞步
+Bet you can't tell, huh?	还是离这些恐怖的泡泡圣斗士远点吧
+Big bro beats you out of love!	情场得意,战场失意啊
+Big trouble if the General finds out	这可是禁区!
+Blegh~!	格呃
+Bleh	噢咻~
+Bleh~	笨蛋笨蛋~
+Block	拒绝好友申请
+Block List	关闭列表
+Block User	阻止联系人
+Block them so they can't break it! Block!	别让他靠近我!
+Blocked them	抓住了一个~
+Blocking the way~~	不好受啊
+Bluffer seal	蓝妹妹将回成为新的海皇夫人!
+Body slam!	全部关起来
+Boing~ boing~	嗵嗵!
+Bomb squad, move out! Pass it within 5 seconds or it explodes!!	除炸弹小队出动!\n\n5秒之内移动不了就会爆炸!
+Bonus %d EXP for defeating a user with shop items!	由于你打败了使用特定道具的玩家，你将额外获得%d经验值做为奖励。
+Boss is the best!	boss大人，加油！
+Boss sir!	大侠~
+Boss!	队长！
+Boss! I'll help too!	boss大人，我来帮你！
+Boss! I'm coming!	boss，我来了
+Boss, be careful!	boss大人，小心点！
+Boss~ Save me!	老板~救救我
+Bot	对手
+Boz	宝宝
+Brace yourselves.	当心
+Break free, break free	救我救我
+Break free...break free...	放我出去…放我出去…
+Break me out and you'll have 10 seconds of bad luck!	被冰住,会失掉10秒知觉的
+Break the boxes and ghosts come out	忽忽忽忽~
+Break through and make a path!	钻出一条路吧
+Bring it on!	我的小宇宙怎么还不爆发啊
+Bring it on!!!	都给我小心点~
+Bring it on, kiddos!	艘给我消失吧
+Bring it.	哈咻
+Brother Croc, help me~	救命啊~
+Brother Croc, looks like someone's here	是泡泡圣斗士吗?好恐怖啊!
+Brought more treasure~!	又拿来宝物啦
+Buddy!!!!!!!	我的小宇宙怎么还不爆发啊
+Build a wonderful love together with BnB~	与泡泡堂一起成长你们的爱情~
+Bula is a territory game where you compete to open more treasure chests! Surround treasure chests with your team's color.	由哪一方打开更多宝箱来决定胜败的宝藏地图.用自己队的颜色围绕宝箱.
+Bullying us without even telling us the way~	我很强!你不知道吗?
+But I found that treasure...	这都是我找到的,别碰…
+But the flowers die so fast	千万不能让海皇大人只到花谢了~
+But what are you doing in the corner?	敢到我的后花园撒野?
+But what if Dragun is dispatched?	哈哈 我厉害吧
+But where's the passage?	警备,警备
+But you've actually already fallen into my trap	实际上你已经掉进我设好的陷阱了
+Buy Now	马上购买
+Buzz off, commoner!	滚那边去!小子
+Bwahaha	哈哈哈
+Bwahaha!	呼哈哈
+Bwahaha! Fear me!	嗬嗬~怕了吧
+Bwahaha! Stop!!!	格格~给我站住
+Bwahaha!!!	呜哈哈
+Bwahahaha	呼哈哈
+Bwahahaha!	呼啊啊啊~
+Bwahahahaha!!!	呼哈哈哈哈~
+Bwahaha~	海皇大人这里你也敢来?
+By Guild Level	家族等级星
+By Guild Type	荣誉排序
+By Member Count	数量排序
+Bye bye~	天马流星真的有这么厉害吗？
+C-Captain...	队…长…
+C-come at me!	小心~
+Call the boss!	快叫boss大人！
+Calm down, calm down...	堵住出口
+Camp is where you can ride tanks and fire water balloons! Watch out for the spiky pins that pop balloons on contact.	骑坦克就可以发水泡的地图. 请注意使水泡一碰就会爆炸的针.
+Can only be used in the lobby.	只能在大厅里使用
+Can only be used when the other person is in the waiting room.	对方在等待房间的时才能使用
+Can't I just go home?	回不了家了
+Can't breathe, right?	郁闷啊
+Can't die when I'm so close to discharge~	我是不会死的
+Can't even beat us, lol	连我都打不赢
+Can't even dodge that? Heh heh.	这都躲不掉?笨蛋
+Can't find a guild you like?! *Then create a new one! *Become a Guild Master and lead your guild!	没有合您心意的家族吗?那么创建一个属于您的家族吧！\n\n自己成为族长,招兵买马,成为一方霸主！
+Can't kill me~	蓝妹妹的身材一级棒!
+Can't kill me~!!	蓝妹妹将回成为新的海皇夫人!
+Can't wait any longer! Attack!	还是离这些恐怖的泡泡圣斗士远点吧
+Can't you guys do anything right?!	天马流星?没听说过
+Cancel the listing? The Market Listing Ticket will not be refunded.	提示:取消出售不返还摊位证!
+Cannot add more friends!	已经达到了好友上限
+Cannot add more friends. Request declined!	达到了好友上限，所以被拒绝
+Cannot connect to the community login server. Please try again later.	无法连接团体登陆服务器，请稍候再试
+Cannot connect to the game server.	无法连接到游戏服务器
+Cannot connect to the login server. Please try again later.	服务器连接中断，请稍候再试
+Cannot connect to the selected channel.	无法连接到指定频道。
+Cannot connect to the server.	无法连接到服务器。
+Cannot connect to the shop server. Please try again later.	不能连接到商店服务器
+Cannot connect. The channel is at maximum capacity.	该服务器人数已满，请选择其他服务器。
+Cannot create a room due to a Ladder grade mismatch.	因目前的段位频道和段位等级不同，所以不能开设房间
+Cannot create a room due to a Ladder grade mismatch. Please play in a channel matching your grade.	由于您的段位和这个频道不符合，所以不能开设房间
+Cannot create a room. Please try again later.	无法开设房间. 请稍候再试。
+Cannot disband the guild while there are members. All members except the Guild Master must leave first.	由于还有其他家族成员存在,无法解散家族! 只有无其他家族成员的情况下,才可以解散家族!
+Cannot enter the room due to a Ladder grade mismatch. Please play in a channel matching your grade.	段位等级不同，不能进房间.请在与自己的段数符合的段位频道中进行游戏
+Cannot find the requested user.	查找不到您邀请的玩家！
+Cannot join the game due to a Ladder grade mismatch.	因段位等级不同不能参加游戏.请在与自己的段数符合的段位频道中进行游戏
+Cannot join the room due to a Ladder grade mismatch.	因目前的段位频道和段位等级不同，所以无法进入房间
+Cannot join the room.	无法加入房间。
+Cannot list items because the Lucci vault is full.	您的金库已满,无法再出售商品,请购买储蓄罐增加金币上限
+Cannot list items due to invalid user info.	摊位许可证已过期,无法正常登陆商店
+Cannot list the item due to invalid item info.	商品消息已过期,无法正常登陆
+Cannot purchase %s because you already own %s.	已拥有 %s，所以不能购买%s.
+Cannot purchase because the seller's Lucci vault is at capacity.	您的金库已无法再存储金币,购买失败!
+Cannot purchase because you are not in a guild.	没有加入任何家族,无法购买家族道具
+Cannot resell this item as it would exceed the Lucci limit.	拥有的金币达到最高限额，不能退还该商品
+Cannot select a map.	无法选择地图。
+Cannot select this map. Please choose a different map.	无法选择该地图. 请选择其他地图
+Cannot send a couple request.	不能求婚
+Cannot send as a gift because the recipient already owns more than %d of this item.	已拥有此道具%d个以上，因此不能送此道具。
+Cannot send as a gift because the recipient's %s has more than %d days remaining.	被赠方具有%s的有效期已超过%d日，无法再进行赠送。
+Cannot send as a gift because the recipient's level is too high.	被赠送的玩家级别太高，所以不能赠送该道具。
+Cannot send the message.	无法发送信息
+Cannot start because player counts don't match. All teams must have equal players.	各队人数不一致，无法开始游戏. 各个队伍的玩家数量必须相同。
+Cannot start because there are more players than the map allows.	玩家人数超过该地图人口限制，无法开始游戏。
+Cannot start because there are too few players.	玩家数量太少，无法开始游戏。
+Cannot start because there are too few teams.	参赛队伍过少，无法开始游戏。
+Cannot start the game because there are players with insufficient level.	因有级别低的玩家，所以无法开始游戏
+Cannot start the game because there are players with mismatched grades or insufficient Lucci.	因段位等级和频道不符合的玩家在房间，所以无法开设游戏。
+Cannot start the game due to a Ladder grade mismatch.	因段位等级不同不能开始游戏.请在与自己的段数符合的段位频道中进行游戏
+Cannot start without any remaining coupons.	因没有VIP卡，无法开始游戏
+Cannot whisper to '%s' because they are not in the same channel.	'%s'不是同一个频道，无法传送悄悄话。\n\n
+Cannot withdraw Lucci because it would exceed the holding limit.	商家金库已满,无法再存储金币
+Captain! I caught one!	队长!我挂啦
+Capture the enemy!	我的小宇宙爆发也很强的
+Capture them	怎么说你也是雅典娜的妹妹啊
+Captured	唉呦
+Careful, careful	小心小心
+Cash	点券
+Catch catch	抓住了
+Catch that guy!	抓住那家伙
+Catch the mischievous rabbits popping out of holes! First team to 30 points wins!	抓住那些从洞里跳出来的独眼兔啊！谁先获得30点，谁就胜利！
+Catch the rest of them too!	把剩下的干掉
+Catch them	抓住
+Catch them all and I'll let you eat anything!	把他们都抓到想吃什么吃什么!
+Catch them all and I'll let you eat!	把他们都抓到就给你吃
+Catch them and I'll give you leave!	抓到了就去度假
+Catch them!	抓住他
+Catch them! Catch them!	抓住了！抓住了！
+Catch them! Catch those guys!	抓住那个蠢货~~
+Catch them, catch them!	抓住他,别让他跑了
+Catch them~ Catch them~	杀了他!杀了他!
+Catch them~!	抓住他
+Catch this ghost for me and I'll give you Lucci	我就是超人
+Catch those guys!	抓住这些家伙
+Caught one!!	是到使杀手锏的时候了
+Caught one?	抓住一个啦
+Caught one~	小心小心
+Caught red-handed!	真不巧～
+Caught the escapee!	抓到了逃脱者！
+Celebrating 1 year of love between*%s and %s~*Here's a congratulatory gift: %s	今天是%s和%s的结婚1周年纪念日,泡泡堂特此赠送 %s以表祝贺!
+Celebrating 2 years of love between %s and %s! Here's a gift: %s	今天是%s和%s的结婚2周年纪念日,泡泡堂特此赠送 %s以表祝贺!
+Change Password	变更密码
+Change guild information?	您要修改家族信息吗?
+Changes from using this item cannot be reversed. Are you sure you want to purchase?	因道具使用引起的变更事项无法恢复.真的要购买吗?
+Character	角色
+Character Cosmetics	装扮
+Charg.ing	能.量.补.充.
+Charg.ing. com.plete	能.量.已.充.好
+Charge!	乌莎
+Charge!!	突破!!!
+Charge~~	突击
+Chase that one out!	把那家伙赶出去
+Chat	聊天
+Chat Ban	禁言
+Chat Room	聊天房间
+Chat banned for 1 minute due to 5+ uses of profanity.	因为您连续5次使用了禁用词汇,被禁言一分钟\n\n
+Chat blocking will remain until you restart the game. You can modify the block list in Options > Block List. Ignore messages from %s?	屏蔽帐号效果维持到对方下线,是否现在屏蔽与%s的对话
+Chat ignore for the specified user has been lifted.	解除给指定用户设定的无声。\n\n
+Chat/Trade Ban	对话/买卖禁止
+Check this to show your Ladder grade in the waiting room~	装饰/取消
+Cheer up %s! Here's %d Lucci as a consolation prize!	%s 加油!作为 失败赠送慰劳金 %d金币  
+Children, let's all go!	孩子们,要听我的话
+Chirp~	叽
+Click the button.	请点击图标。
+Clone Technique!!	蓝妹妹也一直是我们心目中的女神!
+Clone! Tech! Nique!	莫非出现宇宙大幻觉了?
+Clones, protect me!!!	休息休息
+Close the back door!	我的小宇宙爆发也很强的
+Close the front door~	我的小宇宙终于爆发啦哈哈
+Clothes	服装
+Com.menc.ing. op.er.a.tions	开.始.
+Come and die	想死?来啊!
+Come and die.	想死?来啊!
+Come at me	来，跟我玩一下
+Come at me!	来这里试试~
+Come at me!!	来，玩一下
+Come at me.	快来!
+Come at me~	小心点
+Come back when you've become cooler!	你给我等着,我变身回来找你
+Come closer~!	过来,靠进一点
+Come forth, my soldiers!!!	我的随从们快出来吧...
+Come here	来这里~
+Come here!	来这里~
+Come here, human! +_+	到这里来啊+_+
+Come here, my darlings~	孩子们,到这里来
+Come here...come here...	到这里来…
+Come here~ Come here~	来这里~来这里~
+Come on in and play, guest~	海皇大人的星光灭绝才最厉害!
+Come on, let's play instead	好强的小宇宙啊
+Come out and I'll feed you!	我请客,快出来吧
+Come out, everyone!	孩子们快出来吧
+Come out, my friend!	出来吧朋友~
+Come over here!	来这里啊
+Come over here.	来这里~
+Come try again~ nyah~	你再小心也没用
+Come try again~~	粗心大意
+Come, egg monsters of hell!	地狱里的怪物们,快现身吧
+Come, little grim reapers~~!	过来啊你们这群废物
+Compete for the most kills within the time limit! An intense endless battle begins!	在限制时间内获得多少 杀敌数来决定胜败的游戏.无限对战开始!
+Compete with or against other players in various modes and maps.	可以根据个人喜好，参与各种类型游戏
+Confirm Password	确认密码
+Confusing, right?	泡泡圣斗士可千万不要来啊
+Congratulations to the lovely couple*%s and %s on your 100th day!*Here's a gift: %s	今天是%s和%s的结婚100天纪念日,泡泡堂特此赠送 %s以表祝贺!
+Congratulations~! %s obtained the %s item from Mystery Egg Smash!	恭喜，恭喜！%s用 冰凉锤子 砸开了实物魔力彩蛋，获得了%s，大家来恭喜他吧！
+Connecting to channel. Please wait...	正在进入频道,请稍等
+Connecting to login server...	正在连接服务器。
+Connecting to server. Please wait...	连接服务器中，请等待
+Connection Ban	禁止登陆
+Connection Failed	连接失败
+Connection is poor. Returning to login screen.	连接状态不太好.请重新登陆使用.
+Content	内容
+Corner them!	把这帮家伙赶到角落里去
+Cost:	价格 :
+Could it be because of the ghosts??	呀呀呀
+Could it be that mana is short?	休息休息
+Could not find a suitable opponent.	没有查找到合适的对手！
+Could not find an empty room. Please try again later.	没找到等待中的房间，请稍候再试。
+Count	数量
+Couple Ring	伴侣戒指
+Couple Ring items cannot be purchased more than once.	结婚戒指道具不能重复购买
+Couple info can be found on My Page.	伴侣信息可在个人信息里确认.
+Coupon was not used because you already own all the items.	因已经保有的道具，没使用了赠券。
+Coward~! Mwahahaha!	这个胆小鬼
+Crack crack	煎熬
+Crackle crackle	煎熬
+Crack~	格叽
+Crazy Arcade: Multi-Server Select	Crazy Arcade:选择服务器
+Crazyman must not know the way either	溜达溜达
+Crazyman! Let's fight 1 on 1!	1V1敢不敢?
+Crazymen with no sense of direction~	睡觉喽
+Created	创建日期
+Creating a new guild requires Level 31+ and 300,000 Lucci. Pay 300,000 Lucci to create a guild?	建立新的家族,会消耗掉你的家族创建卡,您要建立吗?
+Creeping creeping	嘶嘶
+Current Guild Mark	目前家族徽章
+Currently not logged in.	连接已断开。
+Currently pending guild approval.	现在是申请加入家族等待时间!
+Currently waiting for guild approval.	现在是申请加入家族等待时间!
+Danger!	阿
+Danger! Danger!	危险！危险！
+Danger~	危险
+Dao	皮蛋
+Darn it	呀呼
+Darn it darn it	不要挡我的路!
+Darn~ they escaped!	可惜啊~又好了
+Deadline	出售时间
+Decline 1v1 Requests	拒绝１：１对战请求
+Decline Couple Requests	拒绝求婚
+Decline Friend Requests	拒绝好友申请
+Decline Guild Invites	拒绝加入家族
+Default	原来
+Defeat	失败
+Defeat His Majesty's enemies!	把陛下的敌人赶走
+Defeat mini monsters in your quest to tackle the giant boss.	所有玩家组队对抗怪物的模式
+Defend well	赶的漂亮
+Definitely an intruder	还是离这些恐怖的泡泡圣斗士远点吧
+Delete	删除
+Delete this message?	要删除信息吗？
+Delete this post?	您要删除家族留言吗?
+Deleting Sha-Shak will also disable Sha-Shak Plus. Delete?	删除幻影道具就不能使用升级幻影道具. \n\n\n\n确定要删除?
+Derailed!	总算完成了
+Dialogue Setting	设定语言
+Diamond	钻戒
+Did I come back to life?	什么泡泡圣斗士,我根本就不放在眼里
+Did someone come?	还是离这些恐怖的泡泡圣斗士远点吧
+Did someone save them!	谁救的?
+Did something just happen?	海皇大人,泡泡圣斗士打进来啦...x?x
+Did that guy's minion die?	我的那些笨蛋手下都死了?
+Did the Giant Octopus's minion die?	我的那些笨蛋手下都死了?
+Did the enemy invade again??	这可是禁区!
+Did the ghosts get them??	在那里
+Did they get Crazyman too??	要尊重陛下
+Did we catch them all?	都抓住了吧?
+Did we get one?	抓到了？
+Did you eat the treasure?	这样还想得到宝物？
+Did you just see Uni's shadow?	貌似有鬼…
+Did you protect the flower garden?	这可是禁区!
+Did you think you could escape?	你觉得你能逃掉吗?
+Difficulty	人气
+DirectX 9.0c initialization failed. Using DirectX 7.0. Please install the latest DirectX 9.0c for the best experience.	DirectX 9.0c 初始化失败，使用DirectX 7.0 .为了游戏的顺利进行请设置 DirectX 9.0c 最新版.
+Discharge is right around the corner	敌人已经到眼皮底下了
+Disconnect request sent. Please try reconnecting in 15 seconds.	已经按要求断开连接，请15秒后再登陆\n\n
+Disconnected from login. Please try again later.	服务器连接中断，请稍候再试
+Disconnected from server due to a network error.	因网络失误，服务器连接中断
+Disconnected from server during initialization.	服务器连接中断。\n\n
+Disconnected from server.	服务器连接中断
+Discount Rate	打折率
+Diz	黑妞
+Do I know the way?	你们不可以靠近大王
+Do it right!!	好好干!!
+Do you have enough water?	我再也不敢这么说你了
+Do you know who I am!!	你以为我是谁啊?
+Do your best! Actually, I like you guys!	好好干,我很看好你哦
+Dodge properly!	好好躲!!
+Dodge this! Intruder!	快躲啊!有针~
+Doing great.	小样...干的不错~
+Domino	多米诺
+Domino x%d	 %d个多米诺
+Don't be scared of the ghosts	藏到那去了?
+Don't be scared, just fight!	别那么毛糙~
+Don't block my path!!!	不要挡我的路~
+Don't chicken out.	别大意啊~
+Don't come near me!!!!	小小的升龙霸还敢在我面前显摆？
+Don't come over here~	别过来~
+Don't come~!	不要来~
+Don't disturb our sleep~	不要打扰我睡觉~
+Don't do that, wahhh	不要啊～
+Don't doze off!	别睡着了
+Don't hide.	别躲了
+Don't hit our boss~~	不要打我们的boss~~
+Don't leave me alone~ Wahhh~	我要是逃出去,不会放过你的
+Don't let anyone through!	海皇大人救我!
+Don't let the guests escape!	惹我也不行
+Don't let them escape	别放过他们
+Don't let them go up	泡泡圣斗士可千万不要来啊
+Don't let them into the cave!	别让他们进到洞里抢宝物啊
+Don't let them pass until the Emperor Seal arrives.	海皇大人的星光灭绝才最厉害!
+Don't let them reach the General	千万不要惹海皇大人
+Don't let them reach the flower garden	这里可是海皇大人的后花园啊
+Don't let them touch the treasure!	谁也不许动一针一线
+Don't let your guard down!	别大意啊~
+Don't lump us together with those bumbling fools.	别和这帮家伙计较,显的多没素质
+Don't make the big guys angry	别发火了~哥哥~
+Don't mess up the flower garden	好强的小宇宙啊
+Don't mind me~	别费那脑筋了!
+Don't run away!	别跑啊
+Don't tell scary stories~~	不要忽悠我！
+Don't think about running, heh heh heh	还想逃?别做梦了
+Don't touch me	别动我
+Don't touch my comrades	我的小宇宙怎么还不爆发啊
+Don't underestimate a Private First Class	别藐视我们小兵
+Don't underestimate ghosts	别小看我们幽灵
+Don't underestimate ghosts!	别小看我们幽灵
+Don't worry, Boss!!	别担心!!BOSS
+Don't worry, Your Majesty!	陛下不要担心~
+Don't you know to fear the tiger?	老虎不发威
+Don't you think it's slower than before?	哇噻,蓝妹妹你又胖了!
+Don't you think the tree is a bit small?	人类怎么可能打败我呢？
+Don't you trust me?	出口已经被我们堵住了,逃不掉了
+Dra!	我们一起上
+Draws -> 0	 无 -> 0
+Drive slowly!	慢慢地,别急
+Drop the water balloons and let's fight!	来一局吧
+Dummy!	笨蛋!
+Duration	期限
+Duration: %d days %d hours	期限 : %d日 %d小时
+E.mer.gen.cy	紧.急.时.刻.
+EXP	经验值
+Easy	太简单了,没意思
+Eek eek eek eek!!!	海皇大人救我!
+Eek, that must hurt!	啊，多疼啊！
+Eep~ I'm scared~	海皇大人这里你也敢来?
+Effect	边框
+Effects	特殊
+Egg baskets can be earned in-game, and hammers can be purchased from the shop.	魔力彩蛋是在游戏里打出来的，锤子到商店里就可以买到！
+Eheheheh	呃呼呼
+Eheheheh...	呃呼呼…
+Ehehehehe!	呼哈哈
+Ehehehe~!	呃呵呵
+Eliminate them	惹我也不行
+Emote Description	效果说明
+Emote used when catching an opponent	抓到对方时使用的效果
+Emote used when caught by opponent	被对方抓到时使用的效果
+Emote used when escaping a bubble	从水泡逃脱时使用的效果
+Emote used when losing	失败时使用的效果
+Emote used when trapped in a bubble	被水泡关住时使用的效果
+Emote used when using a needle	用针时使用的效果
+Emote used when winning	胜利时使用的效果
+Emote used when your sweetie enters	伴侣进房间时的表情
+Emotes	表情
+Emperor Penguin has stormed the ship.	大王他们竟敢袭击您的船
+Emperor Penguin is the strongest!	大王您最帅了
+Emperor Penguin said it's fine...	去那里找呢?
+Emperor Penguin told us not to worry	在哪里了?这帮家伙挺会躲的
+Emperor Penguin went to the exit! Hahaha	大王在那里等着你们呢
+Emperor Penguin, what a terrifying one...	帝企鹅是恐怖天使
+Emperor Seal, save me~	海皇大人救我!
+Empty	空
+En.er.gy. 30. per.cent. in. use	消.耗.30%.能.量.
+En.er.gy. 60. per.cent. in. use	消.耗.60%.能.量.
+En.er.gy. in.suf.fi.cient	能量不足…
+Enable Messenger	使用好友功能
+Encircle them!	被包围了
+Ending Soon	即将卖光
+Enemy attack!!!!	泡泡圣斗士有什么了不起?敢到这里撒野?
+Enemy raid!	小心敌人
+Enemy raid~!	偷袭我~
+Enemy! Enemy~!	敌人~敌人~
+Enough with the food talk.	别谈吃的好不好?
+Enter Title	签名输入
+Enter or change your title. Up to 7 characters without spaces or special characters. Obscene or profane titles are not allowed. If time remains, the new title will use the remaining duration.	可以变更签名. 如无空格或特殊字符，最多可输入7个字。不得使用淫秽，暴力性词汇。
+Enter the amount to transfer to your Lucci.	请输入需要转移到“我的道具”的金币数目
+Enter the name of the item you want to search for.	请输入要搜索的道具名.
+Equip	装备
+Error Occurred	错误
+Escape	逃脱
+Evacuate the princess!	保护公主
+Even Teams Only	标准 
+Even a fake boss has to keep up appearances.	即使是假BOSS,也不要那么差劲啊
+Even a nice guy like me gets angry!!!	哇噻,蓝妹妹你又胖了!
+Even ghosts get cold..	好冷~
+Even ghosts get scared T_T	幽灵也会怕怕的 T_T
+Event	活动
+Event-only channels.	这里可以迅速提高你的技术，高段不是梦想
+Everyone be careful	都给我小心点~
+Everyone get out!!!	都给我出去~~~
+Everyone hide!	赶紧藏起来啊
+Everyone on the left and right, stay sharp!!	周围的小子们,害怕了吧
+Everyone wake up!!	都给我起来!
+Everyone welcome!	至尊通行证奖励双倍
+Everyone, fall back!	吃了我的给我吐出来,拿了我的给我还回来
+Everyone, hang in there!	加油
+Everything is normal...	都正常~
+Everything is ready now.	准备好啦
+Evie	蓝蓝
+Execution!	哇噻,蓝妹妹你又胖了!
+Execution.	弱人
+Exercise sure is tough	活动活动筋骨,好久没这么运动了
+Exhausted!	累了！
+Exit	退出
+Expression	美容
+Extension Slot	小背包
+FYI, these aren't mere clones, they're all real	并不是单纯的分身，而是全部实体
+Face	表情
+Failed to change guild mark due to a temporary system error. Please try using the Guild Mark Changer from your inventory again.	由于系统错误,无法正常变更家族徽章, 请按照提示重新进行操作!
+Failed to connect to login server. (%d) DEF1	无法连接到服务器。%d\n\n
+Failed to connect to server. (%d) NORM	无法连接到服务器。%d\n\n
+Failed to stop selling.	购买终止失败
+Fatal Error	错误
+Favorite	昵称
+Fearless fools!	没脸的家伙
+Fearsome water bomb attack!!	莫非出现宇宙大幻觉了?
+Fearsome water bomb attack!!!	奏响死亡交响曲
+Feel free to play without worry.	是我绑架你,还是你绑架我?哎呦,别打了
+Feel free to talk	蓝妹妹你比胖墩瘦多了
+Feels nice, huh?	千万不要惹我
+Fell right into our trap!	有陷阱
+Female	女
+Fewer people to feed us now	没人跟我抢了
+Fight me IRL	献丑了 ??
+Fight through my minions first, then I'll face you!	打赢我的小弟，再跟我斗
+Final counterattack!!!	寒冷的极光
+Find Friends	好友游戏账号
+Find Guild	搜索
+Find Guild Members	查询家族成员
+Find more	泡泡圣斗士有什么了不起?敢到这里撒野?
+Find the enemy captain with the flag! Protect your captain and capture theirs to win!	保护自己的队长，抓到对方的队长就能获胜！
+Find the thief!	找到那个设障的人
+Find the way quickly~	他们还会来的…
+Find them and kick them out!	赶走他
+Find them~	找啊~
+Fine! I'll stop interfering, go take the treasure	好啊!这回不碍手碍脚了,加油啊
+Fine, bring it on!	好啊!!加油!!
+Fingers frozen? Haha	怎么这么不小心啊?
+Finish them off.	又被抓了
+Flag	旗帜
+Flag Hunt	队长模式
+Flinch	活动一下筋骨~
+Flinching	忽忽还来吗?
+Flutter flutter~	千万不要惹海皇大人
+Follow the boss!	跟紧BOSS
+Follow us!	跟着我,一起上
+Food!! Food!! Food!!	我饿饿饿
+Foolish creature!	蠢女人!
+Foot controls?	怎么搞的?
+For defeating a user with shop items, 2 wins will be added to your record if you win!	由于你打败了使用特定道具的玩家，你将额外获得2场胜利做为奖励
+For real?	真的吗?
+Force Remove	强制退出
+Forgive me!	放过我吧!!!
+Found you!	庐山升龙霸?真够烂的
+Fraud	欺诈
+Free channel. Open to everyone.	自由频道.谁都可以进入
+Friend ID	好友账号
+Friend request has been cancelled!	邀请好友被取消
+From	发送人
+From now on	现在开始
+From now on, attacking is gonna be a problem for you!	真的假的
+Frozen~	掉进冰窟窿了
+Full Screen	全部画面
+Full power!!!	看我的力量！！!
+Fully charged!	好恐怖的升龙霸
+Fury Nuke!!!	小心驶的万年船
+Gacha	VIP卡
+Gack!	啊！
+Gack!!	呃!!(临时时)
+Gack???	我海皇怎么可能被人类打败?
+Gah gah gak	蓝妹妹我错了,不应该说你胖
+Gah, I'm gonna die~~	现在求饶,已经晚啦~
+Gah~	藏到那去了?
+Gah~ It's a real ghost~	这回安全了吧
+Gah~ What is this~	你们不可以靠近大王
+Game	游戏
+Game Help	帮助
+Game Type	游戏类型
+Gasp	嗬嗬
+Gasp!	救救海盗~
+Gear 2!!!	第2阶段!!
+Gear 3!!!!!	第3阶段!
+Geez	蓝妹妹将回成为新的海皇夫人!
+Gender	性别
+General	一般
+General, full power!	我会怕你?
+General, the enemy has arrived.	惹我也不行
+Gentle breeze	小心翼翼
+Get as many kills as possible within the time limit! The one with the most kills wins!	在一定的时间内杀敌数越多的就能取得胜利！连续杀敌可以获得额外奖励！
+Get away!	滚一边去~
+Get better first!!	笨蛋！
+Get better, noobs!!	蠢货!
+Get me out of here~!!	放了我~
+Get more from inside!	再拿出来点
+Get out of here!	快出去
+Get out of the princess's room!	从公主的寝宫里滚出去
+Get over here while I count to three!	快!别等我血都漏光了才来
+Get over here, punk!	小子,过来呀!
+Get revenge, everyone!	你们要报仇啊！
+Get them! Get them!	被抓了
+Get them!!	抓住他!!
+Getting a bit sleepy~	蓝妹妹虽然你胖了,但是你在我心目中还是最漂亮的
+Getting caught already? Come on!	这么快就完蛋啦?真没意思
+Getting excited, are we...	兴奋ing…
+Getting hit by water feels nice too.	怎么说你也是雅典娜的妹妹啊
+Getting hurt would be a waste!	被碰到就不划算了
+Getting new eggs will discard all eggs currently being cracked.	如想换一组魔力彩蛋，所有正在砸的彩蛋将归零！
+Getting the creeps~	忽忽等着你们来送死~
+Ghost energy is running low...	幽灵也会死掉?
+Ghosts are scary~	这里啊
+Ghosts can't be killed by something like that!	这点东西是弄不死幽灵的
+Giant Octopus Phase 2 transformation!	章鱼大王2阶段变身！
+Giant Octopus is on the floor below!	大王会在下一关等着你
+Giant Octopus, save me!	章鱼大王，救救我
+Gift has been delivered.	礼物已经传到了。
+Gifts cannot be refunded.	礼物不能退还.
+Give it your all~~	下次没你好果子吃
+Give me food!!	给我呀
+Give us chicken	给我呀
+Give us rice	我要吃大米
+Glerp!	开路!
+Go ahead and get hit all you want. Nyeh :p	得暴打你一顿 :p
+Go ahead and struggle!	跑快一点啊
+Go away, Crazy Arcade people!!!	小心驶的万年船
+Go back to basic training!	小子练好了再来吧
+Go catch them!	去抓住他！
+Go eat some ants	像蝼蚁
+Go get more from the cave!	从洞里再拿出来点
+Go go go go	格格格格！
+Go go go go!	咯咯咯咯
+Go practice a hundred times and come back!	回家多练习练习再来吧
+Go practice and come back	回家练练吧
+Go practice first!	就当是演习了
+Go practice more and come back	练好了再来吧
+Go practice some more~	啊！笨蛋！
+Go practice~	傻瓜!!
+Go slowly.	溜达溜达
+Go to Shop	进入商店
+Go to Town	登陆社区
+Go to the shop to purchase %s?	 为了购买%s，想移动到商店吗？
+Go to the water hell!	滚到水牢去吧
+Go! Giant Octopus!!!!!!	大王章鱼来啦!!!!!!
+Go! My monsters!	冲啊怪物们
+Go! Squad 1!	第一梯队上
+Gogogo	咯咯
+Gon!	包围他包围他
+Gonna hit me? Gonna hit me?	打不打?打不打?
+Gonna turn into a pig?!	再这样就变成猪了!?
+Good job	干得漂亮
+Good job.	干的漂亮
+Good manners required	免费领&感恩折扣回馈
+Good thing they were weak...	还好是个弱人
+Good, now fight hard	给我好好教训他们
+Got 'em!	抓住了
+Got 'em! Got 'em!	抓住了!抓住了!
+Got 'em!!	终于干掉了
+Got 'em~!	死了!!
+Got a needle?	笨蛋!
+Got a temper at least	小心驶的万年船
+Got in trouble for goofing around T_T	不要淘气,我来管教管教你
+Got no needles?	啊！笨蛋！
+Got one down~	找个垫背的,啊啊~
+Got one!	抓到一个了
+Got one! *_*	抓住一个啦*_*
+Got one?	抓到了?
+Got one~	抓到1个了
+Got you	抓到了
+Got you! Got you!	抓到了！抓到了！
+Got you~!	又干掉一个！
+Gotcha!	抓到了！
+Gotcha! Gotcha!	抓住了！抓住了！
+Gotcha~ hehe	抓住了~忽忽
+Gotta be careful~	小心啊~
+Gotta catch 'em all~	海皇大人的星光灭绝才最厉害!
+Gotta dodge when he waters	这可是禁区!
+Gotta find them quick	听说升龙霸挺KB的
+Gotta get back on the tracks!	回去吧
+Gotta guard the treasure	要守住宝物
+Gotta run fast!!	快跑!
+Gotta stop them from going up..	莫非这就是传说中的天马流星?
+Gotta summon again in a bit!!!	是泡泡圣斗士吗?好恐怖啊!
+Gotta work hard!!	我的小宇宙爆发也很强的
+Graaah	给你送上食人鱼玫瑰
+Graaah I can't get out~	你可以见到很黄很暴力的海皇了，感到荣幸吧！
+Graaah I'm stuck~~~~	ＫＢ的时刻到来！
+Graaah~	什么把我给围住了?星云锁链?
+Grade	段位装饰
+Grade %d	%d 段
+Grade %d or above only.	%d段等级以上才能入场
+Grade %d or below only.	%d段等级以下才能入场
+Grade BG	段位背景
+Grade-up celebration! Bonus Treasure Vault event!!	恭喜升段! 奖金宝物仓库活动!!
+Great!	真棒
+Grow~ grow~	这可是禁区!
+Grrk!	格格!
+Grrr	恐怖的浪潮来啦
+Grrr...	昂…
+Grrrrr~~~	怎么说你也是雅典娜的妹妹啊
+Grr~ unforgivable!	泡泡圣斗士可千万不要来啊
+Guard it	惹我也不行
+Guard the hallway	千万不要惹海皇大人
+Guard them so the villains can't escape!!	别把恶魔放跑了
+Guard well.	要好好守住
+Guard!	卫兵!
+Guard! Guard!	警卫警卫
+Gue...st... snacks...	好恐怖的升龙霸
+Guess they're not here.	好像不是这里
+Guest~ Want some snacks?	千万不要惹海皇大人
+Guhh!	苦啊~
+Guild	家族
+Guild Board	家族留言板
+Guild Chat	家族
+Guild Frame	家族框架
+Guild Grade	家族等级
+Guild Info	家族荣誉信息
+Guild Introduction	家族公告
+Guild Management	家族管理
+Guild Master	家族族长
+Guild Name	家族名称
+Guild Notice	家族介绍
+Guild Password	家族密码
+Guild Points	家族荣誉点
+Guild Role	家族职责
+Guild Symbol	家族徽章
+Guild mark has been changed.	家族徽章已经变更.
+Guild members cannot be on different teams.	同一个家族成员不能成为2个不同的组队
+Guild points increased by %d!	家族荣誉点上升 %d点
+Gurgh!!	啊！
+Gurgle	咕噜
+Gurk!!	格呃
+Gurk~ I didn't even get to raid~~!	格呃…还没发挥呢就…
+Gwaaaack	即将奏响死亡交响曲
+Gyaaah~	啊~~
+Gyaaah~!	啊啊~！
+H-hey~ You can't just leave??	忽忽忽忽~
+H-human, you have won...	我竟然被人类打败了
+Ha!	噗
+Ha..ha..the truth is..	蓝妹妹你比胖墩瘦多了
+Hahah, weaklings!	哼哼一帮弱人
+Hahaha	格格格格
+Hahaha look at that	哈哈看看这里吧
+Hahaha! (Yikes, the boss is getting mad...)	哈哈哈!(BOSS生气...)
+Hahahaha!	傻掉啦?
+Hahahahaha	格格格格
+Hair	假发
+Halt right there~~~	站好了
+Hang 'em up!	把你给绑住！
+Hang in there, Giant Octopus.	加油!大王章鱼耶!
+Hat	帽子
+Have a taste of this!	休息休息
+Have some manners! ;_;	妈呀! ;?;
+Have you come to feel my wrath?	好恐怖啊
+Have you witnessed the power of ghosts...	想尝尝我们的厉害吗?
+Haven't joined a guild yet?! *Join a guild to make lots of friends~ *You can enjoy the game even more!	还没有家族? 还不赶快加入家族! \n\n多认识朋友,会让游戏更添乐趣!
+Having fun?	敢到我的后花园撒野?
+Having tracks sure is convenient!	有船就是方便
+He's angry~!	生气了~！
+Head	帽子
+Heart	真心戒指
+Heave ho! Melt, ice!	冰怎么还没化啊?
+Heave-ho	好冰~
+Heave-ho!	吭哧吭哧
+Hedgehog	刺猬模式
+Hee hee hee! Let's go catch them!	咯咯!抓住他!!!
+Hee hee!	呀呼
+Heh heh heh heh heh...	咯咯咯咯
+Heh heh heh...	格格格格!
+Heh heh!	嘻嘻
+Heh heh, it's time.	哼哼…时间到了
+Heh heh.. you should see for yourselves why they're called invincible.	呵呵...这帮家伙无敌耶
+Heh, you've been brought to your knees.	呼,还是挂掉了
+Hehe	等着大爆发吧
+Hehe!	嗬嗬
+Hehe, I was waiting for you to come.	忽忽等着你们来送死~
+Hehe, bringing the guest inside...	我的小宇宙终于爆发啊
+Hehe, it'll be hard to move around	忽忽动都费劲
+Hehe, we won't let you off easy	忽忽不会放过你们的
+Hehe, where could they be hiding?	我的小宇宙爆发也很强的
+Hehe, you're trapped!	呵呵，抓到了~
+Heheh	呵呵
+Heheh, gotcha~	呵呵，抓到了~
+Hehehe	泡泡圣斗士有什么了不起?敢到这里撒野?
+Hehehe!	桀桀桀!
+Hehehe, the Crazymen are lost!	你们这些不讲道义的家伙
+Hehehe, you can't dodge this	呵呵，这个应该躲不了
+Hehehe, you fell for my trick~	怕了吧?
+Hehehe...	格格格格…
+Hehehe... Fine, I'll show you my new technique	呵呵，让你见识我的新技术
+Hehehehe!	嗬嗬嗬嗬
+Hehehek	呜哈哈
+Hehe~	为什么人类不怕海皇呢?
+Heh~heh~heh~	忽忽!
+Hell is open!!!	地狱之门开启
+Hell's Heart Attack!	下地狱吧
+Hello~~	泡泡圣斗士有什么了不起?敢到这里撒野?
+Help	帮助
+Help me	放过我吧
+Help me please!	帮忙啊
+Help me!	救命啊
+Help me!!!	救命啊!!!
+Help me~	救我…
+Help me~!	救我啊~
+Help~	救我…
+Here it comes again!	又来了
+Here it comes again.	走,再来一次
+Hey Crazyman~ Tell us the way~	1V1敢不敢?
+Hey buddy~~	还是离这些恐怖的泡泡圣斗士远点吧
+Hey guys, over there!	孩子们,在那里了
+Hey hey hey!	莫非这就是传说中的天马流星?
+Hey little bro~	好强的小宇宙啊
+Hey you! Stop goofing off!	嘿~别玩
+Hey you, come here lol.	救我…
+Hey! Are you slacking?!	你不干活在干吗?
+Hey! Ow ow!	好痛啊~
+Hey! Snap out of it!	振作起来
+Hey! That's cheap!!	你太棒了
+Hey! What are you doing?!	看看看看~都什么啊?
+Hey, Giant Octopus! Do your thing!	看,大王章鱼来了
+Hey, I said I'm a princess!	笨蛋!那是公主
+Hey, be more careful	小心点啊
+Hey, dodge faster!	这家伙,再躲快点啊
+Hey, don't chicken out	别睡着了~
+Hey, no fair!	不行
+Hey, you're one of Giant Octopus's minions, right?	你是大王的手下吗?
+Hey~ You okay?	怎么样
+Hey~ don't go near the Seal Lord!	我的小宇宙爆发也很强的
+Hey~ stop right there!	给我站在那里
+Hey~ watch out~	这回得小心点了
+Hi Sweetie!	欢迎情侣
+Hide behind the crates.	藏到后面去
+His Majesty told us to catch them.	陛下命令抓住他们
+Hit me even once and I'll clear the minions for you.	给我鞠躬?没用的,一样要消灭你
+Hit the penguin, not me! ;-;	帝企鹅来啦
+Hiyaaaah!!!	呀！
+Hiyaaah!	呀哈哈
+Hiyaaah!!	呀呼
+Hiyaaah!!!!!!!!	呀！
+Hiyaaat!	呀呀呀
+Hiyah!	呀！
+Hm?	昂?
+Hm? Not dead yet?	蓝妹妹给我跳支舞!
+Hmm hmm	忽忽忽
+Hmm, maybe I should change my attack style.	哼…换个招数
+Hmm.. not bad.	呼…坚持住啊
+Hmm.. the fact that you made it here means...	嗬嗬…能走到这里
+Hmm...	嗬嗬
+Hmm~? Is someone there~?	恩?谁在那里?
+Hmph	忽忽忽
+Hmph hmph!	哼哼！
+Hmph!	哼~!
+Hmph! Come at me!	哼!躲啊!
+Hmph! Scared now?!	哼!怕了吧!
+Hmph, I just need to bring more.	哼~再有几个人也全部搞定
+Hmph, is that all you've got?	哼哼,一群笨蛋
+Hmph, you coward	胆小鬼~
+Hmph~!	累~!
+Ho.. Still alive, I see	啊，还没死
+Hoo hoo hoo hoo	忽忽忽忽
+Hoo hoo hoo!	忽忽忽
+Hooray! Hooray!	万岁！万岁！
+Hooray~	敢到我的后花园撒野?
+Hope nobody steals it...	谁都不能拿走
+How about I pick up the tempo?	提高一下速度？
+How about it? Become my minion.	想不想成为我都部下?
+How about we deploy the special forces?	哪里?敢死队上
+How bitter...	我冤啊…
+How dare you	敢
+How dare you anger the Emperor!!	你敢惹国王?你死定了
+How dare you attack me!!	这可是禁区!
+How dare you bully a ghost.	孤单单的…
+How dare you challenge me?	泡泡圣斗士=臭虫
+How dare you challenge our army!	这些交给我们就可以了
+How dare you come all the way here	敢到这里来?
+How dare you come to my training grounds	敢到我的后花园撒野?
+How dare you defy our army	我们是不可战胜的
+How dare you hit Munppaki	敢打开门?
+How dare you hit me!!!	好恐怖的天马流星
+How dare you hit our boss!	竟然敢打我们队长！
+How dare you infiltrate the Octopus Squad!	敢跟我们章鱼家族叫板
+How dare you kill my little sibling?	我小弟都敢动
+How dare you kill my minion!	敢欺负我的小弟！
+How dare you make me angry!	去那里呢?
+How dare you make me angry!!	居然惹我生气！！
+How dare you make me come out personally	竟然让我亲自出场
+How dare you try to kidnap the princess!	保护公主,别让人靠近!
+How dare you try to see the princess!	保护公主啊
+How dare you!	哪来的小子这么嚣张
+How did I end up cursed by ghosts	这里?
+How did you find me?	海皇大人的星光灭绝才最厉害!
+How did you survive???	怎么搞的?
+How embarrassing	海皇大人这里你也敢来?
+How frustrating.	郁闷
+How insolent!	笨蛋!
+How laughable, heh heh heh	真可笑~
+How many are left now?	还剩下几个了?
+How pathetic! Kekek~	莫非这就是传说中的天马流星?
+How pathetic~	泡泡圣斗士有什么了不起?敢到这里撒野?
+How ridiculous lol	没天理啊～
+How rude! You must be punished.	把这些无理的家伙干掉
+How'd you like that!	怎么样?
+Hu hu hu!	忽忽忽!!!
+Hu hu hu, our little ones are scary.	忽忽忽!!!怕不怕我们啊!!!
+Hu hu hu, that one looks like the real boss, doesn't it?	呼呼~这家伙是不是真BOSS啊?
+Hu hu hu, you'll never be able to kill it.	呼呼~绝对打不死!
+Hu hu hu.	呼呼~
+Huff huff	忽忽~
+Huff huff huff	怎么说你也是雅典娜的妹妹啊
+Huff huff, is it another bat??	卑劣的家伙们
+Huff huff, it's just a bat...	把陛下的敌人赶走
+Huff huff, let's take a break	忽忽休息休息
+Huff huff. Hey you guys, please just get hit already.	一定得打死他
+Huff huff..	哎哟
+Huff huff...	嗬嗬
+Huh, who just died?!	死掉的是谁啊?
+Huh... huhhhh?	海皇大人这里你也敢来?
+Huh?	乌拉
+Huh? I'm not tired yet!	恩?我还没死呢
+Huh? Was that the sound of a balloon popping...	恩?哪儿传来的泡泡破掉的声音啊?
+Huh? Was that the sound of a cockroach popping...	恩?哪儿传来的泡泡破掉的声音啊?
+Huh?!	阿？！
+Huh?! Someone untie me! TT	大意了
+Huh??	恩???
+Huhuhu~	忽忽忽忽~
+Huh~ huhhh?	蓝妹妹永远都是我的
+Huh~??	呀呵??
+Human, it's over now.	小子,一切都结束了
+Human, let's fight!	我跟你们拼了
+Human, off to hell.	欢迎来到地狱来
+Human, spare me.. T_T	放过我吧T_T
+Human, wait.	小子,给我等着
+Human, watch your back..	小子,小心后面…
+Humans are faster than ghosts T.T	怎么比我们幽灵还快?
+Hup two hup two	别太马虎~
+Hurgurkk!	嗬嗬
+Hurry and break out of the ice and help me!	快从冰里出来帮忙啊
+Hurry and catch that guy!	快抓住那家伙
+Hurry and move it to the castle~ heh heh heh.	快搬到大王那里去
+Hurry up and load!	快搬啊?在等什么?
+Hurry, go catch them!	赶紧给我抓住他
+Hurry, move it!	快走啊,等什么呢?
+Hurry~ run away~ hehe	快逃吧~忽忽
+Hyaah!	啊呀呀
+Hyah	呀呼
+Hyah hyah, break free	快点啊,怎么还没化?
+Hyah!!	呀哈
+I am King Yama of hell!	我就是阎罗王
+I am NOT lenient!	小心驶的万年船
+I am the Hokage of Octopus Village!	我不会放过你的
+I am the Octopus Princess.	我就是章鱼公主
+I am the Wizard	魔法师来啦
+I am the great Emperor Penguin!!!	我就是企鹅皇帝
+I came back for the boss!	为了大王我们回来啦
+I can do this alone!	海皇大人,泡泡圣斗士打进来啦...x?x
+I can get faster too!	你快?我比你更快!
+I can see all of you~	藏的再深也逃不过我的眼睛
+I can see far away.	以为躲的远就看不到了吗?
+I can see them but there's nothing I can do	看到了又能怎么样呢?
+I can see you even if you hide	藏的再深也逃不过我的眼睛
+I can't beat Crazyman...	我真的不是他的对手?
+I can't believe I got hit...	为什么是我？
+I can't die here~~	小心后面
+I can't let you see the princess.	不能让公主看到
+I can't lose to a human	不能输给这帮家伙啊
+I can't move ;-;	动不了了!
+I can't stand the pain!!	好痛啊！！
+I can't take it anymore!	再也不能忍了
+I can't trust you	堵住出口
+I didn't do anything	海皇很生气，后果很严重
+I don't wanna die	我不想死啊
+I don't wanna die again	不想死?
+I don't wanna die!!!	不想死！
+I don't wanna die~	莫非这就是传说中的天马流星?
+I don't wanna do this	真烦…
+I don't wanna live without the boss!	没有了队长不想活了
+I feel like a ghost is going to appear	跟着我,一起上
+I get stronger in here, heh heh heh	我越来越强了
+I got in trouble because of you guys.	因为你们觉都没睡好
+I grew big again~	为什么我的小宇宙怎么还不爆发啊
+I guess I'm bad at this game...	我的戏法好看吗?
+I have clairvoyance.	我有千里眼哈哈
+I have minions too!	我也有马仔的
+I have no energy	没劲儿了
+I have something prepared for you.	这是为你们准备的,哼哼…
+I have to protect him	泡泡圣斗士可千万不要来啊
+I haven't lost yet	海皇大人救我!
+I hear something	又有不怕死的来了
+I heard if you bump into them while they're frozen, they shatter and die..	冰住怪物，敲掉就会挂的
+I heard that Giant Octopus fool has been getting beaten up everywhere, so I came to see..	要不是大章鱼王那家伙搞不定,我才不会出马的
+I just heard a scream!	叫毛！
+I just wish they'd leave...	还是离这些恐怖的泡泡圣斗士远点吧
+I knew it	海皇大人,泡泡圣斗士打进来啦...x?x
+I knew it~ hehe	卑劣的家伙~
+I know everything.	我都知道
+I know where you are	藏的再深也逃不过我的眼睛
+I learned summoning from the Seal Lord~	泡泡圣斗士=臭虫
+I let my guard down!	放心了吧
+I lost my cool for a sec.. hehe	休息休息
+I lost!	输了！
+I must have misheard	天马流星?没听说过
+I must not die!!!	这可是禁区!
+I need to give snacks... xTxT	海皇大人,泡泡圣斗士打进来啦...x?x
+I only take the designated routes.	只走走过的路
+I only use kind words	敢到我的后花园撒野?
+I really am amazing!!!	哇噻,蓝妹妹你又胖了!
+I really did summon penguins	蓝妹妹的身材一级棒!
+I really mean it!!!	真的请客~~~
+I said be quiet	天马流星真的有这么厉害吗？
+I said it wasn't me! ;-;	会让你大吃一惊的,等着吧
+I shall pass judgment!	审判大会开始
+I shall protect you all	我来看管他们
+I shall take my leave	我先闪了
+I should help the boss~	快帮队长~
+I sleep with my eyes open~	海皇大人这里你也敢来?
+I smell something	海皇大人这里你也敢来?
+I think it'll be fine	还是离这些恐怖的泡泡圣斗士远点吧
+I think someone's here	有人砸场子！
+I think someone's there...	蓝妹妹将回成为新的海皇夫人!
+I told you to be careful!	让你小心…
+I told you to come out when I call, on time!!	海皇大人这里你也敢来?
+I wanna eat Bazzi side dishes!	想吃杭州:老鸭煲!
+I wanna eat Dao side dishes!	想吃 馄饨面!
+I wanna eat Frog side dishes!	想吃烧饼!
+I wanna eat Marid side dishes!	想吃广东小吃-果蒸棕!
+I wanna eat Wooni side dishes!	想吃佳木斯：酸菜猪肉炖粉条!
+I wanna eat a bulgogi burger!	想吃温州:红烧梭子蟹!
+I wanna eat a cheeseburger!	想吃长沙：口味虾!
+I wanna eat a chicken quesadilla!	想吃德州：德州扒鸡 !
+I wanna eat a tenderloin steak!	想吃上海：炒鳝糊 !
+I wanna eat a vanilla shake!	想吃广东小吃-蒸肠粉 !
+I wanna eat banquet noodles!	想吃成都：泡椒墨鱼仔 !
+I wanna eat bean sprout bibimbap!	想吃重庆：香辣蟹!
+I wanna eat black bean noodles!	想吃香港：烧腊 !
+I wanna eat braised short ribs!	想吃煎排骨了!
+I wanna eat cheese oven spaghetti!	想吃青岛：海鲜小豆腐 !
+I wanna eat cold jellyfish platter!	想吃烧饼!
+I wanna eat dim sum!	想吃山东小吃-煎饼卷大葱
+I wanna eat french fries!	想吃薯条了!
+I wanna eat fried squid!	想吃三亚：红咖喱金瓜加积鸭!
+I wanna eat kimchi pancake!	打完想吃火锅了!
+I wanna eat kimchi!	打完去吃槟榔了!
+I wanna eat lasagna!	想吃湖南小吃-口味虾 !
+I wanna eat oyster pancake!	想吃糖葫芦了!
+I wanna eat pepper japchae!	想吃刀削面!
+I wanna eat pork shumai!	想吃北京小吃白汤杂碎!
+I wanna eat soybean paste bibimbap!	想吃北京小吃 -糖火烧!
+I wanna eat spicy crispy chicken!	打完去吃肉夹馍了!
+I wanna eat spicy mixed noodles!	想吃潮汕:卤水鹅掌!
+I wanna eat spicy seafood noodles!	想吃广州：老火靓汤!
+I wanna eat sweet and sour pork!	想吃银川：雪花羊肉!
+I wanna eat sweet and sour shrimp!	打完想吃长清大素包了!
+I wanna eat tomato spaghetti!	想吃郑州：鲤鱼三吃 !
+I wanna go back~~	放过我，我是好人
+I wanna go home T-T	回家喽 T-T
+I wanna go out and play.	想去玩
+I want to get discharged soon.	快点巡完回去吧
+I want to get out of here~	嗬嗬~怕了吧
+I want to live~~~~	呀呼
+I wanted to drink an orangeade...	想吃乌鲁木齐：手抓羊肉 !
+I wanted to eat a Caesar salad...	想吃无锡：肉骨头!
+I wanted to eat a salmon salad...	想吃西双版纳：傣味拼盘 !
+I wanted to eat a whole sweet potato...	想吃洛阳：连汤肉片 !
+I wanted to eat bibimbap...	想吃丽江:牦牛火锅 !
+I wanted to eat black bean rice...	想吃大连：咸鱼饼子!
+I wanted to eat bulgogi pizza...	想吃合肥:咸鸭烧黄豆 !
+I wanted to eat bulgogi...	想吃宁波：雪菜笋丝汤 !
+I wanted to eat crispy rice soup...	打完想吃 地瓜粥!
+I wanted to eat fried rice...	想吃绍兴：霉干菜烧肉!
+I wanted to eat gnocchi...	打完想吃蛋炒饭!
+I wanted to eat grilled short rib patties...	想吃湖北小吃-豆皮 !
+I wanted to eat japchae rice...	想吃高雄：蚵仔煎!
+I wanted to eat king crab...	想吃西安：凉拌驴肉!
+I wanted to eat mung bean jelly salad...	想吃周庄：万三蹄!
+I wanted to eat nine-section platter...	想吃榨菜肉丝面牡蛎细面了!
+I wanted to eat oyster jjamppong...	想吃牡蛎煎了!
+I wanted to eat oyster noodle soup...	想吃春卷了!
+I wanted to eat rice cake...	想吃深圳：重庆老火锅!
+I wanted to eat royal tteokbokki...	想吃筒仔米糕了!
+I wanted to eat sea cucumber soup...	想吃南京：芦蒿炒香干 !
+I wanted to eat seafood noodle soup...	哭就想吃东西
+I wanted to eat smoked duck...	想吃开封：芝麻翅中翅!
+I wanted to eat spicy beef...	想吃福建小吃-光饼 !
+I wanted to eat sweet potato rice...	想吃油条了!
+I wanted to eat sweet potato...	想吃昆明：鸡杂炒干巴菌!
+I will not forgive you!	不会放过你的
+I will not forgive you!!	不会饶恕你们的
+I will repay this grudge...	这个仇一定要报~
+I win	赢啦
+I won't be easy!	我也不容易
+I won't die!!	小心驶的万年船
+I won't forget this.....	我不会忘记你的！
+I won't forgive you!	饶不了他
+I won't let any of you get away with this!!	泡泡圣斗士有什么了不起?敢到这里撒野?
+I won't let this slide	还是离这些恐怖的泡泡圣斗士远点吧
+I won't let this slide!	不会放过你们的
+I won't let this slide!!	还不老实点!!
+I won't let you get away!!!	听说升龙霸挺KB的
+I won't lose next time!	下次没你好果子吃
+I won't lose to Octopus minions~	你们根本就不是我们的对手
+I wonder if they're even practicing properly~	是泡泡圣斗士吗?好恐怖啊!
+I'll be a Sergeant soon too.	很快我也会成领导的
+I'll be right there	马上就去
+I'll be there soon...	马上就去~
+I'll become an evil spirit!	恶灵怕不怕?
+I'll bite you~~	咬死你算了
+I'll break free in no time...	快化了吧
+I'll catch every last one of you!	要把你们都抓住
+I'll catch you soon	不会放过你的
+I'll catch you~!!	来抓我啊
+I'll crush everything!!	蓝妹妹的身材一级棒!
+I'll destroy your fortifications!!	蓝妹妹将回成为新的海皇夫人!
+I'll double the ghosts for you!!!	还想逃?别做梦了
+I'll drag you to the underworld	把他扔进地狱深处
+I'll find them soon~	马上就去抓你,小可怜
+I'll finish this with my own hands!	我亲自杀死你
+I'll finish you off in one go	一鼓作气收拾掉你们
+I'll finish you off with my own hands!!!	亲手干掉你
+I'll finish you off!!!	干掉!!!
+I'll get my revenge!!!	这可是禁区!
+I'll get my revenge, you punks~	我要报仇!
+I'll get you!	杀了他！
+I'll get you.	过来哦
+I'll give you a nice burial lol!	我已经帮你选好了墓地
+I'll give you all the treasure you want, so hurry and free me	我给你好东西,快把我放了吧
+I'll give you an important mission	我会交给你们更重要的任务
+I'll give you treasure so cheer up	别发火~给你点东西~
+I'll go first, poor princess... sob sob...	我先走了,可怜的公主
+I'll go on ahead, sob sob...	我先闪了
+I'll guard it no matter what!	一定要遵守
+I'll handle this one alone.	为什么只对我下手?
+I'll have my revenge!	我要报仇！
+I'll kill you!!	就这么挂啦?
+I'll make sure YOU die!	就杀你一个！
+I'll pop you lol	我帮你敲掉
+I'll protect the Seal Lord.	还是离这些恐怖的泡泡圣斗士远点吧
+I'll protect you!	千万不要惹海皇大人
+I'll punish you!	给他点厉害
+I'll really feed you this time!!	这回真的请
+I'll separate your bones from your flesh!	哎哟 满厉害的嘛
+I'll show you a burning hot lesson...	让他们尝尝我们的厉害
+I'll show you my last stand!	让你看看什么叫最后的挣扎！
+I'll show you the meaning of pain!	让你尝尝疼得滋味！
+I'll show you the ultimate magic!	让你尝尝魔法的厉害
+I'll show you what I can do!!	泡泡圣斗士有什么了不起?敢到这里撒野?
+I'll stomp you all flat!	把他们都送地狱去
+I'll stomp you!	踩死你!
+I'll summon the Shadow Squad.	快叫鬼影来
+I'll take you on myself!	我来跟你玩！
+I'll teach you a lesson	吓死我了
+I'll teach you a lesson!	吓吓他
+I'll teach you a lesson!!	杀了他!
+I'll tie you up!	别想逃出我的手掌心
+I'll walk faster now.	要加快速度了
+I'm a good Seal King	海皇大人这里你也敢来?
+I'm a minion of the Penguin King	我是企鹅大王的手下
+I'm a proper soldier too!	才发觉我也不是很聪明
+I'm alive again!!	又活过来了?
+I'm alive!	千万不要惹海皇大人
+I'm all alone now...	又剩下我一个了
+I'm angry	我生气了
+I'm angry!	火大啊
+I'm awake now~	醒啦!
+I'm bored	惹我也不行
+I'm bored of being outside	外面无聊
+I'm bored, you know~~	火山要爆发了
+I'm close to you	就在你身边
+I'm dying	心疼啊
+I'm dying from exhaustion	累死我了~
+I'm dying...	我快完蛋了
+I'm free!	快放我出去
+I'm going to become an evil spirit!	要变成恶灵
+I'm gonna call my big brother!	叫我哥哥过来救我
+I'm gonna faceplant!!!!	即将奏响死亡交响曲
+I'm gonna go wild!	别丢下我
+I'm gonna speed!	加快速度
+I'm hungry	有点饿了
+I'm immortal, you know.	怎么弄都差不多啦
+I'm in a whole different league from that Giant Octopus fool	是大章鱼王那家伙没法比的
+I'm just a guest.	我是客人
+I'm just a servant~!	我只是小喽罗
+I'm kinda hungry	有点饿了
+I'm mad now! Ugh!	我生气了…
+I'm nice so I'll hold back~	蓝妹妹给我跳支舞!
+I'm no good at fighting	一点素质都不讲,真弱
+I'm not falling for it anymore	这次没骗你
+I'm not lost	这回安全了吧
+I'm not lying!!!	骗你是小狗!!!
+I'm not on Giant Octopus's side anymore!	以后再也不能信大王了
+I'm not telling!	蓝妹妹的身材一级棒!
+I'm on your side!!!	我和你是一伙的
+I'm really nice~	蓝妹妹永远都是我的
+I'm revived!	又复活了
+I'm right behind you~~!	我就站在你身后
+I'm scared	好怕怕
+I'm scared to death, shiver shiver	吓死我了
+I'm scared!!	为什么配角总是这么早就死掉呢？
+I'm scared~	好怕哦~
+I'm scary when I'm angry!	你惹火了，后果很严重
+I'm so mad!	我生气了,后果很严重
+I'm standing behind you	站在你身后
+I'm strong too.	我很强!你不知道吗?
+I'm telling the Seal Lord on you	是泡泡圣斗士吗?好恐怖啊!
+I'm the one who taught the Giant Octopus the clone technique	千万不要惹我
+I'm tired..	好累
+I'm tough!	我很厉害
+I'm trying to be nice!	千万不要惹海皇大人
+I'm! Angry!!!	我生气了
+I've been given an important mission!	接到了一个很重要的任务
+I've been spotted! I've been spotted!!	还是离这些恐怖的泡泡圣斗士远点吧
+I've been waiting...	等着你们那
+I've prepared something special for you.	给你准备了特殊的礼物啊
+I've taught them various skills, but...	只剩我一个了?
+I-I'll just hide here	他们还会来的…
+I-is that a ghost?	会让你们好好品尝一下我们的厉害
+I... let my guard down...	砰…好惨…
+ID	账号
+ID Number (7 digits)	身份证号后位数(7位数)
+ID number is not valid.	身份证号不正确
+Ice Age!!!	不好受啊
+Ice, begone!	又被冻住了
+If Crazyman joined our side,	等我的同伴来了,你们…哼哼
+If I can just get bigger!	泡泡圣斗士可千万不要来啊
+If I catch you, you'll become a ghost too	被我抓到,你也会变成幽灵~
+If I die, you all disappear too!!!	小心驶的万年船
+If it works, he'll teach us too	我的小宇宙爆发也很强的
+If nothing happens, I'm leaving	海皇大人很好很强大
+If only I were free...	等我自由了
+If the guild has 1 or fewer members for 60 days after creation, it may be disbanded. Do you agree?	家族生成后60天内,家族成员数量为1人以下时, 家族会自动解散!
+If the princess gets hit, we have to leave.	谁敢动我们公主?跟他拼了
+If you bully me, I'll faceplant!!	蓝妹妹永远都是我的
+If you can't kill them while they're frozen, better watch yourself lol	这家伙被冻住了,都能逃掉,要小心了
+If you catch them, eat them! +T_T+	哈咻抓到你就吃了你
+If you leave Mystery Egg Smash, all eggs being cracked will be discarded.	如退出魔力彩蛋页面，所有正在砸的彩蛋将归零！
+If you underestimate us for being cute	别以为人家可爱,就怕你,哼~
+If you want to surrender, now's your chance.	快投降吧
+If you're 'it' and can't pass the bomb in 5 seconds, it explodes! Touch another player to pass it!	拿到炸弹后5秒内没有移动炸弹就会爆炸. 碰到其他玩家，炸弹就会转移
+If you're suspicious, try killing me!	怀疑我就杀了我啊!
+Ignore All	拒绝全部
+Ignore All Chat	屏蔽所有话
+Ignore All Chat is ON. Press F10 to turn it off.	目前为屏蔽所有的话状态，如需解除请按F11，关闭“屏蔽所有的话”状态
+Ignore Chat/Trade	拒绝悄悄话
+Ignore Trades	拒绝交换
+Ignore Whispers	拒绝悄悄话
+Ike	小乖
+Illusion Clone!!!	小心驶的万年船
+Impressive	惹我也不行
+Impressive!	强~
+In 1v1 match	1:1 对战
+In Shop	商店内
+In room (%s).	(%s) 号房间正在使用中。
+In the channel waiting room.	等待房间正在使用中。
+In this warehouse, I always win!!!	在这里我才是老大
+Information does not match the server. Please try again.	与服务器的信息不一致.请重试 .
+Initializing domino. Please wait...	多米诺现在是初始化阶段，请耐心等待！
+Initiating Delta-1 operation!	换成第一套作战方法
+Insolent!	小样！
+Insufficient Cash balance. Please recharge first.	点券余额不足，请先充点券。
+Insufficient Lucci balance to send.	金币不足,无法购买
+Insufficient Lucci to create a room.	您的金币不足，所以不能开设房间
+Insufficient Lucci to join the room.	您的金币不足，所以无法进入房间
+Insufficient Lucci to purchase the item.	金币不足,无法购买
+Insufficient Lucci.	金币不足。
+Intro	进场效果
+Intruder captured alive.	给我留活的啊
+Intruder eliminated.	入侵者的下场
+Intruder!	侵入者
+Invalid ID.	账号错误.
+Invalid command.	指令无效
+Invalid command. Type /? to see available commands.	错误指令,请重新输入
+Invalid coupon number.	错误的赠券号码。
+Invalid map. Returning to lobby.	非正确地图，退回到大厅
+Invalid message length.	信息长度错误
+Invalid room title. Please enter a new title.	不是有效的房间名称。\n\n
+Invalid room. Cannot view room info.	不是有效的房间. 无法确认房间信息。
+Invalid version!	错误的版本
+Invite %s to the current chat?	确认是否邀请%s进行聊天？
+Invite '%s' to the guild?	您要邀请'%s'加入家族吗?
+Invite to Current Chat	邀请玩家进入聊天室
+Invite to Game Room	邀请玩家进入游戏房间
+Is anyone there?	谁在那里?
+Is it over now?	结束了吗?
+Is it over?	结束了?
+Is it safe now?	这回安全了吧
+Is it the ghosts' doing?	小心小心
+Is that a guest?	这可是禁区!
+Is that a win?	胜利了吗?
+Is that all of them?	这回没了吧?
+Is that all you've got?	算什么?
+Is the Seal Lord safe?	泡泡圣斗士=臭虫
+Is the flower garden safe?	泡泡圣斗士有什么了不起?敢到这里撒野?
+Is the mech squad done charging?!	机械化部队整装完毕!
+Is the prisoner still inside?	罪犯在里面吗？
+Isn't this too easy, troops?	太简单了…没意思…
+It doesn't hurt anymore!	天...马...流...星...
+It hurts!	好痛
+It hurts, it hurts	好痛啊好痛啊
+It wasn't me!	会让你大吃一惊
+It'll be bad if the flowers get damaged	这里可是海皇大人的后花园啊
+It'll break soon	马上就破掉了
+It's 100 Lucci per Wooni.	抓住一只奖100金币!
+It's Emperor Penguin's plan	又出来丢人来啦
+It's a ghost~~~~	藏到后面去
+It's all mine!!!	都拿出来~
+It's an ice seal! T.T	被冰封了T.T
+It's cold!	好冷啊
+It's dangerous here	这里危险
+It's easier to just roll	海皇大人这里你也敢来?
+It's morning!!	天亮啦!
+It's noisy outside	泡泡圣斗士可千万不要来啊
+It's nothing special	庐山升龙霸?真够烂的
+It's okay now.	这回爽到家了
+It's over~	呀呼
+It's the enemy! The enemy!	有敌人～
+It's too late to beg now!!	现在求饶,已经晚啦~
+It's too scary to walk around	格格格格…
+Item Bag	购买包
+Item Name	商品名称
+Item coupon has been used.	使用了道具赠券\r\n\n
+Item listing failed.	登陆失败
+Item not found or already delisted.	没有这件商品或已售出
+Item not found.	找不到该商品
+Items	功能道具
+Items being sold cannot be equipped.	出售中的商品不能预览
+Jealous of my whiskers?	海皇大人这里你也敢来?
+Join Date	加入时间
+Join Request Management	家族申请名单
+Join on in!	新手专用频道
+Join the '%s' guild?	您要加入'%s'家族吗?
+Judgment complete.	审判大会结束
+Just a little more and I'd be fine!	再坚持一下就好了
+Just a little more~	在坚持一下啊~
+Just ask if you need more.	蓝妹妹给我跳支舞!
+Just capture them	还是离这些恐怖的泡泡圣斗士远点吧
+Just catch them all!	不管怎么样先抓住再说
+Just gotta get bigger!	我的小宇宙爆发也很强的
+Just hold out for 30 seconds!	坚持30秒
+Just hold out for 30 seconds!!	坚持30秒
+Just kidding though	虽是假话
+Just kidding!!!! Bwahahaha!!!!	骗你的啦!!!哈哈哈!!!
+Just kidding~	蓝妹妹的身材一级棒!
+Just one more chance~	再给一次机会吧
+Just one touch and you're caught. Heheh	只要碰到就跑不掉了
+Just try coming out	你敢出来
+Just try coming out.	你敢出来
+Just wait 1 second	再等我1秒
+Just wait 3 seconds	再等我3秒
+Just wait 3 seconds please	再等我3秒好不好?
+Just wait 5 seconds!	是泡泡圣斗士吗?好恐怖啊!
+Just wait till I break free..	等着我～
+Just you wait	给我等着
+Just you wait!!	给我等着
+Ke ke ke ke!	格格格格
+Keck!	咯咯
+Keck.....	格…
+Keeek!!!!	啊！！！
+Keep a close watch!	好好看紧了
+Keep going even if hungry!!	肚子饿还得干活~
+Keep it down!!	辐射冲击
+Keep order!	遵守秩序
+Keeping watch.	看什么看啊?
+Keh heh heh heh...	呃呃呃呃呃呃
+Kehehe	格格格格
+Keheheheh	哼哼
+Kekeke	格格格
+Kekeke, try catching the ghost	敢到我的地盘跟我抢食…
+Kekekeke	啊啊啊！
+Kekeke~	好强的小宇宙啊
+Kekek~	这可是禁区!
+Kick '%s'?	您要让'%s'强制退出吗？
+Kick Reflect has been activated! %s has been kicked instead.	%s将被强制退出房间。\n\n
+Kids, come out!!	出来吧,孩子们
+Killing us is useless!	杀了他又有什么用?
+Kind Emperor Seal~	海皇大人的后花园就是我的家!
+King Yama attacks!	阎罗王攻击~
+Kneel!	跪下
+Know that I won't let it slide if you lose!	输了是不会有好果子吃的
+Kraagh~	啊啊~
+Kuek! You punk!!!	格呃~这家伙
+Kugh...	格呃格呃
+Kuheng!	苦啊~
+Kuk!	可恶~
+Kwek~	苦啊~
+Kweng	苦啊~
+Kyaaah	喀喀
+Kyaaah!	格格
+Kyaaah!!!!!	格呃~笨蛋!
+Kyaaah~	啊~
+Kyaah I'm sorry I messed up	对不起陛下
+Kyaah!	咯咯
+Kyah!	咯咯
+Kyahaha	咯得咯得
+Kyaharhar	咯得咯得
+Kyak!	啊！
+Kyak!!	啊！！
+La la la la	啦啦啦
+La la la~	会让你坠入永恒之梦乡
+La la~	啦啦
+Lackey of the Giant Octopus!	我是大王最得力的手下
+Ladder Draws -> 0	段位 无 -> 0
+Ladder Grade %d or above required.	段位 %d 段以上玩家才可使用.
+Ladder Grade %d or below required.	段位 %d 段以下才可购买.
+Ladder Grade -> 0	段位经验-> 0
+Ladder Losses -> 0	段位 战绩 -> 0
+Ladder Points -> 0	段位胜率 -> 0
+Ladder Wins -> 0	段位 胜 -> 0
+Lately I've been enjoying training my minions.	我的小宇宙怎么还不爆发啊
+Leave it to us!	泡泡圣斗士可千万不要来啊
+Leave it to us.	我的小宇宙爆发也很强的
+Leave the '%s' guild?	您要退出'%s'家族吗?
+Leave the useless ones behind!	没用的家伙,都滚吧
+Leaving to Windows before the game ends will count as a loss. Leave?	确定要在游戏结束之前退出到windows界面吗？退出后本局计为失败
+Leaving to Windows while ready will remove you from the waiting room. Proceed?	准备状态下退出到桌面，从\n等待房间退出.\n要移动吗
+Let me fire one more as a finisher!	再来一下,干掉他
+Let me out~	救我…
+Let me show you how strong I am!	想知道我真正的实力吗?
+Let me show you my true power!	让你看看我真正的力量！
+Let me show you the original Clone Technique!!!	蓝妹妹我错了,不应该说你胖
+Let me show you the spicy side!	让他们尝尝我们的厉害
+Let me tell you about myself	你是在说我吗?
+Let the statues handle it.	谁都别动
+Let's all work hard together!	还是离这些恐怖的泡泡圣斗士远点吧
+Let's begin...	开始…
+Let's begin~ Hahaha	开始吧~~~
+Let's do a patrol	没难度
+Let's do our patrol rounds.	要巡视一下了
+Let's dodge!!	海皇大人救我!
+Let's drag them to hell...	把他扔进地狱里
+Let's drive slowly.	慢慢地,别急
+Let's drive!	跑啊
+Let's fight!	开始战斗~
+Let's gather treasure for the Giant Octopus!	把大王的宝贝都拿出来
+Let's get along~	我们好好处吧
+Let's get outta here~	海皇大人救我!
+Let's get revenge!	报仇啊
+Let's get revenge! Let's get revenge!	要报仇！要报仇！
+Let's get to work.	干活喽
+Let's go catch them!	一起去抓！
+Let's go faster than the humans.	比速度,你们不是对手
+Let's go get them!	赶紧去抓啊
+Let's go on patrol	溜达溜达
+Let's go scare them	去吓吓他们
+Let's go to a buffet	跟我去腐败吧
+Let's go!	走吧~
+Let's have fun!	VIP卡多倍爆率
+Let's just jog a bit	不要太累了,得休息休息
+Let's just play together~	千万不要惹海皇大人
+Let's just pretend to guard.	装装样子嘛!
+Let's just roll around on the floor	别打我啊,我不说了
+Let's just run away...	就知道逃,哼哼
+Let's keep order!	保持秩序
+Let's look around...	去那里找呢?
+Let's move the treasure to the Giant Octopus's castle!	把宝物都送到大王那里去
+Let's offer them as a sacrifice...	成供品了...
+Let's protect it!!	这可是禁区!
+Let's protect the Seal Lord!	海皇大人的星光灭绝才最厉害!
+Let's roll there quickly!	莫非出现宇宙大幻觉了?
+Let's roll!	快跑
+Let's run!	快跑！
+Let's scatter~	散开
+Let's see how long you can hold out	看看你们能撑多久?
+Let's stack the treasure nicely~	把宝贝都收好了
+Let's start big!	重新开始
+Let's summon more grim reapers.	再找几个小鬼过来
+Let's take a break~	歇一会儿吧~
+Let's try to find the way now~	在这里我才是老大
+Let's turn them into skeletons!	干掉他
+Let's wait...	等着吧…
+Let's walk..	走路吧
+Level	级别
+Level %d or above required.	只有等级 %d 以上的才能领取新手道具
+Level %d or below required.	只有等级 %d 以下的才能领取新手道具。
+Level -> 1	级别 -> 1
+Level 46+ only. (Except Ladder Practice)	这里高手如云，要时刻小心！
+Level Requirement	加入等级
+Level:	级别:
+Liar	骗子
+Lieutenant, come out and deal with this!	出来单条
+Limited Edition	限量出售
+Listen to this and cheer up!	报仇啊!
+Listing an item uses one Market Listing Ticket. Proceed?	寄卖到玩家商店需要摊位证一张,您要寄卖吗?
+Little Pirate, help~	小海盗，救救我~
+Little ones of the sea!	小屁孩儿
+Live here forever.	这可是禁区!
+Loading up the treasure~!	正在搬运宝物呢
+Loading...	下载中…
+Login failed due to an unknown error.	因发生了无故的错误，登录失败
+Lol go practice~	咯咯我真是个笨蛋
+Lol try to survive this	咯咯~看你这次怎么逃命
+Lol you're done for now!	呵呵，你完蛋了！
+Lolol	呵呵呵
+Lolol!	咯咯咯咯
+Lololol!	格格
+Lololololol	呵呵呵呵呵
+Lolololololol!	咯咯咯咯咯咯
+Look around carefully	要小心巡查
+Look around.	要看看周围
+Looking around	别晃啦
+Looking around, looking around	到处看看
+Looking around~	四处瞄瞄~
+Looks like mana is still low	千万不要惹我
+Looks like someone came...	千万不要惹海皇大人
+Looks like they're hiding somewhere	藏在哪儿了呢?
+Lose	失败
+Losers go to the brig.	输掉就没活路啦
+Losing would be a pirate's disgrace!	输了是我们海盗的耻辱
+Losses -> 0	战绩 -> 0
+Love that popping sound~	泡泡碎掉的声音真好听
+Lucci	金币
+Lucci cannot be earned in Lucci bonus maps during Practice mode.	在金币地图中一个人游戏是得不到金币的
+Lucci items cannot be gifted.	用金币无法赠送礼物。
+Lucci transfer failed.	无法正常交易金币
+Lucci transfer successful.	金币成功从支付通转移到“我的道具”
+Lucci: %d	金币:  %d 
+Lucky Spin coupons can be obtained from Lucky Spin Quest Cards sold in the shop.	此类VIP卡已售完，请选择其他VIP卡
+Lucky items cost 200 Lucci.	奖励200金币~
+Macro	热键
+Mad yet?	郁闷吧?
+Main	菜单
+Make sure no one interferes	我的小宇宙爆发也很强的
+Male	男性
+Map Name	地图名
+Market	玩家商店
+Market Listing Ticket	摊位证
+Masks	面具
+Master	族长
+Max	人数
+Maximum %d Lucci.	可以寄卖的商品价格最高为%d
+Maybe I overdid it...	泡泡圣斗士就是一群小臭虫！
+Mega Explosion spell!!!	看我的魔法~~~
+Mega Explosion!	等着大爆发吧
+Mega Explosion!!	火山要爆发了
+Melt, ice..	快化了吧
+Melvin	葱头
+Member	正式成员
+Member List	家族成员列表
+Member Management	家族成员管理
+Members	家族成员数量
+Men! Subdue them!	兄弟们!别放过他们
+Menu	菜单
+Meow?	知道厉害了吧
+Mere peons dare!!	熊样子
+Mess around and you're dead!	不要有侥幸心理
+Message	消息
+Message is too long.	消息太长.
+Message sent successfully. Postage is free for your sweetie!	发送消息成功.给伴侣发送免费消息
+Message sent successfully. Used %d Lucci for postage.	发送消息成功.支付 %d 金币
+Messages from the specified user are not being ignored.	无法拒绝指定用户的信息。\n\n
+Messed up the summoning again	海皇大人这里你也敢来?
+Messenger	好友
+Mini Game	迷你小游戏
+Minions ;-; come back.. ;-;	我亲爱的手下们,出来吧
+Minions! Do something about them! T_T	孩子们,给我收拾他们! T?T
+Minions, come out!	孩子们,快出来吧
+Misc	其他
+Mission complete!	战斗结束
+Mission success~~	这里啊
+Mixed Set	组合
+Mmnya...	恩那
+Modify your profile?	确认是否要修改个人信息？
+Mommy!	妈呀!
+Mommy~	妈呀~
+Mommy~ It's a ghost~	你是逃不掉的
+Mommy~~~	妈~~
+Mommy~~~~	我就是阎罗王
+Monster Mode	怪物模式
+Monster summon~!	怪物们上
+Moss	小强
+Move it!	快跑啊~
+Move out!	出发
+Move out!!	冲啊!!!
+Move silently	悄悄的小声的
+Mr. Moonbbak is scary!	好怕怕!!!
+Mr. Moonbbak, please forgive us!	放过我吧!!!
+Mr. Moonbbak, please give us one more chance!	再给一次机会吧
+Mr. Moonbbak, please spare us!	放过我吧!!!
+Mr. Octopus is heading to the exit.	大王您要去哪里?
+Munch munch	生气
+Mwahahaha!	呜哈哈哈
+Mwahahaha, there you are, right there	火大~赶紧到我这里来
+Mwahahahaha!!	呼哈哈哈哈~
+My Guild Info	我的家族信息
+My Guild Points	我的家族荣誉点
+My Info	个人信息
+My Items	我的道具
+My Page	道具
+My attacks show no mercy	怕了我的攻击了吧？
+My big bro is scary.	怕不怕我?
+My friend~!	兄弟啊~
+My minions locked me up in here, boo hoo..	那帮混蛋把我关在了这里
+My power is fading...	没劲儿了
+My special move!! Water bomb attack!!	千万不要惹海皇大人
+My! Trea! Sure!	我的,都是我的宝物~
+My.. my treasure...	我~我的宝物啊
+Mystery Egg	魔力彩蛋
+Mystery Eggs contain various treasures~ *Items from Mystery Eggs cannot be traded.	魔力彩蛋里有很多宝贝的，期待吧。。。还不拿起锤子砸？等什么呢？
+N..no way..	泡泡圣斗士=臭虫
+Name	姓名
+Nameplate	账号
+Needle	针
+Neener neener~	郁闷~~~
+Network conditions are poor.	因网络环境不稳定，连接终了
+Never let them through!	绝对不能让你过去
+New	新品
+New Guild Mark	变更后家族徽章
+New to the game? Click the Practice button at the top right to practice against the computer first.	如果是第一次登陆游戏可点击画面最右上方的自己游戏按钮与电脑进行对战.
+Newborn puppies	小兔崽子
+Newest First	创建排序
+Newly released Monster maps will be randomly selected.	随机选择新怪物地图
+Newly released maps will be randomly selected.	泡泡堂地图中新的地图会随机选择.
+Nexon ID	泡泡堂账号
+Nexon ID password does not match.	泡泡堂账号密码错误.
+Nexon ID:	泡泡堂账号
+Next one!	下一个是谁?
+Nice	漂亮
+Nice Seal's casual watering!!!	雷鸣波浪
+Nice Seal's flower garden watering!!!	辐射冲击
+Nice Seal's garden stomp	寒冷的极光
+Nice body too... sorry hehe	蓝妹妹的身材一级棒!
+Nice breeze~	吹风真好
+Nice job!	干的好！
+Nice to have more room	没人挡着我了
+Nice work~	干的漂亮!!
+Nice!	好啊！
+Nicer than Dao	蓝妹妹将回成为新的海皇夫人!
+Nickname	账号
+Nine? Ten? There's no such thing!	啊?咦?不可能啊
+Nngh...	吭吭
+No	取消
+No Despair	拒绝失败
+No big deal~	蓝妹妹的身材一级棒!
+No cutting in line!	重新开一局吧
+No emotes available to register.	没有可登记的表情
+No enemy stands before the Shadow Squad!	鬼影无敌
+No forgiveness	不会放过你的
+No mercy	不能放过你
+No more going easy on you!	不管你啦!
+No more holding back~~~!!!	给我等着
+No more mercy!!	不会饶恕你们的
+No need to be scared	警备,警备
+No need to rush	千万不要惹海皇大人
+No one came, right?	庐山升龙霸?真够烂的
+No regrets!	不后悔
+No response from login server. Cannot log in.	登录服务器不答应，请稍候再试
+No search results found.	搜索结果不存在
+No space to equip items.	空间已满，请确认
+No speeding!	快一点
+No sweetie.	单身
+No way!	什么话?
+No way~	莫非出现宇宙大幻觉了?
+No!	不行~
+No!!!! That's embarrassing!!!	我的小宇宙爆发也很强的
+No, I have to stay strong...!	得加把劲儿了
+No, we have to warn the General	蓝妹妹也一直是我们心目中的女神!
+Nobody around?	没有人吗？
+Nobody gets past here!	这可是禁区!
+Nobody's gonna come	蓝妹妹也一直是我们心目中的女神!
+Nobody's here	谁都不在
+Noisy brats, all of you disappear!	终于清净了
+None	无
+None of my business.	跟我无关
+Nooo!!	泡泡圣斗士有什么了不起?敢到这里撒野?
+Noooo!	不好啊~
+Nooo~~	知道厉害了吧
+Normal water balloons cannot be placed on domino sensors. Please place a domino water balloon.	参与多米诺只能使用多米诺专用泡泡！
+Not a chance!	没所谓
+Not a scratch!!	为什么人类不怕海皇呢?
+Not bad	有两下子嘛
+Not bad!	输了吗?
+Not enough Lucci.	金币不够充足
+Not enough?	缺点什么呢?
+Not even close!	还远着呢!
+Not in use	不使用
+Not instant noodles!!!!!!	最不喜欢拉面了!!!!
+Not much time left.	没剩几个了
+Not scary at all	有什么啊?小意思
+Not very skilled, are you~ hehe	笨蛋!
+Nothing beats the thrill of popping with Kepi~	弄破泡泡最有快感了
+Nothing special	没什么新鲜的
+Nothing works right!!	为什么人类不怕海皇呢?
+Now I'll feed you	过来给你饭吃
+Now feed me please~	这回请我吃饭吧
+Now go stomp on them.	这回还想怎么办?
+Now how about this	这个怎么样?好受吗?
+Now hurry back to your cell!	快回监狱
+Now ignoring all whispers.	拒绝所有人发送的悄悄话。\n\n
+Now ignoring messages from the specified user.	制定拒绝私聊用户名单。\n\n
+Now it's food time!!	这次有了吧
+Now it's for real!	现在正式开始！
+Now let's get some rest~	1V1敢不敢?
+Now let's sleep.	睡觉喽
+Now the Giant Octopus is invincible!	现在起章鱼大王是无敌！
+Now then,	还有就是
+Now where should I go?	去那里呢?
+Now you can't escape	这回跑不掉了吧
+Now! Squad 2, charge!	第二梯队冲锋
+Now's our chance!	现在是最好的机会
+Now's the time~!	现在~!
+Now, my eggs! Come out and catch them!	孩子们,去给我管教管教他们
+Now, our	这回知道
+Now~ Summon!!! Here we go~	海皇大人,泡泡圣斗士打进来啦...x?x
+No~	我的小宇宙爆发也很强的
+No~ If you touch it now it'll break!!	不要～现在碰会破掉
+No~!	不行~
+Nuclear strike!!!	核攻击
+Nyahahaha~	呀呼~
+Nyah~	泡泡圣斗士=臭虫
+Nyah~!!	敢到我的后花园撒野?
+Obey the traffic signals!	遵守秩序
+Obscene	淫秽
+Obviously that was a lie!!!!	当然是骗你的啦
+Octopus Fist Secret Art!!! Octo~Octo~~	看我们的厉害!章鱼!章鱼!
+Octopus Princess body attack!!	我尊贵的公主殿下
+Of course,	管他呢
+Off	关
+Oh come on	烦~
+Oh dear	庐山升龙霸?真强!
+Oh how pitiful, kekekek	呜呜好可怜啊
+Oh my!	妈呀
+Oh my, and they call that a king.	就他还能当大王?
+Oh my, how scary... shiver shiver	千万不要惹海皇大人
+Oh my, how scary~ How scary~	呜呜好怕怕啊
+Oh my, someone's angry.	呃~气死我了
+Oh my, that's not right, ho ho ho.	这算什么啊?嗬嗬
+Oh my, what brings you to a lady's room?	这叫什么事啊?
+Oh my~	是泡泡圣斗士吗?好恐怖啊!
+Oh no!	这这…
+Oh no! Da... no wait, no swearing!	会让你坠入永恒之梦乡
+Oh no! Intruders!!!	恩?有人侵入了
+Oh no, I'm all alone	只剩我一个了?
+Oh no..	听说升龙霸挺KB的
+Oh no~	呃~伸个懒腰
+Oh really?	呃
+Oh! He powered up!	哦！增加能量！
+Oh, I'm trembling	啊，我好怕
+Oh, you're here already?	忽忽很早就来了
+Ohoho	泡泡圣斗士可千万不要来啊
+Ohoho, treasure~ treasure!	啊啊啊~宝物~
+Ohohoho~!!!	呃忽忽~!!!
+Oink oink oink oink~~	给你送上食人鱼玫瑰
+Oink oink woof woof oink oink woof woof~~	ＫＢ的时刻到来！
+Omg PopTag!	新手专用频道
+On	开
+On patrol	还是离这些恐怖的泡泡圣斗士远点吧
+On patrol~	千万不要惹海皇大人
+On your knees!	膝盖
+Once mana is full, all-out attack!	庐山升龙霸?真够烂的
+Once mana is full, it's over!	小心驶的万年船
+One leg is enough to beat you!	切~给我挠痒呢！
+Only Premium users can select Premium maps. Would you like to purchase a Premium pass now?	通行证玩家才能选择 超级地图。现在要购买可享受通行证玩家优惠的通行证吗？
+Only guild members can enter.	注册家族的玩家才能连接
+Only the Guild Master can change the guild mark.	只有家族族长才可以变更家族信息
+Only the room leader can use this command.	该命令只有房主才可以使用。\n\n
+Ooh ooh, catch them~	来这里,来这里.
+Ooh~ooh~	知道海皇大人的厉害了吧
+Oooh oooh	全部去死
+Ooooh....we are the ghosts of the mine...	乌拉我们是无敌幽灵
+Ooooooh~~~~	乌拉~
+Oops!	啊呀呀
+Oops, all the flowers are dead	千万不要惹海皇大人
+Oops~	欢迎来到地狱来
+Operation failed due to a system error. Please try again.	因系统错误失败. 请重试.
+Operation successful.	完成
+Options	设置
+Other Settings	其他管理
+Ouch	啊呀呀
+Ouch!	唉呦
+Ouch! That hurts, you punk!	好疼！好疼 这家伙！
+Ouch, that hurts!	莫非这就是传说中的天马流星?
+Ouch?!	我的小宇宙爆发也很强的
+Ouch~ that hurts!!	海皇大人很好很强大
+Our	挑起
+Our army has been defeated...	我们战败了吗?
+Our boss is ruthless.	我们老板真的不是人！
+Our invincible soldier!	我可怜的兄弟啊
+Our king may be a bit ugly, but	虽然我们大王长相丑陋
+Our little one has been killed!	我们的小弟死了
+Our little one has been killed!!	我们的小弟死了
+Our love has been going for %d days~	我们恋爱第 %d天
+Our love is!	我们的爱~
+Our victory is inevitable!	我们会取得最后胜利的
+Out of breath?	好累啊
+Over 365 days	365日以上
+Over here too!	这里也有
+Over here! Everyone, come!	在这里!快来呀!
+Over there!	在那里!
+Over there! Catch them!	在那里,抓住他
+Over there! Over there!	在那边！
+Ow ow ow!	啊啊啊~郁闷~
+Ow ow ow~	惹我也不行
+Ow ow ow~!	好热啊
+Ow ow!	啊呀呀
+Ow!	呀呼
+Ow! Don't hit me!	跟你说别碰我
+Ow! My bad back is acting up~	我的小蛮腰啊
+Ow! My bad knee is acting up~	我的小细腿啊
+Ow! Ow ow!	好强的升龙霸啊
+Ow! That hurts, I said!	好痛啊
+Ow!!!! Stop hitting me!!!	莫非出现宇宙大幻觉了?
+Ow, that's hot~	奏响死亡交响曲
+Owwie!	啊呀呀
+Oww~	蓝妹妹也一直是我们心目中的女神!
+Ow~ How dare you hit me~	格格格格…
+Ow~ That hurts!!!!	地狱鸟在歌唱
+Ow~ that hurts!!	庐山升龙霸?真够烂的
+P..please help me..	救我…
+PC Cafe	网吧
+PC Cafe Free	网吧免费
+PC Cafe free items cannot be gifted.	无法赠送网吧免费道具。
+Password	密码
+Password cannot be the same as your ID.	不能使用与账号相同密码
+Pathetic	真可笑~
+Patrol patrol patrol	我的地盘我做主,去溜达溜达
+Pearl	珍珠戒指
+Pending...	等待加入…
+Penguin Penguin Clone Technique... right...	我再也不敢这么说你了
+Permanent	永久
+Permanent Ban	永久制裁
+Permissions	权限
+Pfft, got scared for nothing	海皇大人这里你也敢来?
+Pfft.	忽忽
+Phantom! Clone! Jutsu!	欢！迎！分！身！
+Phew	咻
+Phew lol	庐山升龙霸?真够烂的
+Phew, I survived	咻~干掉一个了
+Phew, I'm exhausted.....	蓝妹妹给我跳支舞!
+Phew, barely got out	好强的小宇宙啊
+Phew, this is tiring.	呼…好累
+Phew.	唉
+Phew.. You're really persistent, huh?	咻…你真是够坚强的
+Phew... that was tiring.	咻…累啊
+Phew~	莫非出现宇宙大幻觉了?
+Phew~ all moved~!	咻~总算都搬出来了
+Phew~ time to rest now!	咻~得歇一会了
+Phew~ what a relief!	海皇大人这里你也敢来?
+Picking a fight!	战斗
+Piece of cake!	莫非这就是传说中的天马流星?
+Pirate, help!	放了海盗~
+Pirate, help~	啊
+Pla.toon. 1. ad.vance	第.一.小.队.准.备.出.发.
+Play Crazy Arcade all you want in the afterlife!	好好玩游戏吧
+Player Limit	人员限制
+Players	人员
+Playing with your feet?	有脚也跑不掉啦
+Playtime is over!	开玩笑结束！
+Please don't use inappropriate words in your ID.	在账号里，请别输入禁用词汇
+Please enter a message.	请输入信息
+Please enter a valid room number.	请输入有效的房间号。\n\n
+Please enter your Nexon ID password.	请输入泡泡堂账号密码
+Please enter your couple request message.	请输入信息
+Please enter your coupon number.	请输入VIP卡号
+Please note that the current guild mark will be replaced when a new one is registered.	更换新的家族徽章以后,以往的家族徽章将会消失,请注意操作!
+Please rescue me~~	救我 !
+Please save me	救命啊~
+Please select a message to delete first.	先要选择要删除的信息.
+Please select a recipient first.	先要选择要给回复的人.
+Please select a user.	请选择玩家.
+Please select the user to enter the shop with.	请选择要进入商店的玩家.
+Please select the user to trade with.	请选择参与到交换的玩家.
+Please select which egg to crack.	想好砸那个了吗？请选择！
+Please set the duration~!	请设置期限
+Please set the restriction permissions~!	请设置制裁权限
+Please treat me as a prisoner of war~	我再也不敢这么说你了
+Please trust us	信我这一次吧
+Please try again later.	请稍候重试.
+Please wait...	频道连接中 请稍候
+Plunk	胖墩
+Plus one kill!	增加１杀！
+Poor princess... sob sob...	可怜的公主,忽忽
+Popular	人气地图
+Popularity	人气
+Pop~	砰～！
+Posh Evie	蓝妹妹
+Power	水柱
+Power Set	功能道具
+Power up!!	增加能量!
+Power- up!	啪-呦!
+Power~ Ghost power~	快点~幽灵快点~
+Practice	练习模式
+Practice more before summoning	为什么人类不怕海皇呢?
+Premium	特殊道具
+Premium channels offer faster EXP and additional services. Premium channels are currently only available at registered PC Cafes.	奖金频道经验值上升的速度比一般频道快,并且提供多种功能.\n\n只有拥有通行证才可以进入奖金频道,使用其各项功能
+Prepare yourself	醒过来吧
+Prepare yourself!	都醒过来啊
+Prepare yourselves!	觉醒吧
+Press OK or Enter to use the item.	点击确认或回车键就可以使用道具.
+Price	价格
+Price: High to Low	从高到低
+Price: Low to High	从低到高
+Princess!!	公主!!!
+Princess, you want to fight alone?	公主您要亲手对付他?
+Private	未公开
+Private First Class told me to!	是上级指派的
+Private Guild	非公开家族
+Processing another request.	正在处理其他请求。
+Processing another request. Please wait.	正在处理别的请求，请稍候。\n\n
+Profile	自我介绍
+Prop	多彩
+Props	前景
+Protect His Majesty!	要尊重陛下
+Protect the Seal Lord	还是离这些恐怖的泡泡圣斗士远点吧
+Protect the flower garden	海皇大人的后花园就是我的家!
+Protect the treasure!	看住宝贝啦
+Ptoo~	好累啊~
+Public	公开
+Public Guild	公开家族
+Pudadak, protect me~	为什么人类不怕海皇呢?
+Purchase %s?	要购买%s吗?
+Purchase %s?*Purchases cannot be cancelled after payment.	确认购买 %s了吗?
+Purchase failed. Invalid seller.	由于商家的有效期已过,购买失败
+Purchase the Full Set to receive a bonus of +10 needles!	购买礼包就可以获得\n针奖励 +10个.
+Purchased %s.	购买了%s
+Purchased [%s]!	购买了[%s] 商品
+Purchases cannot be cancelled after payment.	付费后无法取消购买
+Put down the water balloons and fight me!	来一场
+Putting on a show...	为什么人类不怕海皇呢?
+Quantity	数量
+Quantity: %d	数量：%d
+Quest items cannot be deleted.	不能删除任务道具
+Quests	任务
+Quick, let's follow them!	赶紧跟上
+Quit	结束
+Quit the game?	要结束游戏吗?
+Race in karts! Even if you can't catch opponents, cross the finish line first to win!	坐在车上进行比赛.即使杀不了对方，进入决赛也有机会获第一名
+Rain down, water bombs~!!!	海皇大人的星光灭绝才最厉害!
+Random	随机
+Rank	排行
+Rawr!	嗬嗬
+Ready or not, here I come~	藏好了,可不要被我发现了哦
+Ready!	准备
+Really?	真的吗?
+Really???	这可是禁区!
+Reason	理由
+Received	收信日期
+Received %d%% Premium Room bonus EXP!	至尊房间奖励经验值值%d%%
+Received %d%% Premium bonus EXP!	至尊通行证奖励经验值%d%%
+Received 20 bonus EXP from the No-Despair bonus.	获得黄金骷髅奖励经验值20
+Recharging mana...	为什么人类不怕海皇呢?
+Recipient ID	收信人
+Recommended	热销
+Record	战绩
+Red means 3 times faster!	血条变红,速度加快3倍~
+Remaining: %d days	剩余时间：%d日
+Remove %s from the chat list?	确认是否删除联系人%s？
+Remove Chat User	删除联系人
+Request Date	申请日期
+Resell	退还
+Retreat for now~	在那里
+Revenge	报复
+Revenge!	报仇啊
+Revival	复活大战
+Revived!	复活了
+Ride the kart, step on the shining platforms along the road, and complete %d laps to win!	乘坐赛车从起点出发，\n\n按数字显示最先跑完 %d 圈\n\n到达终点的队伍获胜！
+Right below!	下面
+Right?	是泡泡圣斗士吗?好恐怖啊!
+Roaaar~	昂~!
+Role	家族职位
+Roll roll~	小心驶的万年船
+Rolling Fury!!	为什么人类不怕海皇呢?
+Rolly rolly roll~	千万不要惹我
+Room Breaker	踢出玩家
+Room Name	房间名字
+Room info has been changed.	房间信息被变更
+Rooooar~	什么把我给围住了?星云锁链?
+Round and round and round	到处转转
+Run at them with water balloons~	快把泡泡弄破去
+Run away! Run away!	快逃命啊~
+Run!	快逃吧
+Run! Run!	快逃啊！快逃啊！
+Running away so fast..	逃什么逃啊?
+Running away? Huh?	想逃?
+Running won't help!	会让你坠入永恒之梦乡
+Run~ Run~	快跑啊~快跑啊~
+Rustle rustle~	这可是禁区!
+Ruthless attack!	蓝妹妹给我跳支舞!
+Sapphire	蓝宝石戒指
+Save me from these guys and I'll give you a gift!	救我!我把身上的都给你
+Save me!!	救救我！！
+Save me~	救命啊~
+Save me~~!	救命~~！
+Scared yet?	害怕了吧?
+Scared yet?!	害怕把？
+Scared?	怕吗？
+Scared? You should be!	怕吧?应该怕了
+Scary T-T	怕怕 T-T
+Scary one	恐怖的家伙!
+Scary!	怕怕 T-T
+Scary, isn't it!!!	怕了吧?
+Scary, right?	千万不要惹海皇大人
+Scary~	好怕~
+Scary~ Scary~	好怕~好怕~
+Scary~!	怕怕~
+Scary~~!	怕怕~~
+Seal Lord~	是泡泡圣斗士吗?好恐怖啊!
+Seal Lord~~	海皇大人救我!
+Seal Seal Clone Technique!!!	会让你坠入永恒之梦乡
+Seal seal... floor cleaning!	哇噻,蓝妹妹你又胖了!
+Search	搜索结果
+Search keyword is too short.	您输入的查询提示太短,请重新输入
+Searching for opponents...	正在查找对手
+See it with your own two eyes...	眼见为实
+See ya~	这可是禁区!
+See, someone IS there!	还有谁想来?
+Seems a bit slower somehow	蓝妹妹我错了,不应该说你胖
+Select	选择
+Select the emote to use, then enter dialogue.*The dialogue will be automatically used with the emote.	请选择要使用的效果后输入对话.*使用效果时可自动使用所输入的对话*
+Select the item to list for sale.*Time-limited and stackable items*cannot be selected.	请上传商品,期限商品和消耗类商品无法出售
+Select the user whose messages you want to ignore. If the user is not in the recent chat list, you can type their name directly.	请输入您希望屏蔽聊天的帐号
+Self-destruct~	这就是惹怒海皇大人的结果
+Seller	商家
+Selling	热卖
+Selling %s will refund %d Lucci. Sell?	退还%s就可以退还 金币 %d.\n\n确定要退还?
+Selling Price	出售金币价格
+Send Message	发送信息
+Send a couple request?	要申请伴侣吗？
+Send this coupon as a gift?	要赠送VIP卡吗？
+Send this item as a gift?	要赠送礼物吗？
+Send this message?	要发送消息吗？
+Sending a couple request.	等待接受
+Sending a message costs Lucci.	发送消息会消耗金币.
+Sergeant, help me~	救我啊
+Server is temporarily overloaded. Cannot connect.	无法连接到服务器。\n\n
+Serves you right, haha	看你那个熊样
+Sh-sh-shivering	哆嗦
+Sh-shiver	嘶嘶
+Sha-Shak Plus must be used with a Sha-Shak item. Purchase a Sha-Shak item?	使用升级版幻影道具必须先要进行购买幻影特效，确认是否需要购买。
+Shadow Squad has arrived! General!	鬼影来啦~小心
+Shadow Squad! Where are you!	鬼影~在哪里了?
+Shadow Squad, what are you doing!!!	鬼影真讨厌
+Shadow Squad~ get them!	鬼影~
+Shall we move to the next room	去下一个房间看看?
+Shall we play with water jets again?	重新来一次试试
+Shall we raid Boom Hill village for some exercise?	就当是活动一下
+Sheesh~ You're lost too, bro~	金库是我们看守的
+Shh shh	千万不要惹海皇大人
+Shh!	泡泡圣斗士可千万不要来啊
+Shh! Quiet~	这可是禁区!
+Shiver shiver	呼…好累
+Shiver shiver shiver	抖抖抖
+Shoot more water jets!!	再给他来点水柱!!!
+Shop	商店
+Should I call another one?	还要叫其他家伙来啊
+Should I go easy on you?	用不用我帮忙?
+Should I go on guard duty?	去巡逻好不好?
+Should I go on patrol~	千万不要惹海皇大人
+Should I try the summoning skill I learned from the Seal Lord?	知道厉害了吧
+Should we just rush them?	千万不要惹海皇大人
+Should've been careful.	小心啊~
+Show IDs	显示他人账号
+Show My Character	显示自己账号
+Show Profile	显示自我介绍
+Show Speech Bubbles	话气球
+Show me your skills	让他们看看你们的实力
+Shudder... There are ghosts here~	活动活动筋骨,好久没这么运动了
+Shut up!	吵死了…
+Shut up! Die!!	不想听~去死吧
+Siding with that stupid Giant Octopus...	脑子坏掉啦?敢和我斗
+Simple. Pfft.	好简单～
+Since you have a sweetie, purchasing now will change your Couple Ring type. *To couple with a different user, go to My Page > My Info > Couple, break up first, then purchase a new ring.	您已结婚状态,如购买,戒指会自动更换,是否购买?
+Sit down, I'll come to you~	我的小宇宙怎么还不爆发啊
+Size	大小
+Slack off and the boss will be angry!	再偷懒,被大王发现你死定了
+Sleep forever...	让你永不翻身
+Sleep quietly here...	安息吧
+Sleepy.	好困
+Sleepy...	困~
+Slot Cosmetics	背景
+Slots	饰品
+Slowly, slowly~	是泡泡圣斗士吗?好恐怖啊!
+Sneak up behind them	笨蛋,堵住后面
+Sniff sniff sniff	泡泡圣斗士可千万不要来啊
+Sniffle~ T_T	为什么?~ T?T
+Snore~	轰轰~
+So bored	无聊
+So cold T.T	?好冷?.?
+So full of energy I can't sleep!	精力旺盛啊睡不着觉!
+So hot, so hot	好热好热
+So hungry I'm gonna collapse	饿死算了
+So mad your fingers froze up?	气死我了,手都在发抖
+So noisy I could die...	吵死了…
+So peaceful~	无聊
+So scary!	太可怕了！
+So scary, so scary	好怕怕啊~
+So scawy	好怕好怕
+So unfair~	真冤枉~
+So weak	弱人
+So weak~	真弱
+So work hard!	千万不要惹我
+So you've come.	已经来了
+Sob	惹我也不行
+Sob sob, Princess, please take cover!	嗬嗬公主您先退下吧
+Sob sob, thank goodness~	泡泡圣斗士=臭虫
+Sold Out	卖光
+Some have already learned it	千万不要惹海皇大人
+Someone stop that guy	拦住他!
+Someone's at the front door	谁在那里?
+Someone's here!!!	有人!!!
+Something feels off...	卑劣的家伙们
+Something like this...hehehe.	就这些东西?呼呼
+Sometimes I rule with love too.	有时我也会化做人型,到人间转一转的
+Sorry!	不好意思~
+Sorry, I was joking	开玩笑呢~
+Sorry..	为了章鱼的荣誉，杀啊
+Sound Effects	效果音
+Sound Effects %s	音效%s\n\n
+Spamming the chat is not appropriate behavior.	在聊天室中刷屏是不良行为。\n\n
+Speaker	小喇叭
+Special Effect	特殊
+Special FX	特殊效果
+Special Monster maps open until May 31st for Emperor Penguin's birthday!	情人节纪念时,只为情侣开放的随机BOSS地图
+Special channels appear here!	活动和比赛专用频道
+Speed	速度
+Speed up!	加速！
+Speed up!!	我就是超人
+Squad 3, go!!	去第三梯队
+Squad 4, finish them off!!!	第四梯队殿后
+Squad... dismissed...	队伍…解散…
+Square 1v1 Match	社区内１：１对战
+Squawk, out of mana	千万不要惹海皇大人
+Squeal squeal	莫非这就是传说中的天马流星?
+Start!	从新开始吧
+Starting guard duty.	警备,警备
+Status	状态
+Stay right there!	在那里了,我都看到了
+Stay right there~~	小子，有种在那里等我
+Stay sharp!	泡泡圣斗士可千万不要来啊
+Still not dead yet?	还没死?
+Still not dead?	怎么还没死?
+Still not dead?!	就这两下子?
+Stop eating!	别吃了!
+Stop right there~	什么泡泡圣斗士,我根本就不放在眼里
+Stop slacking and work!	别玩了,干活啦
+Stop the intruders!	打倒侵略者
+Stop those guys	泡泡圣斗士可千万不要来啊
+Stupid Giant Octopus	我怎么能犯这种错误?笨死算了
+Stupid wizard!!	笨蛋魔法师
+Subdue the humans!	把这些家伙都送到地狱去!
+Suc.cess	胜.利.
+Success!	加油!
+Successfully joined the '%s' guild!	您已经加入'%s' 家族. 在我的家族窗口中可以确认.
+Sum! Mon! Now! Hnngh~	千万不要惹我
+Summoned!!	为什么人类不怕海皇呢?
+Summoning complete!!	千万不要惹海皇大人
+Summoning complete!!!	蓝妹妹将回成为新的海皇夫人!
+Summoning successful!!	海皇大人这里你也敢来?
+Summon~!	小心~!
+Surprised?	吓死我了
+Surrender and I'll let you go	还不投降?
+Surrender quietly.	乖乖地
+Surrender!	快投降吧
+Surround them~!	包围他~
+Suspected macro use. Returning to lobby.	怀疑您使用了非法程序，请关闭后再进入游戏
+Sweet! I'm getting a day off!	呼!度假去了
+Sweetie	伴侣
+Swish	幻影
+Swish swish~	嗖嗖
+System is under maintenance.	系统维护中.
+T_T	呜呜
+Tahah!!!	给我倒下~
+Take my attack!	吃我一招!
+Take my heart!	接我一招
+Take my water cannon	吃我泡泡
+Take that! Take that!	呀呀呀
+Take that~!	着打~!
+Take them prisoner	千万不要惹海皇大人
+Take this water bomb!!	好恐怖的天马流星
+Take this!!	为什么人类不怕海皇呢?
+Target the enemy captain carrying the flag! Capture the captain to win the game.	要关注带旗帜的对方队长.只要抓到队长即可胜利.
+Taste my powerful water bomb!!	惹我也不行
+Tch tch tch	什么把我给围住了?星云锁链?
+Tch..	切．．．
+Tch.. you won't last long anyway	切．．．挺不了多久的
+Teaching you lot is pointless!!	泡泡圣斗士=臭虫
+Team	组队
+Team sizes can be unequal	各个队的数字不一样也可以
+Team sizes must be equal	各个队的数字要一样
+Teams	模式
+Teehee	忽忽
+Teeheeheehee	呜哈哈
+Teleport!!!	瞬间移动!!!
+Tell the Emperor Seal we have guests.	这可是禁区!
+Tell the princess she can rest easy.	请转告公主,别让她担心
+Th-this is dangerous!!	危，危险
+Thank goodness	知道厉害了吧
+Thank goodness!	万幸
+That attack wasn't me, it was the ghost	孩子们,快出来吧
+That didn't hurt!	不疼
+That hurts!	好疼！
+That must hurt!	痛吗?
+That should be plenty now	这回可以了吧
+That startled me....	我很强!你不知道吗?
+That was a close one!	敢到我的后花园撒野?
+That was an accident!	马失前蹄~
+That was easy.	简单.太简单了
+That was the obvious outcome	这是你自找的
+That's a relief	安心的去吧
+That's better~	这回可以了吧
+That's dangerous	危险
+That's dangerous! Why did you guys come?!	知道危险已经晚啦
+That's pitiful	别说了~都是眼泪啊
+That's the one!	是那家伙！
+The '%s' guild has been created!	创建成功'%s'家族
+The Emperor Penguin has arrived after hearing about the Giant Octopus's struggles! He's leading a charge with Snowmons and Egg Soldiers! Freeze and break the Snowmons and fight the Emperor Penguin to protect Boom Hill Village!	听说大章鱼王战败的消息，帝企鹅大王出现了，报仇来了！总攻开始了！
+The Giant Octopus has suddenly attacked the village! Go defeat the pirate kids and the Giant Octopus!	章鱼BOSS突然来袭击村子! 快去打败章鱼小丸子和章鱼BOSS!
+The Guild Master cannot leave while other members remain.	只要还有家族成员在,家族族长不能解散家族
+The Ice Land north of the village. Enjoy the game against a pure white snowy backdrop!	村子北边冰川. 以雪白的雪景为背景尽情玩游戏吧.
+The King's watering is scary	海皇大人的星光灭绝才最厉害!
+The Lucci amount would exceed the recipient's limit when combined with their existing balance. Please select a smaller amount.	给对方赠送金币时，包括对方原来有的金币不可超过金币最大限制.请选择更小的金额.
+The Octopus Fist is a secret assassination art	来和我过招吧
+The Octopus Princess!!	章鱼公主!!!
+The Seal King likes flowers	海皇大人最喜欢花了!
+The Seal Lord is fine	千万不要惹海皇大人
+The Seal Lord is training his clone technique!	这可是禁区!
+The Seal Lord is way too timid	这可是禁区!
+The Seal Lord taught them something amazing	这可是禁区!
+The Seal Lord taught us summoning~	我的小宇宙爆发也很强的
+The Seal Lord taught us the Clone Technique	小心驶的万年船
+The Seal Lord will praise me if I use summoning!	还是离这些恐怖的泡泡圣斗士远点吧
+The Seal Lord won't forgive you	这可是禁区!
+The Seal Lord's gonna scold me..	对我来说圣斗士算什么?
+The Shadow Squad is invincible!	鬼影无敌~
+The Shadow Squad never dies!	鬼影是杀不死的
+The Supreme Room Leader has left.	拥有房间卡的房主退场了
+The Three Admirals do not die...	突破了三人的怒意,闯过来的?
+The Three Admirals'	我们3人的
+The User Market is temporarily unavailable. Please check the website for details.	玩家商店暂时关闭,详细内容请到BNB网站浏览,如有不便,请多谅解!
+The Wizard is helping us	我们有魔法的庇护
+The Wizard saved us	魔法师救的
+The big guys are escaping	哥哥真棒~
+The big guys are scary	哥哥,怕不怕啊?
+The bird of hell is crying!	地狱鸟在歌唱
+The content is too short.	内容太少,不符合规则
+The defense line has been breached!	攻破了我们的防线
+The duration has been extended.	延长期限
+The eastern mountain mine. Ride the minecart and zoom along the rails!	在东边的山上可以采集宝石. 乘坐矿山车可在轨道上飞驰.
+The effect will apply immediately upon purchase. Please review the item's effect carefully.	购买道具即可适用效果.请再次确认此道具效果
+The egg is cracking! Get excited~	会砸出什么呢？好期待啊！
+The enemies are here!!!	有人攻进来了
+The enemy made it all the way here?!	泡泡圣斗士可千万不要来啊
+The entered user ID is not valid.	您还没有注册账号。\n\n
+The executable has been corrupted. Possible virus infection or tampering detected!	实行文件损伤了，可能发生了病毒等的异常情况
+The fact that you came here means...	来到这里
+The fight is over now.	这回战斗结束了
+The game cannot continue due to a network error.	因网络不稳定无法继续进行游戏
+The game could not proceed due to an uneven number of players. WP and records remain unchanged.	因人数不符合，不能进行游戏. 房间内的玩家的段值和胜败保持原来.
+The ghosts are actually my minions~	这群讨厌的家伙
+The guild '%s' has been disbanded. You are not currently in any guild.	%s'家族已解散,您现在是自由身!
+The humans will come again..	他们还会来的…
+The ice will break soon...	很快就会化的
+The likes of them!	这帮家伙…
+The majority did not agree, so %s was not kicked.	同意强制退出的玩家未超过半数，%s不会被强制退出。\n\n
+The messenger service is disabled. Unable to process the request.	服务器正忙，请稍后再试
+The more ghosts there are, the harder it'll be to fight!	我越来越强了
+The more you hit me, the stronger I get!	越被打越坚强！
+The most popular BnB Monster maps will be randomly selected.	随机选择怪物地图中人气最高的地图
+The most popular BnB maps will be randomly selected.	随机选择人气最高的地图
+The new monster freezes when hit by water!	这些怪物怕水的，被泡泡碰到会变成冰哦
+The next stage will be tough...	下局让你好看
+The other party's item bag is full. They need to purchase an item bag or reduce the number of trade items.	对方的道具包已满，不能进行道具交换.\n 对方购买道具包或减少交换道具数量后进行交换.
+The other user already has a sweetie.	对方已有伴侣
+The other user is currently processing a couple request. Please try again later.	对方正在求婚，请稍候再试.
+The other user's ID is invalid. Please check the ID.	对方账号错误
+The recipient already owns some items in the package. Gift anyway?	被赠方已经拥有该道具，确定还要赠送吗？
+The recipient already owns this item.	该账号已经拥有这款道具。
+The recipient already owns this item. Gift anyway?	被赠方已经拥有该道具，确定还要赠送吗？
+The red bandana is the source of power	红色是力量之源
+The red bandana is the source of power!	红色是力量之源
+The requested user does not exist.	邀请的用户不存在
+The requested user has friend requests disabled.	邀请的用户，目前是拒绝加入好友状态
+The requested user is not using the messenger.	邀请的用户，不使用MSN
+The resell feature is currently unavailable.	商品退还功能正在建设中
+The room leader has proposed to kick '%s'. Do you agree?	房主建议强制让'%s'退出. 同意吗？
+The room leader will be auto-removed in %d seconds if they don't open an even number of slots.	如果房主不开放偶数个位置（包括房主所占位置），%d秒以后会自动退出该该游戏房间 \n\n
+The room no longer exists.	房间已取消。
+The seal is broken!	解开封印了
+The selling price exceeds the allowed range. Please try again.	价格已超过限额,请重新确认价格
+The server has disconnected you.	与服务器断开连接。
+The server is processing another request...	服务器正在处理其他请求..
+The sewer is dangerous	危险啊
+The shop cannot be used during a game.	游戏中不能使用商店
+The terror	害怕
+The title is too short.	题目数字太段,不符合规则
+The treasure is in danger!	宝物危险了
+The treasure is safe!	宝物安全
+The treasure is safe! Hahaha!	宝物一个都没少~哈哈哈哈
+The two passwords do not match.	两次密码不一致.
+The user has requested a disconnect.	用户要求断开连接
+The user is not in the same channel.	目前对方不在同一个频道中.
+The world is too scary~	蓝妹妹永远都是我的
+Then I shall take my leave.	我先退下了
+Then I'll leave the rear to you!!!	记得掩护我啊
+Then I'll leave the rear to you~ ^^*	记得掩护我啊
+Then how about this?!	蓝妹妹永远都是我的
+Then it's game over!	还是离这些恐怖的泡泡圣斗士远点吧
+Then keep listening.	给我听好~
+Then we'll get going	泡泡圣斗士可千万不要来啊
+Then, troops advance!	部队前进
+There are ghosts outside	阎罗王攻击~
+There is no food!!!	没有吃的~~~
+There they are!	在那里
+There they are!!	在那里
+There they are!!!	这里啊
+There you are	原来在那里啊
+There you are!!	在那了~
+There's more!	还有呢
+There's no way I made a mistake, right?	为什么人类不怕海皇呢?
+There's no way you can win!! ^^*	没有什么胜算啊!! ^^*
+There's nothing a ghost can't find	幽灵眼里是不揉沙子的
+There's nowhere to hide	没地方躲了
+There's still a ton inside!	里面还有好多啊
+There's still lots of treasure in the cave!	洞里还有好多宝物
+These punks...	这帮家伙
+These rotten clones~~~~	不过你真的很胖耶
+These useless fools..	对我来说圣斗士算什么?
+They can't see me, right?	泡泡圣斗士=臭虫
+They don't look that scary?	这可是禁区!
+They got away!	又活过来了
+They hit us! They hit us!	打到了~打到了~
+They know our princess is pretty!	知道我们公主美貌?
+They must have been killed by the ghosts	溜达溜达
+They say the Seal Lord taught them summoning	泡泡圣斗士可千万不要来啊
+They won't attack us, right?	金库在什么地方了?
+They won't find us here	这可是禁区!
+They won't spot us, right?	还是离这些恐怖的泡泡圣斗士远点吧
+They'll be around somewhere	这可是禁区!
+They'll be here soon...	这些家伙马上就来了
+They're after our Lucci!	我们才不要什么金币
+They're all useless.. I'll handle this myself!!!	莫非这就是传说中的天马流星?
+They're nearby.	在你旁边
+They're somewhere around here!	在什么地方了?
+They're somewhere in this warehouse!	金库在什么地方了?
+Things are calming down now	泡泡圣斗士可千万不要来啊
+This ID contains a prohibited word. Please enter a different ID.	包含禁用单词的账号.请输入其他账号.
+This ID has been banned from connecting.	该账号被锁定
+This ID is already registered.	该账号已经被注册,请您重新建立账号,建议账号后面添加注册日期(账号+日期)或者添加生日等数字,以方面记忆..
+This ID is available.	可以使用的账号
+This ID is banned until %d/%d.	该账号已经被封锁至%d月 %d日
+This can't be happening!	这叫什么事啊?
+This channel cannot be entered in 2P mode.	您选择的频道不支持2P登陆
+This channel is for Level %d and below only.	  等级 %d 以下才能连接
+This coupon cannot be used on this server.	现在的服务器无法使用的赠券。
+This coupon has already been used.	已经使用的赠券。
+This coupon has expired.	已经过期的赠券。
+This feature is not yet available.	正在还准备的功能。
+This game requires DirectX 9.0 or higher. Please install the latest DirectX from the Microsoft download site.	这游戏必须使用 DirectX 9.0以上才能运行. 请到Microsoft下载网站从下载安装DirectX最新版本. 如果最新版本更新后还不可运行的话，请与系统管理员联系
+This guild name already exists.	已经存在的家族名称,请重新输入
+This guild name is available.	可以使用的家族名称
+This is all mine!!	这都是我的
+This is bad!	大事不好！
+This is bad...!	大事不好!
+This is how Giant Octopus's minions do it! Like this!!	我的手下…唉…无语…
+This is not a Ladder map. Please select another map.	该地图不是段位频道专用地图，请选择其他地图
+This is our graveyard	这里是我们的墓地?
+This is the gates of hell...	就是地狱之门
+This is what happens when all you talk about is food! -_-+	光顾着说吃的了
+This isn't easy	不简单
+This item has already been sold.	该商品已经停止出售
+This map cannot be selected.	无法选择的地图
+This map is only available in Premium channels. Please select another map.	该地图为通行证专用，请先在商店购买通行证或选择其它地图。
+This map requires a Premium Pass. Would you like to purchase a Premium Pass now?	该地图为通行证专用地图，请先购买通行证
+This name cannot be used!	不能使用的名字
+This place is a tomb	这里就是你的坟墓
+This place is way too scary~	你们根本就不是我们的对手
+This room has been upgraded to a Premium Room!	目前房间升级为至尊房间
+This should be enough, right?	这个程度可以了吧
+This time I'll show you a proper Clone Technique!	蓝妹妹的身材一级棒!
+This time it's for real!!	这次是真的
+This time it's not a lie. Trust me!!!	这次没骗我?就信你一次
+This time it's your turn to die	这次我跑不掉了
+This treasure is all mine, I said!!	这些都是我的,不要痴心妄想了
+This user is already being ignored.	已被屏蔽的用户
+This user is already logged in. Disconnect them?	该账号已经在线，需要断开连接重新登陆吗？
+This user is not in the same room.	该账号的玩家不在此房间。\n\n
+This warehouse is our territory.	金库是我们看守的
+This way??	这里?
+This will be over soon.	马上就GAME OVER
+This'll make for an easy last few days	平平安安的多好啊
+This... can't... be...	怎么搞的?
+Those guys are fighting back~	藏到后面去
+Those guys would even chew on table legs!	你们这帮家伙,连桌子腿都吃
+Those mean Crazy Arcade players!	这帮坏家伙
+Those punks!!	这些家伙
+Those wretches......	是我绑架你,还是你绑架我?哎呦,别打了
+Thud...	别那么狂…
+Tightening security.	强化警备
+Time Bomb	定时炸弹
+Time for a break?	这回可以长眠了
+Time to teach you a lesson	蓝妹妹你真的很胖耶
+Time to use my ultimate technique..	是到使杀手锏的时候了
+Time to wrap this up	来个了断吧
+Time's up! Returning to the original stage.	奖励地图游戏时间到，返回原来状态
+Title entry failed and the purchase has been cancelled.	标题输入错误,取消购买!
+To	收信人
+To disband the guild, there must be no members other than the Guild Master. Disband the guild?	有其他家族成员在,是不能解散家族的!
+To our enemy,	怒火
+To think he lost to the likes of you	竟然是你们这帮不入流的家伙
+To think you made it this far.. Impressive	既然来到这里，真厉害
+Today is your death day!	今天是你的忌日！
+Toddle toddle	扭啊扭
+Tone deaf!	哼哼!
+Too bad~? Kekeke	好可惜~忽忽
+Too big to even fit through the exit.	你太胖了,出口根本就不够宽
+Too easy lol	真简单~格格
+Too easy, how boring	太简单了,没意思
+Too many rooms. Cannot create a game room. Please try again later.	房间数已达到上限，请确认。
+Too slow!	太慢了,像蜗牛似的
+Total Price:	所有价格 :
+Total victory!	绝对优势获胜~
+Tournament	段位
+Trade Ban	禁止买卖
+Trade Room	交换房间
+Transform into a cute hedgehog when you die! Hedgehogs can pop bubbles instantly.	死后变成可爱的刺猬!刺猬具有刺破水泡的能力
+Transform into a hedgehog when you die! Hedgehogs can pop bubbles with their spines!	玩家牺牲后变身成刺猬,阻碍其他人，能营救所有人
+Trap opponents with water balloons to win! Various mission maps are available in Default type.	把对方关在水泡爆炸即可胜利.在基本类型中可玩多种任务地图
+Trapped	咕噜
+Trapped them	去死吧
+Trapped!	被抓了
+Trapped?	傻瓜~
+Trash of the Crazy Arcade world!	垃圾!
+Tremble tremble	呀呼
+Trust the Wizard	魔法真强
+Trust us!!	这可是禁区!
+Try again if you dare~~	又要从新开始了
+Try again!	果然厉害
+Try again~	小样
+Try and catch me too!	抓我试试
+Try and catch me~	抓我啊~
+Try coming at us again~~	又挂了!!!
+Try defeating that one first.	先把那家伙赶走!!
+Try dodging the water stream!	有水柱!快闪
+Try dodging this!	往哪儿跑!
+Try respawning!	复活!
+Try running away, hehe	逃跑吧，呵呵
+Try taking this too!!	再尝尝这个
+Turn off username display	查看用户名选项Off\n\n
+Turn on username display*	查看用户名选项On*\n\n
+Turn yourself in and I'll forgive you.	坦白从宽,抗拒从严
+Turn yourself in.	快自首吧
+Ugghhh....	格呃　
+Ugh!	啊
+Ugh! Hey!	乌拉！
+Ugh! How dare you anger the General!	休息休息
+Ugh!!	气死我了
+Ugh, I'm sick of this!	呜呜打到了
+Ugh, faceplanting is exhausting	必杀！海皇崩裂拳
+Ugh, how dare you resist..	嗬嗬还想反抗?
+Ugh, my blood pressure. My head...	蓝妹妹永远都是我的
+Ugh, so frustrating	千万不要惹我
+Ugh, so tired...	哎呀累啊
+Ugh, that kinda hurts	海皇大人救我!
+Ugh, you annoying pests	这群讨厌的家伙
+Ugh, you'll pay for this~	给我等着
+Ugh, you're strong~!	小菜一碟~
+Ugh. Come over here?	来这里~
+Ugh..	唉…
+Ugh.. losing strength.	呃…没劲儿了
+Ugh...	呃
+Ugh... I don't wanna die...	人类怎么可能打败我呢？
+Ugh~ Let my guard down~	啊，太放心了
+Ugh~ so tired!	忽…好累啊
+Ugh~ so tired~!	啊~好累~
+Uh huh	蓝妹妹也一直是我们心目中的女神!
+Uh oh!	格呃
+Ukekeke! What a sorry sight!	乌拉~就这两下子还敢来
+Ulala~	退下~
+Ultimate attack!!! Grass field ro~ll!!!	海皇大人的星光灭绝才最厉害!
+Ultimate attack!!!!!	蓝妹妹也一直是我们心目中的女神!
+Ultimate move! Penguin Steeeep!!!	帝企鹅必胜!
+Ultimate! Staircase attack!!!!!!!!!	必杀! 范围攻击!!!!!!!!!!!
+Ultimate!!!	必杀!!!
+Unable to complete UDP configuration.	不正常运行UDP protocol，这情况不能实行BnB等UDP使用的游戏，还继续要实行吗?
+Unable to read data.	网页暂时无法打开，请稍后再试。
+Unable to send message.	不能发送MSN
+Unblock	允许好友申请
+Unblock User	取消阻止
+Understood	知道了
+Understood?!	知道了吗?
+Underwater south of the village. Ride octopuses and turtles to battle!	村子南边的海水底，请骑章鱼或乌龟进行对战
+Unequip	解除装备
+Unforgivable	不要放过他们
+Unforgivable!	会让你坠入永恒之梦乡
+Unknown Guild	无法知道的家族
+Unregistered ID or incorrect password.	没注册的账号，或输入了错误的密码
+Unregistered user ID.	该账号不存在。
+Unregistered user.	该账号不存在。
+Urgh!	呃~
+Urgh! I'll be back...	啊！等着瞧。。
+Urgh, my chronic illness...	真是的,太弱了
+Urghghghk	呃呃,好惨
+Urghurgh	格呃格呃
+Urgh~ Seal Lord~~!!	这里可是海皇大人的后花园啊
+Urgh~!	啊
+Urk urk!!	呃呃
+Urk!	呃呃
+Urrgghh~	蓝妹妹也一直是我们心目中的女神!
+Use assigned hotkeys to use Speakers.*Place Speakers in the slots below.	双击或拖动喇叭创建喇叭命令，如：双击红色喇叭到 /小喇叭1，则红色喇叭命令为：/小喇叭1 
+Useless goons, just die	没用的家伙~去死吧~
+User Market	玩家商店
+User Page	玩家信息
+Users under 14 cannot send gifts.	14岁以下的人无法给别人赠送礼物。
+Uuuuugh~~rk! Hiyah!!!!	现在逃还来得急
+Uwaaaaaah~~aack	啊！
+Uwoooh...	哦！
+Version mismatch.	跟版不适合
+Vice Master	家族高层
+Victory	胜利
+Victory is mine!	我胜利了~
+View Items	道具预览
+View My Info	资料
+View My Items	查看我的道具
+View Profile	查看资料
+View User Info	查看玩家资料
+Visibility	家族信息
+W-w-welcome!!	快.来.啊
+Waaaaaah	寒~~~
+Waaaaaah~	这可是禁区!
+Waaah T_T	什么泡泡圣斗士,我根本就不放在眼里
+Waaah!	昂~
+Waaah, I wanna go home!	啊，我好想回家！
+Waaah, they keep bullying me~	海皇很生气，后果很严重
+Waaah~ I don't like being alone, it's scary	泡泡圣斗士确实有两下子!
+Waaah~ I'm scared~ so scared~	莫非这就是传说中的天马流星?
+Waaah~ The Seal Lord's gonna scold me..	谁在那里?
+Waaah~ hitting me hurts, you know~	什么把我给围住了?星云锁链?
+Waaah~!	昂~
+Waahh	嘤嘤
+Waahh..	昂…
+Waahh~	天马流星?没听说过
+Waahh~ ;_;	昂~
+Waddle waddle	这可是禁区!
+Wahhh T,.T	下地狱吧
+Wait there, I'm coming soon	等着我～
+Wait up!	等着
+Wait..	等…
+Wait...	等…….
+Wanna die?	想死吗?
+Wanna fight?	想躲?
+Wanna let me out?	救我?
+Wanna play a little?	陪你玩玩
+Wanna play?	玩不玩？
+Wanna roll around on the floor together?	谁在外面吵?
+Wanna take a nap?	蓝妹妹永远都是我的
+Want me to get you out if you're stuck?	哇噻,蓝妹妹你又胖了!
+Want me to sing louder?	再大点声好不好?
+Want more?	为什么人类不怕海皇呢?
+Want some water?	蓝妹妹我错了,不应该说你胖
+Want something to eat?	休息休息
+Want to talk to everyone in the channel?*Try using a Speaker item! ^0^*Speakers can be purchased from the shop.	想对同一个频道的所有人说话吗?*请使用小喇叭道具. ^0^*小喇叭可在商店购买
+Was that a balloon popping somewhere~?	从那里传来的泡泡碎掉的声音啊?
+Watch out for the entrance	小心入口
+Watch out or you'll get run over~!	谁被压住都不知道
+Watch out!	小心!!
+Watch out!!	小心
+Watch your back.	小心后面
+Watch your back...	小心背后
+Water bomb attack!!	这可是禁区!
+Water bomb attack!!!	泡泡圣斗士确实有两下子!
+Water jets don't work on these guys!	对这帮家伙光用水注可不行
+Watering the flower garden is scary	星光灭绝,真强!
+Watering the flower garden!!!	雷电神击
+Wave of Terror!!!!	恐怖的浪潮来啦
+We are brave pirates!	勇敢的水手
+We are the princess's royal guards.	我们是公主的侍卫
+We blocked the escape route!	堵住出口
+We broke through!!!	钻开啦
+We can't die~	是泡泡圣斗士吗?好恐怖啊!
+We can't just leave them behind!	别丢下我们啊
+We can't let them reach the Giant Octopus!	你们不可以靠近大王
+We can't revive	还能复活吗?
+We did it!	结束了
+We did it! The Seal Lord will praise us!	蓝妹妹将回成为新的海皇夫人!
+We did it~	蓝妹妹永远都是我的
+We don't need prisoners	庐山升龙霸?真够烂的
+We failed!	失败!
+We gotta run~	快逃啊!
+We gotta work hard!	只剩我一个了?
+We have guests!!!!	小心驶的万年船
+We have plenty more soldiers!	帮手多的是
+We have the numbers!	我们人多
+We have to break through!	得钻开才行
+We have to keep them from running!	给我看好了,别让他跑了!
+We have to protect it!	千万不要惹海皇大人
+We have to protect the Seal Lord!!	惹我也不行
+We must stop them	一定要坚持住
+We need to stay alert.	一定要小心
+We outnumber them!	我们有的是
+We protected the Seal Lord	泡泡圣斗士=臭虫
+We water them well too	去给花浇水去啦!
+We will be victorious!	我们胜利啦
+We will succeed	我们肯定能赢
+We will win	我们肯定能赢
+We won!	我们胜利了?
+We won't be interrupted again, right?	又出来丢人来啦
+We won't lose!	输是不会输的
+We won't spare you.	救不救呢?
+We won't.	不好
+We'd get in trouble if we played, right?	蓝妹妹也一直是我们心目中的女神!
+We'll definitely catch you all!	会让你们好好品尝一下我们的厉害
+We'll hold them off.	还是离这些恐怖的泡泡圣斗士远点吧
+We'll protect you!	我的小宇宙爆发也很强的
+We'll protect you, Seal Lord!	还是离这些恐怖的泡泡圣斗士远点吧
+We'll protect you, Seal Lord!!	千万不要惹海皇大人
+We're criminals!	我犯罪了吗?
+We're gonna get in trouble..ugh..	我好怕怕~
+We're just the beginning.	刚刚开始~
+We're sinners!	我是罪人吗?
+We're strong	我们最强
+We're vicious!	别丢下我
+We're winning!	我们会取得最后胜利的
+We've blocked the exit!	出口已经被我们堵住了,逃不掉了
+Weaker than me	比我差点
+Welcome to hell!	欢迎来到地狱来
+Well done!	干的漂亮!
+Well done! Catch them all and I'll let you eat anything!	把他们都抓到想吃什么吃什么!
+Well done, hu hu hu hu.	干的漂亮!!
+Well then, bye...	到此结束
+Well well, welcome Crazyman~	怎么还没死?
+Well well, welcome!!!	真高兴遇见你!!!
+Well... I suppose I should pay my respects.	这…叫表示敬意吗?
+Were you scared!?!	刚才好险～
+Were you scared? Lol	怕了吧!!哈哈!!
+Wh-what?!	这~这算什么啊?
+Wha?	格呃格呃
+What a fool.	蠢货~
+What a relief	万幸~
+What a relief.	算什么?
+What a relief...	万幸…
+What a relief~	还好没被升龙霸打到
+What a shame...	真可惜。。
+What a show-off	蓝妹妹的身材一级棒!
+What a sorry sight!	什么玩意?
+What a surprise	冷不丁给我一下
+What a weakling, heh	弱人
+What are you doing lol	为什么人类不怕海皇呢?
+What are you doing!	笨蛋~吃什么长大的?
+What are you doing, capture them all!	干什么呢?都给我抓起来
+What in the?	雷电神击
+What is it? What is it?	什么？什么？
+What should we play?	不过你真的很胖耶
+What the?	雷鸣波浪
+What the???	蓝妹妹将回成为新的海皇夫人!
+What was that noise?	什么声音?
+What was that sound?	泡泡圣斗士=臭虫
+What were the sentries doing??	还是离这些恐怖的泡泡圣斗士远点吧
+What!	什么东东?
+What! Was that a needle?!	什么东西？针啊！
+What's a Couple? Click the Help button to find out!	伴侣是什么?如果想知道请点击帮助按钮!
+What's a faceplant, you ask??	蓝妹妹将回成为新的海皇夫人!
+What's a guild? Click the Help button to find out!	家族是什么?如果有不清楚,请查看帮助!
+What's for dinner tonight?	今晚吃什么?
+What's wrong with my house?!	奏响死亡交响曲
+What? What?	什么？
+When I break free I'll smack you!	我要是逃出去,不会放过你的
+When catching opponent	泡泡炸到对方时候
+When caught by opponent	被对方泡泡炸到时
+When rescued from a bubble	从泡泡中被救时
+When trapped in a bubble	被泡泡包住时
+When using a needle	使用针时
+When you lose	失败时
+When you win	胜利时
+Where are the enemies?	奏响死亡交响曲
+Where are the humans?	那有什么人间?
+Where are the rest?	剩下的在哪里了?
+Where are they?	在哪里?
+Where are those guys?	他们还没来？
+Where are we?	不知道从哪里冒出来
+Where are you	在哪
+Where are you hiding?	藏在哪儿了呢?
+Where are you! Where are you!	知道厉害了吧
+Where are you, punks?	在哪里了?这帮家伙挺会躲的
+Where are you...!	什么地方啊,,,?
+Where are you?	在哪里了?
+Where did everyone go...	这可是禁区!
+Where did the Sergeant go?	领导去那里了?
+Where did the senior Sergeant go?	领导去那里了?
+Where is this?	忽忽很早就来了
+Where where!	在哪里！
+Where where?	哪里 哪里！
+Where's the boat for the treasure?!	运送宝物的船在那里了?
+Which fool dares!	我看谁敢？
+Whisper	悄悄话
+Whisper blocking has been disabled.	解除拒绝悄悄话状态。\n\n
+Who dares trespass in our resting place...	是谁闯进来了?打扰我休息
+Who dares wake me from my slumber!	是哪个扰我清梦?
+Who dares!	什么人敢?
+Who goes there!	是谁
+Who goes there?!	谁啊?
+Who is it?	到底是谁啊?
+Who is it? Who is it?	惹我也不行
+Who made that attack just now???	呜哈哈
+Who's gonna protect me now!!	好强的小宇宙啊
+Who's next?	下一个是谁啊?
+Who's there!	好强的小宇宙啊
+Whoa~	还是离这些恐怖的泡泡圣斗士远点吧
+Why are you bullying nice me~	千万不要惹我
+Why are you doing this to me!!!	你们为什么这么对我?
+Why aren't you coming out!	蓝妹妹永远都是我的
+Why did I summon that thing...	莫非出现宇宙大幻觉了?
+Why do I get trapped whenever I water?	为什么人类不怕海皇呢?
+Why is everyone looking at my beauty... wait, that's not it	蓝妹妹的身材一级棒!
+Will enemies come?	对我来说圣斗士算什么?
+Will it be okay?	还好吗?
+Will the Seal Lord succeed this time?	为什么人类不怕海皇呢?
+Win	胜利
+Win Points	经验
+Win Rate	个人胜率 
+Win and I'll feed you	赢了请你们吃饭
+Windowed	窗口化模式
+Wings	翅膀
+Wins -> 0	胜率-> 0
+With my mighty attacks	让你们瞧瞧我的厉害
+With the Octopus Squad's brilliant tactics,	用我们章鱼家族的华丽战术
+Within 2 minutes,	2分钟内
+Woaah~ how dare you hurt my comrade!!!	天...马...流...星...
+Woo-hoo~	咻
+Woof woof woof woof woof~~	你可以见到很黄很暴力的海皇了，感到荣幸吧！
+Wooh!	忽忽!
+Woohoo~ we did it!!	这可是禁区!
+Woooo.....	乌拉
+Work hard~	我的小宇宙怎么还不爆发啊
+Worse than the octopus	蓝妹妹永远都是我的
+Would you like to become a couple?	想和他/她成为伴侣吗
+Would you like to use the coupon now? Unused coupons are kept for 10 days and can be checked via the Online Coupon button.	现在要使用VIP卡吗? * VIP卡使用期限还有10天???.要想使用请点击VIP卡窗.
+Wow	蓝妹妹将回成为新的海皇夫人!
+Wow!	哇！
+Wow!! We did it!!	庐山升龙霸?真够烂的
+Wow.. Still alive?	咦?怎么还活着?
+Wow~!!	蓝妹妹将回成为新的海皇夫人!
+Wriggle wriggle	活动活动身体
+Write about your couple~	请在这里表达对爱人的感情
+Wrong password. Cannot join the room.	密码错误\n\n无法加入房间。
+Yah!!!	看你往哪跑
+Yahoo~!	呀呼~
+Yawn~	打哈欠~
+Yay! We did it!!	谁在那里?
+Yay!!!!	泡泡圣斗士确实有两下子!
+Yay~	莫非出现宇宙大幻觉了?
+Yay~ Time to go~	呀呼!快去救大王
+Yay~!	呀呼
+Yeah!	加油！
+Yeah! You guys help me out!!	好吧,我上,你们一定要支援我啊
+Yeah, I guess so	千万不要惹海皇大人
+Yeah, get home safe	惹我也不行
+Yeah, go chase them down	把他们都赶走
+Yeah~	加油！
+Yeek	格格
+Yeowch!!	哎呀妈呀
+Yep!	嘘~
+Yes	确定
+Yes sir!!	哼哼!!!
+Yes!	加油
+Yes. Gen.er.al. sir	是.将.军
+Yesss!	呀呼
+Yikes! I'm all alone!!	只剩我一个了?
+Yikes~	睡觉喽
+Yikes~ they're attacking us~	海皇大人,泡泡圣斗士打进来啦...x?x
+Yippee yippee!	格格格格
+Yippee!	呀呼
+Yoho~	还是离这些恐怖的泡泡圣斗士远点吧
+You all actually hate me, don't you!	你们是不是不喜欢我的新样子啊?
+You already own a permanent version of this item. You cannot purchase more.	已经拥有永久道具，不能再进行购买
+You already own the maximum quantity of this item.	你已超过了道具保留数量，不能再次购买此道具。
+You already own this item.	已拥有这件商品
+You already own this.	已经拥有。
+You already sent a request to %s. Please wait for their response.	正在邀请%s参与１:１，等待时间内无法再次邀请他人参与！
+You annoying pests, take this!	千万不要惹我
+You are already coupled with %s.	%s已是您的伴侣
+You are already ignoring whispers from other users.	已经拒绝了别人说的悄悄话。\n\n
+You are already in a guild. To join another guild, you must leave your current one first.	您已经是家族玩家,如想加入其它家族,必须先退出现有家族
+You are currently restricted and cannot participate in chat.	禁言中
+You are not in a guild.	现在没有加入任何家族
+You are not in a guild. *You can join or create a guild. *Click the button~	现在还没加入任何家族, 您可以选择加入其他家族或自己创建家族,请点击*
+You are not in a guild.*Want to do guild activities with me? Invite me~	现在还没加入任何家族,好可怜啊! 有愿意和我一起游戏的好心人,快收留我吧!
+You are now a couple!	和你成功结婚
+You better be careful	小心啊~
+You broke my lunchbox!!	我的饭没了
+You called, Princess?	是叫我吗?公主
+You came? Let's play!	来啦~好好玩一下~
+You can do it!	加油！
+You can enter up to*%d Lucci.	根据您的金币上限，最多可转移到“我的道具” %d金币
+You can never escape!	你永远也逃不出我的手掌心
+You can now hear whispers from other users.	打开接收悄悄话的状态。\n\n
+You can only enter channels in your own community.	只有属于同一个社区频道才能进入
+You can only place 1 domino water balloon. Already placed.	参与多米诺每人只能放１个泡泡，您已参与！
+You can purchase the same item from the shop.	喜欢这道具吗？现在商店正在热卖中…
+You can't beat a ghost	幽灵无敌
+You can't escape!	想逃?没门
+You can't even beat those gluttons!!	连那帮吃货都打不过?
+You can't go to the flower garden!	泡泡圣斗士有什么了不起?敢到这里撒野?
+You can't hit the princess!!	谁敢动我们公主?
+You can't leave this house!	谁也不要惹我
+You can't stop ghosts	幽灵是挡不住的
+You can't take the treasure!!	谁也不许动一针一线
+You can't trap me!	你是关不住我的
+You cannot change your couple ring because you are already coupled with the same ring. To couple with a different user, go to My Page > My Info > Couple and break up first, then purchase a new couple ring.	您已经拥有这个戒指
+You cannot chat for the next 30 seconds.	30秒内无法聊天。\n\n
+You cannot escape!	你们是逃不掉的
+You cannot ignore your own messages.	无法拒绝自己的信息。\n\n
+You cannot invite yourself.	无法邀请自己。\n\n
+You cannot kick users in a 1v1 match.	1:1对战时无法让其他玩家强制退场！
+You cannot kick yourself.	自己无法让自己强制退出。\n\n
+You cannot purchase because you already own and have been gifted more than %d of this item.	此道具已拥有的和收到的礼物已超过%d个， 因此不能购买此道具。
+You cannot request yourself!	不能邀请自己
+You cannot send a couple request to yourself.	不能向自己求婚
+You cannot send a gift to yourself.	给自己无法赠送礼物。
+You cannot send a message to yourself.	不能给自己发消息
+You cannot send any more kick requests.	您无法再强制其退出。
+You cannot whisper to yourself.	不能和自己说悄悄话。\n\n
+You chased me all the way here, you fools!!	追到这里来了~
+You dare challenge me	小心点啊
+You dare enter my restaurant?	敢到我的地盘跟我抢食…
+You didn't even feed us	也没请客
+You do not have permission for this command. Please check your permissions.	您没有使用权限,请重新输入
+You do not have permission to create rooms.	没有开设房间的权利。
+You don't have a Couple Ring item. Please purchase one from the shop.	没有结结婚戒指指.请在商店购买
+You don't have a hammer to crack eggs. Please purchase one from the shop.	锤子已经用光了，请先到商店中去购买！
+You don't have a sweetie yet~ Write a great introduction here.	现在你没有伴侣。请在这里填个人介绍吧！
+You don't have a sweetie.	没有伴侣
+You don't have any baskets. Play games to collect egg baskets first.	魔力彩蛋已经用光了，请先到游戏中去收集！
+You don't have to go home.	什么圣斗士?小臭虫吧!
+You fool!	笨蛋!
+You fool! Attack more!	蠢货!!再攻击啊
+You fool!!	泡泡圣斗士确实有两下子!
+You fools! Chase after them!	来啊!把这帮家伙赶走
+You got caught?	打跑了吗?
+You got our teammate?!	我们的人?
+You got through the Three Admirals?	突破了三人的怒意,闯过来的?
+You gotta be careful!	莫非出现宇宙大幻觉了?
+You gotta be careful!!	海皇大人,泡泡圣斗士打进来啦...x?x
+You gotta do better. What are you doing?	干的漂亮
+You gotta do better~ Hey~! T_T	给我好好干T_T
+You guys are a one-hit KO.	你们算什么呀
+You guys are so annoying	烦死你们了
+You guys can fight for me~!	好啦好啦我替你们出头
+You guys need more practice~	脚不听使唤
+You guys! You're in the way!	不要挡着我,笨蛋
+You guys, help me out	给我打打下手
+You guys, help us out!	一定要帮我们啊
+You have a Premium Pass! Here are %d %s for today!	您因为拥有至尊通行证， 今天赠送%d个 %s!
+You have already received today's free item bonus. Come back tomorrow~	您今天已经领取过免费礼物了，欢迎明天再来
+You have already sent a couple request to %s.	已向 %s求婚
+You have been banned from chatting for %d days due to violations including fraud, obscene content, or profanity. Repeated violations may result in all game IDs under your Nexon account being restricted.	因玩家发布欺诈、淫乱、脏话等信息，禁言 %d天
+You have been banned from connecting for %d days due to violations including fraud, obscene content, or profanity.	因玩家发布欺诈、淫乱、脏话等信息，锁定账号 %d天
+You have been kicked from the room.	由于10秒内没有开始游戏，所以自动退出原游戏房间。请选择其他的房间继续游戏。
+You have been permanently banned from chatting due to violations including fraud, obscene content, or profanity.	因玩家发布欺诈、淫乱、脏话等信息，被禁言中
+You have been permanently banned from connecting due to violations including fraud, obscene content, or profanity.	因玩家发布欺诈、淫乱、脏话等信息，被封号中
+You have been removed for being idle too long. Please try another room.	在一段长时间没有进行游戏，自动退场.\n\n 请在其他房间中玩游戏.\n\n
+You have been removed for not starting the game. Please try another room.	因为没有开始游戏，所以自动退出原游戏房间。请选择其他的房间继续游戏。\n\n\n\n
+You have broken up with %s.	与%s离婚了.
+You have exceeded the monthly gift limit.	已超过了一个月期间赠送的限度额。
+You have left the guild. You are not currently in any guild.	您已经退出原属家族,现在是自由身份,没有加入任何家族!
+You have no idea!	不知道怕了
+You have sent a friend request to %s. You will be added once %s accepts.	请求%s成为您的好友 %s 同意对方加入您的好友！
+You have successfully joined the '%s' guild! Check the Guild tab on My Page.	您已加入'%s' 家族! 可以到我的信息,我的家族内确认!
+You hit me, didn't you!	是你打的?
+You ignored the warning	根本就无视警告
+You killed another ghost~	格格格
+You little punk!	你这讨厌的家伙
+You little!	这家伙！
+You little!!	这个混蛋!!
+You made even me come out!	连我都得出马
+You made it here, so my minions must have failed!	海皇大人救我!
+You meanies!	这帮坏蛋
+You meanies...	坏蛋…
+You must be Level %d or above to enter this channel.	 等级 %d 以上才能连接
+You must select your character to enter the shop. Your character can be changed in My Page > Edit Info.	要进入商店请选择"我最爱的角色"，我最爱的角色可以在"我的衣橱"中"修改个人资料"中进行变更。
+You naive fools~~	都给我去死吧
+You need a Couple Ring item to send a couple request.*Purchase one from the shop.	要申请伴侣得使用伴侣戒指.*伴侣戒指可在商店里购买.
+You need a Speaker to use Color Pencils.*Speakers can be purchased from the shop.	要使用彩笔需要小喇叭.*小喇叭可在商店购买.
+You need to include a reason too~!	请输入制裁事由
+You never know where they'll come from	不知道从哪里冒出来
+You obtained an egg basket! Check the Mystery Egg Smash section in the shop!	恭喜您获得了魔力彩蛋，等什么呢？还不快到的魔力彩蛋页面去试试运气！
+You punks!	这帮家伙
+You punks! I'm talking here!!	混蛋!我不是正在讲呢吗?
+You punks! Wanna keep coming at me??	你们这些家伙敢惹我?后果很严重
+You punks, get over here right now!	混蛋,马上给我过来啊
+You really are strong!	果然很强！
+You really like food, huh	想吃吗?
+You really suck	真烂!
+You really suck!	真差劲
+You rotten punks!	可恶的家伙~
+You scared?	不要淘气呀
+You sent a couple request to %s. Changing channels or logging out will cancel the request. Cancel?	向 %s 求婚. 退出频道或退出游戏就取消申请，要取消吗?
+You stay right there!	在那里等着我
+You still can't leave	好强的小宇宙啊
+You still wanna bully me?~	天马流星？我让你成为真正的流星
+You there, stop right there!	蓝妹妹也一直是我们心目中的女神!
+You think I'm the last one?!	我来结果了你吧
+You think one hit will make us let you go?	我的小宇宙爆发也很强的
+You useless wizard	这帮蠢货
+You were disconnected due to unstable network conditions. Please try again later.	因网络不稳定, 您已经和服务器断开连接。
+You were kicked by Kick Reflect. If you have a Super Room Leader item, you can kick users with Kick Reflect. Check the shop!	您已被强制退出房间。\n\n如果您不想被强制退出，您到可以到商店购买"超级房主"道具就可以。
+You were kicked by the Super Room Leader. Please join another game.	您已被超级房主强制退出. 请选择其他的房间。
+You were kicked by the room leader. Please join another game.	您已被强制退出该房间，请选择其他的房间。
+You won't escape, lol	逃不掉了55555
+You won't make it to the next stage!	你过不了这关,不要想下一关了
+You! I'll get you later!	你给我等着
+You! Kneel before me at once!	你们还不向我臣服吗?
+You! One day of leave!	呼!度假去了
+You! Stay right there!	小子，有种在那里等我
+You! Unfreeze me!	帮我把冰化掉
+You'd be wise to surrender now	赶紧投降吧
+You'd better be careful!!!	小心驶的万年船
+You'd better be careful.	小心为妙
+You'd better be careful.. the Shadow Squad is invincible.	还是小心点~鬼影杀不死的
+You'd better be on guard.	气氛紧张点好!
+You'll be in big trouble!	出大事啦
+You'll die if I spot you!	被我看到就死定了
+You'll die if you get hit~	莫非这就是传说中的天马流星?
+You'll never get the cave treasure!	谁也不许动一针一线
+You'll pay for this!	泡泡圣斗士=臭虫
+You'll pay for this~	等着瞧~
+You'll regret it	你会触大霉的
+You're a ghost now too...	你现在是幽灵1号了
+You're a million years too early.	百万年还远着呢
+You're a strong human...	好强啊~~~
+You're all dead!!	你们都死定了！
+You're already dead!	你早该死了
+You're back?	寒冷的极光
+You're dead!	要死啦~
+You're going to hell!	地狱之行还愉快吗?
+You're gonna get in trouble!	好怕怕~
+You're here! We've been waiting!	来啦'!给我等着
+You're in big trouble now	你给我等着,跟你说你惨了
+You're in big trouble now!	你死定了
+You're in the way! Move!	别挡着我,让开
+You're just Giant Octopus's lackeys!!	跟本大王在一起不会输
+You're lying	想吃好好干啊
+You're next	下一个就轮到你了
+You're not even worth fighting.	跟他打?没有价值
+You're not getting a single piece!	一个都不给你
+You're nothing against the Giant Octopus!	被章鱼大王抓到，你们就完蛋了！
+You're nothing special either, heh heh	你真菜~
+You've fallen into our trap	有陷...阱…
+You've got a long way to go~ :p	前路茫茫:p
+You... you rascals!!	敢这么对我,你惨了!
+Your Majesty!!!!	大王!!!
+Your Majesty, be careful~	陛下,小心~
+Your Majesty, they're too strong	陛下,我们太强了
+Your Majesty~ what do we do?	陛下,怎么办啊?
+Your bag is full and you cannot break eggs. Please purchase an item bag first.	道具包空间已满，无法进行砸蛋，请先去购买道具包！
+Your bag is full. Cannot purchase the item.	道具包已满,无法正常购买
+Your birthday contains inappropriate words. Please edit it.	昵称中有不适当单词，请做修改！
+Your couple message contains inappropriate words. Please edit it.	伴侣留言中有不适当单词，请做修改！
+Your finishing moves are weak!	还是离这些恐怖的泡泡圣斗士远点吧
+Your guild application has expired after 7 days without approval from the Guild Master.	您提出的家族申请已超过7天,但还没有收到任何回复! 系统已经取消您的申请记录!
+Your ignore list is full.	可使用的拒绝私聊用户名单已满。\n\n
+Your inbox is full. Please delete some messages.	信息箱已满.请删除信息.
+Your item bag is full. Cannot use Lucky Spin.	因道具包已满，无法开始游戏
+Your item bag is full. Purchase an item bag?	您的道具包已满，无法再继续购买道具。您可以购买道具包增加容量，是否要购买道具包？
+Your life's worthless anyway~	反正烂命一条~
+Your message contains profanity. Please use appropriate language.	无法使用禁用词汇
+Your nickname contains inappropriate words. Please edit it.	游戏账号中有不适当单词，请做修改！
+Your pain is my pain!	你们死了我也不好过啊
+Your profile message contains inappropriate words. Please edit it.	自我介绍里有不适当单词，请做修改！
+Yowch~!	吭~
+Zoom~ zoom~ let's go~!	嗖嗖飞快地跑
+Zzz...	呼呼~
+[%s] can no longer continue playing.	[%s] 无法继续进行游戏。
+[%s] has been successfully listed!	商品[%s]已成功上传到商店
+[150 characters max]	[150字内]
+[24 characters max]	[24字内]
+[CON] %s has requested to be your friend. Do you accept?	[系统消息]%s请求加您为好友，是否通过验证？
+[CON] Messenger server connection lost.	[系统消息] MSN服务器连接中断
+[Ladder Grade %d %s has joined.]	[段位%d段 %s参加]\n\n
+[Notice] Participants in illegal chat rooms may also face penalties. This room will now be closed.	[系统消息]请注意：房间涉及非法内容，不仅房主，房间内的其他人也会受到制裁。房间将被锁定\n\n\n\n
+[Notice] This room is being closed due to activities that disrupt in-game order.	[系统消息]您的房间防碍游戏秩序，房间将被锁定\n\n
+[Notice] This room is being closed due to illegal activities related to fraud or hacking. Please note that item/money duplication is not possible.	[系统消息]您的房间涉及欺诈、?客等非法内容，房间将被锁定\n\n
+[con] %s	[系统消息] %s
+or above	以上
+or below	以下
+received!	受到了。
